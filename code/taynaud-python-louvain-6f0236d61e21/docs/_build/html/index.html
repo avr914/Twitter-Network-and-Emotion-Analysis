@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Community detection for NetworkX’s documentation &mdash; Community detection for NetworkX 2 documentation</title>
+    
+    <link rel="stylesheet" href="_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '2',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="Community detection for NetworkX 2 documentation" href="#" />
+    <link rel="next" title="community API" href="api.html" />
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{ 
+var pageTracker = _gat._getTracker("UA-7251741-1");
+pageTracker._trackPageview();
+} catch(err) {} 
+</script>
+
+  </head>
+  <body role="document">
+
+<div style="background-color: white; text-align: left; padding: 10px 10px 15px 15px">
+<a href="#">Community detection</a>
+</div>
+
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="api.html" title="community API"
+             accesskey="N">next</a> |</li>
+        <li><a href="#">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="api.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Community detection for NetworkX&#8217;s documentation</a></li>
+<li><a class="reference internal" href="#example">Example :</a><ul>
+<li><a class="reference internal" href="#as-a-classical-software">As a classical software :</a></li>
+<li><a class="reference internal" href="#as-python-module">As python module :</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#changelog">Changelog :</a></li>
+<li><a class="reference internal" href="#license">License :</a></li>
+<li><a class="reference internal" href="#indices-and-tables">Indices and tables</a></li>
+</ul>
+
+  <h4>Next topic</h4>
+  <p class="topless"><a href="api.html"
+                        title="next chapter">community API</a></p>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="api.html">community API</a><ul class="simple">
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="api.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+</div>
+<div class="section" id="community-detection-for-networkx-s-documentation">
+<h1>Community detection for NetworkX&#8217;s documentation<a class="headerlink" href="#community-detection-for-networkx-s-documentation" title="Permalink to this headline">¶</a></h1>
+<p>This module implements community detection.</p>
+<p>It uses the louvain method described in
+Fast unfolding of communities in large networks,
+Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre,
+Journal of Statistical Mechanics: Theory and Experiment 2008(10), P10008 (12pp)</p>
+<p>It depends on Networkx to handle graph operations :
+<a class="reference external" href="http://networkx.lanl.gov/">http://networkx.lanl.gov/</a></p>
+<p>The program can be found in a repository where you can also report bugs :</p>
+<a href="https://bitbucket.org/taynaud/python-louvain">https://bitbucket.org/taynaud/python-louvain</a></div>
+<div class="section" id="example">
+<h1>Example :<a class="headerlink" href="#example" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="as-a-classical-software">
+<h2>As a classical software :<a class="headerlink" href="#as-a-classical-software" title="Permalink to this headline">¶</a></h2>
+<p>You should consider using the cpp version at
+<a class="reference external" href="http://findcommunities.googlepages.com/">http://findcommunities.googlepages.com/</a> !</p>
+<p>./community.py file.bin &gt; tree</p>
+<p>where file.bin is a binary graph as generated by the convert utility of the cpp
+version.</p>
+<p>You can after that use the generated file with the hierarchy utility of the cpp
+version.
+Note that the program does not make much verifications about the arguments,
+and is expecting a friendly use.</p>
+</div>
+<div class="section" id="as-python-module">
+<h2>As python module :<a class="headerlink" href="#as-python-module" title="Permalink to this headline">¶</a></h2>
+<div class="highlight-python"><div class="highlight"><pre><span class="kn">import</span> <span class="nn">community</span>
+<span class="kn">import</span> <span class="nn">networkx</span> <span class="kn">as</span> <span class="nn">nx</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">plt</span>
+
+<span class="c">#better with karate_graph() as defined in networkx example.</span>
+<span class="c">#erdos renyi don&#39;t have true community structure</span>
+<span class="n">G</span> <span class="o">=</span> <span class="n">nx</span><span class="o">.</span><span class="n">erdos_renyi_graph</span><span class="p">(</span><span class="mi">30</span><span class="p">,</span> <span class="mf">0.05</span><span class="p">)</span>
+
+<span class="c">#first compute the best partition</span>
+<span class="n">partition</span> <span class="o">=</span> <span class="n">community</span><span class="o">.</span><span class="n">best_partition</span><span class="p">(</span><span class="n">G</span><span class="p">)</span>
+
+<span class="c">#drawing</span>
+<span class="n">size</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="nb">set</span><span class="p">(</span><span class="n">partition</span><span class="o">.</span><span class="n">values</span><span class="p">())))</span>
+<span class="n">pos</span> <span class="o">=</span> <span class="n">nx</span><span class="o">.</span><span class="n">spring_layout</span><span class="p">(</span><span class="n">G</span><span class="p">)</span>
+<span class="n">count</span> <span class="o">=</span> <span class="mf">0.</span>
+<span class="k">for</span> <span class="n">com</span> <span class="ow">in</span> <span class="nb">set</span><span class="p">(</span><span class="n">partition</span><span class="o">.</span><span class="n">values</span><span class="p">())</span> <span class="p">:</span>
+    <span class="n">count</span> <span class="o">=</span> <span class="n">count</span> <span class="o">+</span> <span class="mf">1.</span>
+    <span class="n">list_nodes</span> <span class="o">=</span> <span class="p">[</span><span class="n">nodes</span> <span class="k">for</span> <span class="n">nodes</span> <span class="ow">in</span> <span class="n">partition</span><span class="o">.</span><span class="n">keys</span><span class="p">()</span>
+                                <span class="k">if</span> <span class="n">partition</span><span class="p">[</span><span class="n">nodes</span><span class="p">]</span> <span class="o">==</span> <span class="n">com</span><span class="p">]</span>
+    <span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_nodes</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">list_nodes</span><span class="p">,</span> <span class="n">node_size</span> <span class="o">=</span> <span class="mi">20</span><span class="p">,</span>
+                                <span class="n">node_color</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">count</span> <span class="o">/</span> <span class="n">size</span><span class="p">))</span>
+
+
+<span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_edges</span><span class="p">(</span><span class="n">G</span><span class="p">,</span><span class="n">pos</span><span class="p">,</span> <span class="n">alpha</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="changelog">
+<h1>Changelog :<a class="headerlink" href="#changelog" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li>04/21/2011 : modificatios to use networkx like documentation and use of test.</li>
+<li>02/22/2011 : correction of a bug regarding edge weights</li>
+<li>01/14/2010 : modification to use networkx 1.01 graph api and adding the possibility to start the algorithm with a given partition</li>
+<li>04/10/2009 : increase of the speed of the detection by caching node degrees</li>
+</ul>
+</div>
+<div class="section" id="license">
+<h1>License :<a class="headerlink" href="#license" title="Permalink to this headline">¶</a></h1>
+Copyright (c) 2009, Thomas Aynaud &lt;<a href="mailto:thomas.aynaud@lip6.fr">thomas.aynaud@lip6.fr</a>&gt;<br>
+All rights reserved.<br><br>
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:<br><br>
+
+* Redistributions of source code must retain the above copyright notice,
+this list of conditions and the following disclaimer.<br><br>
+
+* Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.<br><br>
+
+* Neither the name of the NetworkX Developers nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.<br><br><br>
+
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</div>
+<div class="section" id="indices-and-tables">
+<h1>Indices and tables<a class="headerlink" href="#indices-and-tables" title="Permalink to this headline">¶</a></h1>
+<ul class="simple">
+<li><a class="reference internal" href="genindex.html"><span>Index</span></a></li>
+<li><a class="reference internal" href="py-modindex.html"><span>Module Index</span></a></li>
+<li><a class="reference internal" href="search.html"><span>Search Page</span></a></li>
+</ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="py-modindex.html" title="Python Module Index"
+             >modules</a> |</li>
+        <li class="right" >
+          <a href="api.html" title="community API"
+             >next</a> |</li>
+        <li><a href="#">home</a>|&nbsp;</li>
+        <li><a href="search.html">search</a>|&nbsp;</li>
+       <li><a href="api.html">documentation </a> &raquo;</li>
+ 
+      </ul>
+    </div>
+
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2010, Thomas Aynaud.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.1.
+    </div>
+<div class="footer">This page uses <a href="http://analytics.google.com/">
+Google Analytics</a> to collect statistics. You can disable it by blocking
+the JavaScript coming from www.google-analytics.com.
+<script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ?
+              'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+  })();
+</script>
+</div>
+
+  </body>
+</html>

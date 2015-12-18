@@ -1,0 +1,60 @@
+||December 6th Update/Brainstorm ||
+
+|| December 4th Update/Brainstorm ||
+-Finding most rate-limit evasive way to scrape twitter
+-use user properties to take json of all of major account_followers
+-2 calls - 1 for user props, 1 for user.followers_ids
+-user_lookup for results - cost is 2 calls per usr - on order of 2*40000 calls
+-
+
+
+Notes on Community Detection Algorithms:
+- Label propagation - works quickly (linear time) - completed
+	- type: density
+	- Warning - not compatible with directed graphs
+	- solution: adapt input data/processing so that connected nodes follow each other, thereby making a undirected graph
+- Newman-Girvan community detection - works slowly (n^3 polynomial time) - in-progress
+	- type: link centrality
+	- compatible with directed graphs
+	- compatible with multiple components
+	- fall-back if not completed: igraph implementation
+- Map equation - decent runtime (n) - to do
+	- type: compression
+	- compatible with directed graphs, weighted graphs
+
+- Let's compare results of three approaches and analyze networks
+
+
+
+|| December 2nd Update ||
+- Snowball Sample - Follower - Done
+- Snowball Sample - Friend - In-Progress
+- UIUC Sample - In-Progress
+- Label Propagation - Beta Completed
+- Examine process_graph.py for quality of output - ToDoLaterTonight (in-progress soon)
+- Major To DOs:
+	- Decide on analytics on detected communities
+	- Look into [paper] twitter_specific_community_detection.pdf
+	- Produce graphs for final frontend
+	- Modify visualization for communities
+	- Implement Wakita-Tsurumi, Clauset-Newman-Moore, or Newman-Girvan algorithm and COMPARE results with Label Propagation
+	- Test label propagation method against well-known data sets
+	- Examine community metrics - conductance, clustering coefficient, idea tree, interaction sentiment
+	- Examine means of detecting friends on twitter - user.followers(), user.friends(), replies, retweets, favorites, mentions[*]
+	- Examine using graph-trimming to produce a clearer graph of only key friends
+
+|| December 1st Update ||
+- Scrape twitter for network of UIUC-related or UIUC attending twitter accounts
+- Assemble this data into a network data structure
+- Perform a community detection analysis using label propagation
+- 
+
+Original Post:
+Network Metrics:
+- Mentions
+- Retweets
+- Follows
+- Replies
+- Closure-lines
+
+Consider optimal weighting or scoring of links
