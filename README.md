@@ -1,14 +1,21 @@
-# CS196-Project---Twitter-Network-Analysis
-WORK IN PROGRESS
-
--To CS 196 Course Staff: I wasn't sure what to include, so I included everything, except for website files. If necessary, I will ask Ai to add them, and edit/update the README approriately.
-
-Quick Notes:
--Most of the code I wrote is in the community detection folder
--The folder labeled infomap is the program we used from the mapequation website. If necessary, I will add a text file enumerating and explaining all my usages of the map equation program.
--Much of the code was not explicitly designed for use by other users or for release of any sort; the project was more of a discovery project to see what kind of interesting things we could accomplish or discover, ie. that Naren is very active with other ACM users on twitter, or that the ACM twitter user community is mostly made up of student accounts, and official Illinois group or club-based accounts.
--The label propagation algorithm in the zachary's karate club folder was entirely implemented by us based off the corresponding research paper in the research folder
--While we read many of the papers in the research folder, only a few were explicity drawn from in the final project, ie. the map equation paper, the label propagation paper, and the sentiment analysis via sentiment dictionary paper (aka the AFINN project)
+Twitter Network and Emotion Analysis
+===================
 
 
-If you have any questions, feel free to shoot me an email at arvindvjkumar@gmail.com
+This is my personal research project into Twitter that I completed as part of CS 196. My research was more of personal exploration into the cool data trends you could discover by processing Twitter data. Most of the work is split into two subjects: Emotion/Sentiment analysis, and Community Detection.
+
+----------
+
+Emotion/Sentiment Analysis
+-------------
+
+### Topic Introduction (aka the boring stuff)
+When I first started looking into Twitter, one of my first interests was seeing if there was a way to determine whether a tweet most strongly represents one emotion. Classifying emotions actually involves a fair amount of difficulty simply due to the ambiguity by which you classify emotions. In fact, emotion analysis of text is by and large a very poorly explored topic. There are not many companies, products or research looking into this field from a computation point of view. Rather, sentiment analysis is quite popular. Products like SentiStrength, Alchemy API, and NLTK have established and well functioning modules for judging whether some small corpus or sample of a corpus express positive or negative sentiment. So I began my research here.
+
+#### Sentiment Analysis
+In essence, sentiment analysis is usually modeled as a 1-D problem where the sentiment is expressed on one axis going negative to positive, where a score of 0 is roughly neutral or ambiguous. In sentiment analysis, this score is termed the *valence* score. There are a few approaches to solving this problem.
+
+##### Machine Learning
+The most popular products such as SentiStrength and AlchemyAPI use machine learning to solve this problem. When I was working on this project, I didn't have any exposure with machine learning, so I mainly used these to benchmark my approaches, rather than attempt to reimplement or use my own implementation of a learning algorithm for them.
+##### Word Dictionary
+Some papers describe determining sentiment using a word dictionary style approach. Most of these papers based their work off of formal ANEW-style dictionaries. One of the more intriguing ones was the AFINN project, which was a sentiment dictionary project created for frequently used Twitter terms that performed fairly well in the domain of tweets. 
