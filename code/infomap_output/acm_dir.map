@@ -1,0 +1,5316 @@
+# modules: 541
+# modulelinks: 2866
+# nodes: 1900
+# links: 10107
+# codelength: 9.68869
+*Directed
+*Modules 541
+1 "U: iamevashih,..." 0.0947777 0.225708
+2 "U: TEDxUIUC,..." 0.0615747 0.0420851
+3 "U: TheOfficialACM,..." 0.0564627 0.0305043
+4 "U: UIResearchPark,..." 0.0346198 0.000187347
+5 "U: eceILLINOIS,..." 0.0333987 0.00148964
+6 "U: TheEconomist,..." 0.0291459 0.00192188
+7 "U: IllinoisCS,..." 0.0284101 0
+8 "U: elonmusk,..." 0.0277712 -2.1413e-18
+9 "U: TEDTalks,..." 0.0258626 0.00282782
+10 "U: DaeyunShin,..." 0.0257602 0.00379177
+11 "U: GradLifeIL,..." 0.0232985 0.000872623
+12 "U: Snowden,..." 0.0194082 0.00048034
+13 "U: actuallyaswin,..." 0.0190413 0.00156286
+14 "U: iamdevloper,..." 0.017036 0.00526847
+15 "U: MLHacks,..." 0.0165857 -1.35525e-19
+16 "U: IllinoisWCS,..." 0.0145503 0.0956729
+17 "U: acmreflections,..." 0.0141824 0.00137472
+18 "U: WSJ,..." 0.0131165 0.000281021
+19 "U: laparisa,..." 0.0116619 0.00244617
+20 "U: radiantmoondust,..." 0.0113664 0.000354616
+21 "U: YouTube,..." 0.0100628 0.000778983
+22 "U: AP,..." 0.00969578 0.00105948
+23 "U: jefferickson,..." 0.00943199 0.00106021
+24 "U: ycombinator,..." 0.00941555 0.00078248
+25 "U: MSFTResearch,..." 0.00899505 0.000281021
+26 "U: CNN,..." 0.0086085 0.00168613
+27 "U: HackIllinois,..." 0.00842112 0.000374695
+28 "U: sama,..." 0.0075557 0
+29 "U: sequoia,..." 0.00663384 0.00277482
+30 "U: taylorswift13,..." 0.00640152 0.000468368
+31 "U: codeschool,..." 0.00608132 0.000749389
+32 "U: IllinoisISE,..." 0.00605354 0.0426546
+33 "U: NASA,..." 0.00560422 0.000281021
+34 "U: UIAA,..." 0.00544505 9.36737e-05
+35 "U: TwitterOSS,..." 0.00531864 0.000100974
+36 "U: instagram,..." 0.00495799 0.000281021
+37 "U: MIT,..." 0.00457675 -8.13152e-20
+38 "U: vine,..." 0.00421533 8.13152e-20
+39 "U: NHLBlackhawks,..." 0.00393055 0.000400099
+40 "U: github,..." 0.00385759 0
+41 "U: EmWatson,..." 0.00342716 0.000187347
+42 "U: jtimberlake,..." 0.00337665 0
+43 "U: hortonworks,..." 0.00330692 0.0300494
+44 "U: matthewdierker,..." 0.00318717 0
+45 "U: askundergrad,..." 0.0031796 0.000187347
+46 "U: POTUS,..." 0.00314536 0
+47 "U: yisongyue,..." 0.00310681 0.0308735
+48 "U: TheDailyIllini,..." 0.00298657 0
+49 "U: googledevs,..." 0.00298348 0
+50 "U: mashabletech,..." 0.00283945 0
+51 "U: xcrushhh,..." 0.00271937 0
+52 "U: SpaceX,..." 0.00271353 0
+53 "U: Android,..." 0.0025135 0
+54 "U: IllinoisOnBTN,..." 0.00238287 0.0167225
+55 "U: intel,..." 0.00220033 9.36737e-05
+56 "U: acmoffice,..." 0.00216627 0
+57 "U: skamille,..." 0.00207309 0.0230098
+58 "U: NCSAatIllinois,..." 0.00197286 0
+59 "U: techreview,..." 0.00195656 0
+60 "U: IlliniAlert,..." 0.00193692 0
+61 "U: AndroidDev,..." 0.00183074 0
+62 "U: googleanalytics,..." 0.00170353 2.71051e-20
+63 "U: csgso,..." 0.00170276 0
+64 "U: TECenter,..." 0.00163723 0
+65 "U: ILinnovations,..." 0.00163251 0
+66 "U: TeslaMotors,..." 0.00161766 0
+67 "U: USCERT_gov,..." 0.00160606 0.00112408
+68 "U: billclinton,..." 0.00155304 0
+69 "U: BeckmanInst,..." 0.00155092 0
+70 "U: lifehacker,..." 0.00154891 0
+71 "U: marissamayer,..." 0.00154208 0
+72 "U: koomen,..." 0.00152754 0.0212476
+73 "U: uiucbusiness,..." 0.00151925 0
+74 "U: engadget,..." 0.00147017 0
+75 "U: iamjohnoliver,..." 0.00146296 0
+76 "U: satyanadella,..." 0.00145749 0
+77 "U: jimmyfallon,..." 0.00143593 0
+78 "U: SwiftOnSecurity,..." 0.00143325 0
+79 "U: TwitterU,..." 0.00137808 0
+80 "U: zhangyaxing,..." 0.00136173 0.00547136
+81 "U: CSL_Illinois,..." 0.00136052 0
+82 "U: StephenAtHome,..." 0.00135837 0
+83 "U: verge,..." 0.00135764 0
+84 "U: HillaryClinton,..." 0.00126742 0
+85 "U: cityofurbana,..." 0.00125442 0
+86 "U: NewsAtIllinois,..." 0.00122823 0
+87 "U: digitalocean,..." 0.00119417 0
+88 "U: ConanOBrien,..." 0.00118139 0
+89 "U: IllinoisEOH,..." 0.00117777 0
+90 "U: graingerlibrary,..." 0.00117138 0
+91 "U: TheEllenShow,..." 0.00116665 0
+92 "U: twitterapi,..." 0.00115992 0
+93 "U: BillNye,..." 0.00115799 0
+94 "U: ActuallyNPH,..." 0.00110696 0
+95 "U: paulg,..." 0.00108453 0
+96 "U: jack,..." 0.00108276 0
+97 "U: MongoDB,..." 0.00106956 0
+98 "U: BBCBreaking,..." 0.0010494 0
+99 "U: mattmight,..." 0.00103558 0.000843063
+100 "U: GraingerBob,..." 0.000983482 0
+101 "U: JoinTheFlock,..." 0.000983379 0
+102 "U: jeffweiner,..." 0.000972208 0
+103 "U: VentureBeat,..." 0.000965456 0
+104 "U: gmail,..." 0.000965336 0
+105 "U: IlliniCampusRec,..." 0.000956616 0
+106 "U: UIUCQuotes,..." 0.000954612 0.00149878
+107 "U: visitchampaign,..." 0.000950322 0
+108 "U: Reuters,..." 0.000948391 0
+109 "U: anitaborg_org,..." 0.000887364 0
+110 "U: DonGerard,..." 0.000879235 0
+111 "U: WIREDScience,..." 0.000877206 0
+112 "U: BoilerMake1,..." 0.000876279 0
+113 "U: Square,..." 0.000873526 0
+114 "U: news_gazette,..." 0.00087016 0
+115 "U: arstechnica,..." 0.000869501 0
+116 "U: ILStuAffairs,..." 0.000857356 0
+117 "U: KAMillinois,..." 0.000856408 0
+118 "U: GoogleforWork,..." 0.000855038 0
+119 "U: IllinoisEngrIT,..." 0.000811873 0
+120 "U: BoredElonMusk,..." 0.000807126 0
+121 "U: dickc,..." 0.000798775 0
+122 "U: kumailn,..." 0.000785101 0
+123 "U: stevewoz,..." 0.000781788 0
+124 "U: GeorgeTakei,..." 0.000774248 0
+125 "U: NASA_Technology,..." 0.000772331 0
+126 "U: Pinterest,..." 0.000767733 0
+127 "U: urbanamarket,..." 0.000765141 0
+128 "U: design,..." 0.000762739 0
+129 "U: cloudera,..." 0.00076 0
+130 "U: Cisco,..." 0.000758364 0
+131 "U: FT,..." 0.000755301 0
+132 "U: CNBC,..." 0.000755175 0
+133 "U: HuffingtonPost,..." 0.000750987 0
+134 "U: chamila818,..." 0.000731746 0
+135 "U: illinisecure,..." 0.000722891 0
+136 "U: hackwithtrees,..." 0.000699314 0
+137 "U: GSElevator,..." 0.000697574 0
+138 "U: SupriyaHobbs,..." 0.000695889 0
+139 "U: AnnaKendrick47,..." 0.000694615 0
+140 "U: Jason,..." 0.000692485 0
+141 "U: CUVolunteer,..." 0.000691108 0.000843063
+142 "U: StartupLJackson,..." 0.000682307 0
+143 "U: Airbnb,..." 0.000680747 0
+144 "U: MKBHD,..." 0.000678313 0
+145 "U: reidhoffman,..." 0.000673425 0
+146 "U: andersoncooper,..." 0.000673011 0
+147 "U: ev,..." 0.000672995 0
+148 "U: Sethrogen,..." 0.000672604 0
+149 "U: LastWeekTonight,..." 0.000672383 0
+150 "U: Uber,..." 0.000672337 0
+151 "U: colaburbana,..." 0.000670662 0
+152 "U: amazon,..." 0.000669508 0
+153 "U: 500Startups,..." 0.000668566 0
+154 "U: espn,..." 0.000666343 0
+155 "U: ChampaignPubLib,..." 0.000664861 0
+156 "U: hackingdata,..." 0.000660003 0
+157 "U: maroon5,..." 0.000659751 0
+158 "U: narendramodi,..." 0.000657754 0
+159 "U: DanShenGou,..." 0.000624864 0
+160 "U: coreoslinux,..." 0.000617657 0
+161 "U: BriannaIfft,..." 0.000616702 0
+162 "U: TopScholars1,..." 0.000601724 0
+163 "U: wece_uiuc,..." 0.000600496 0
+164 "U: donaldglover,..." 0.000599214 0
+165 "U: Firebase,..." 0.000596771 0
+166 "U: jeresig,..." 0.000595219 0
+167 "U: thehacktech,..." 0.000595192 0
+168 "U: HackTheNorth,..." 0.00059514 0
+169 "U: SteveCarell,..." 0.000593814 0
+170 "U: IGBIllinois,..." 0.000593698 0
+171 "U: TwitterData,..." 0.000589546 0
+172 "U: IllinoisARI,..." 0.000588728 0
+173 "U: levie,..." 0.00058457 0
+174 "U: AppStore,..." 0.000584048 0
+175 "U: CyanogenMod,..." 0.0005825 0
+176 "U: SebastianThrun,..." 0.000582046 0
+177 "U: bitcmp,..." 0.000579242 0
+178 "U: IlliniCrushes,..." 0.000579217 0
+179 "U: hackerrank,..." 0.0005767 0
+180 "U: Yahoo,..." 0.000576086 0
+181 "U: adityagp,..." 0.000574828 0
+182 "U: ChromiumDev,..." 0.000573661 0
+183 "U: PHDcomics,..." 0.000573529 0
+184 "U: addyosmani,..." 0.000572246 0
+185 "U: PayPal,..." 0.000572165 0
+186 "U: RWW,..." 0.000569652 0
+187 "U: TheNextWeb,..." 0.000569652 0
+188 "U: BW,..." 0.000569292 0
+189 "U: KingJames,..." 0.000567117 0
+190 "U: businessinsider,..." 0.000566982 0
+191 "U: swecrs,..." 0.000564771 0.0128333
+192 "U: kaifulee,..." 0.000563711 0
+193 "U: kdnuggets,..." 0.000562923 0
+194 "U: Adele,..." 0.000562042 0
+195 "U: UnivHousing,..." 0.000506041 0
+196 "U: HackPrinceton,..." 0.000500225 0
+197 "U: TwitterSF,..." 0.000498682 0
+198 "U: NateSilver538,..." 0.000496541 0
+199 "U: JonahHill,..." 0.000495325 0
+200 "U: stewart,..." 0.000494157 0
+201 "U: Real_CSS_Tricks,..." 0.000493783 0
+202 "U: bfeld,..." 0.000492673 0
+203 "U: UrbanaPD,..." 0.000489257 0
+204 "U: GreylockVC,..." 0.000487113 0
+205 "U: AppleMusic,..." 0.000486892 0
+206 "U: DavidSacks,..." 0.000486868 0
+207 "U: meteorjs,..." 0.000485981 0
+208 "U: NewYorker,..." 0.00048562 0
+209 "U: TheTweetOfGod,..." 0.000485346 0
+210 "U: fb_engineering,..." 0.000484978 0
+211 "U: chambanamoms,..." 0.000484647 0
+212 "U: USFSCO,..." 0.00048428 0
+213 "U: JavaScriptDaily,..." 0.000484143 0
+214 "U: IllinoisLGBTRC,..." 0.000483644 0
+215 "U: Nike,..." 0.000482891 0
+216 "U: xdadevelopers,..." 0.000481942 0
+217 "U: oneplus,..." 0.000479854 0
+218 "U: HistoryInPics,..." 0.000479203 0
+219 "U: igrigorik,..." 0.000479177 0
+220 "U: AndrewYNg,..." 0.000478979 0
+221 "U: Snapchat,..." 0.000478903 0
+222 "U: mozilla,..." 0.000478325 0
+223 "U: stevenstrogatz,..." 0.000478008 0
+224 "U: AmericanExpress,..." 0.000477186 0
+225 "U: ubuntu,..." 0.000476858 0
+226 "U: AngelList,..." 0.000476242 0
+227 "U: Sony,..." 0.000474753 0
+228 "U: coldplay,..." 0.000474456 0
+229 "U: Support,..." 0.000474364 0
+230 "U: Drake,..." 0.000474345 0
+231 "U: WSJbusiness,..." 0.00047428 0
+232 "U: FinancialTimes,..." 0.00047428 0
+233 "U: SamsungMobile,..." 0.000473386 0
+234 "U: Spotify,..." 0.000473115 0
+235 "U: msuster,..." 0.000472975 0
+236 "U: EconEconomics,..." 0.000472325 0
+237 "U: guardiantech,..." 0.000472325 0
+238 "U: mashsocialmedia,..." 0.000472021 0
+239 "U: BrunoMars,..." 0.000471775 0
+240 "U: twittermobile,..." 0.000471378 0
+241 "U: reddit,..." 0.000471326 0
+242 "U: Chase,..." 0.000470767 0
+243 "U: Azure,..." 0.000470767 0
+244 "U: VisualStudio,..." 0.000469352 0.01377
+245 "U: RNTata2000,..." 0.000468368 0
+246 "U: _benng,..." 0.000424441 0
+247 "U: VirginAmerica,..." 0.000414997 0
+248 "U: terns,..." 0.000405008 0
+249 "U: funnyordie,..." 0.000403824 0
+250 "U: MSTEOffice,..." 0.000402998 0
+251 "U: jeremys,..." 0.000402424 0
+252 "U: UIarchives,..." 0.00039759 0
+253 "U: NUWildHacks,..." 0.000397077 0
+254 "U: IFTTT,..." 0.000396725 0
+255 "U: VT_Hacks,..." 0.000395719 0
+256 "U: karaswisher,..." 0.000394772 0
+257 "U: aproposeinc,..." 0.000394197 0
+258 "U: lessig,..." 0.000393976 0
+259 "U: jgebbia,..." 0.000393708 0
+260 "U: melindagates,..." 0.000393703 0
+261 "U: vkhosla,..." 0.000393031 0
+262 "U: TwitterForNews,..." 0.000393014 0
+263 "U: CNNMoney,..." 0.000392433 0
+264 "U: twilio,..." 0.00039232 0
+265 "U: GrubHub,..." 0.000392173 0
+266 "U: hackatbrown,..." 0.000391683 0
+267 "U: lazowska,..." 0.000391096 0
+268 "U: periscopeco,..." 0.000390891 0
+269 "U: npmjs,..." 0.000390469 0
+270 "U: nvidia,..." 0.000389569 0
+271 "U: alexbratton,..." 0.000389498 0
+272 "U: RonConway,..." 0.000387945 0
+273 "U: AtomEditor,..." 0.000387256 0
+274 "U: gatesfoundation,..." 0.000387238 0
+275 "U: MIT_CSAIL,..." 0.000387208 0
+276 "U: PhysicsIllinois,..." 0.000386743 0
+277 "U: defunkt,..." 0.000386349 0
+278 "U: tumblr,..." 0.000386303 0
+279 "U: JamesFrancoTV,..." 0.000386291 0
+280 "U: WCIA3,..." 0.000385869 0
+281 "U: mathematicsprof,..." 0.000385216 0
+282 "U: maanow,..." 0.000385216 0
+283 "U: urbanabusiness,..." 0.000384467 0
+284 "U: RichardDawkins,..." 0.00038438 0
+285 "U: dhh,..." 0.000384223 0
+286 "U: PopSci,..." 0.000383784 0
+287 "U: HRHWill,..." 0.000383761 0
+288 "U: VMware,..." 0.000383568 0
+289 "U: ThePSF,..." 0.000382887 0
+290 "U: adamdangelo,..." 0.000382655 0
+291 "U: fredwilson,..." 0.000382396 0
+292 "U: CERN,..." 0.000382383 0
+293 "U: UIMakerLab,..." 0.000381375 0
+294 "U: MicrosoftEdge,..." 0.000381079 0
+295 "U: IllinoisCS_ICPC,..." 0.000380853 0
+296 "U: golangweekly,..." 0.000380729 0
+297 "U: UrbanaFree,..." 0.000380681 0
+298 "U: rails,..." 0.000380606 0
+299 "U: digg,..." 0.00038058 0
+300 "U: TweetDeck,..." 0.000380504 0
+301 "U: kanyewest,..." 0.000380342 0
+302 "U: steam_games,..." 0.000380242 0
+303 "U: googlecodejam,..." 0.000380164 0
+304 "U: BrothersUofI,..." 0.000380143 0
+305 "U: w3c,..." 0.000379842 0
+306 "U: timberners_lee,..." 0.000379842 0
+307 "U: jure,..." 0.000379731 0
+308 "U: Oracle,..." 0.000379634 0
+309 "U: pcworld,..." 0.000379634 0
+310 "U: JapanHouseUofI,..." 0.000379326 0
+311 "U: strataconf,..." 0.000379301 0
+312 "U: iamsrk,..." 0.000379298 0
+313 "U: BryanCranston,..." 0.000379139 0
+314 "U: ChampaignPD,..." 0.000378833 0
+315 "U: karger,..." 0.00037876 0
+316 "U: PlayStation,..." 0.00037873 0
+317 "U: TripAdvisor,..." 0.00037873 0
+318 "U: MarketWatch,..." 0.000378652 0
+319 "U: usedgov,..." 0.000378652 0
+320 "U: educationweek,..." 0.000378652 0
+321 "U: NYTScience,..." 0.000378101 0
+322 "U: aaronpaul_8,..." 0.00037786 0
+323 "U: mxcl,..." 0.000377815 0
+324 "U: stanfordnlp,..." 0.000377815 0
+325 "U: jeb_,..." 0.000377622 0
+326 "U: linuxfoundation,..." 0.000377189 0
+327 "U: IBM,..." 0.000377122 0
+328 "U: Newsweek,..." 0.000375973 0
+329 "U: Samsungtweets,..." 0.000375677 0
+330 "U: imVkohli,..." 0.000374695 0
+331 "U: BBCBusiness,..." 0.000374695 0
+332 "U: FarOutAkhtar,..." 0.000374695 0
+333 "U: AvrilLavigne,..." 0.000374695 0
+334 "U: IBMbigdata,..." 0.000374695 0
+335 "U: jimmykimmel,..." 0.000374695 0
+336 "U: kobebryant,..." 0.000374695 0.00243552
+337 "U: UserhelpCS,..." 0.000329326 0
+338 "U: jmozen,..." 0.00032222 0
+339 "U: thenikiwells,..." 0.000315725 0
+340 "U: lordemusic,..." 0.000315028 0
+341 "U: _bsiddiqui,..." 0.00031455 0
+342 "U: nytgraphics,..." 0.00031455 0
+343 "U: abril_vela,..." 0.000314368 0
+344 "U: katespadeny,..." 0.000312076 0
+345 "U: DemetriMartin,..." 0.000311152 0
+346 "U: Etsy,..." 0.000310676 0
+347 "U: Benioff,..." 0.000308153 0
+348 "U: 18F,..." 0.0003078 0
+349 "U: twoffice,..." 0.000307378 0
+350 "U: LeagueOfLegends,..." 0.000307282 0
+351 "U: BigRedHacks,..." 0.000306175 0
+352 "U: clpwn,..." 0.000305591 0
+353 "U: UIEngrAlums,..." 0.000305317 0
+354 "U: BWiComputing,..." 0.000304937 0
+355 "U: learningcode,..." 0.000304937 0
+356 "U: Bountysource,..." 0.000304558 0
+357 "U: McGillHacks,..." 0.00030219 0
+358 "U: michaelarmbrust,..." 0.000301844 0
+359 "U: IEEEInstitute,..." 0.000301619 0
+360 "U: CollegeHumor,..." 0.000301231 0
+361 "U: NASANewHorizons,..." 0.000301097 0
+362 "U: ggreenwald,..." 0.000301096 0
+363 "U: madeon,..." 0.00030045 0
+364 "U: TIMEHealth,..." 0.00030035 0
+365 "U: dart_lang,..." 0.000299777 0
+366 "U: MaterialUp,..." 0.000299508 0
+367 "U: mgsiegler,..." 0.000299319 0
+368 "U: sherylsandberg,..." 0.00029914 0
+369 "U: nottjmiller,..." 0.000298928 0
+370 "U: GEResearch,..." 0.000298906 0
+371 "U: balajis,..." 0.000298438 0
+372 "U: SathvikaA,..." 0.000297968 0
+373 "U: rogerdickey,..." 0.000297923 0
+374 "U: onlyinsf,..." 0.000297465 0
+375 "U: akshaybajaj,..." 0.000297351 0
+376 "U: ProductHunt,..." 0.000296814 0
+377 "U: theHackNC,..." 0.000296796 0
+378 "U: html5doctor,..." 0.000296796 0
+379 "U: dailyjs,..." 0.000296796 0
+380 "U: edXOnline,..." 0.000296198 0
+381 "U: hackerleague,..." 0.000296183 0
+382 "U: ebaystudents,..." 0.000295906 0
+383 "U: ColIegeStudent,..." 0.000295889 0
+384 "U: AngularJS_News,..." 0.000295812 0
+385 "U: university,..." 0.000295651 0
+386 "U: recruiterbro,..." 0.000295211 0
+387 "U: CalHacks,..." 0.00029497 0
+388 "U: TalkAndroid,..." 0.00029469 0
+389 "U: RodneyDavis,..." 0.000294616 0
+390 "U: PearlHacks,..." 0.000294371 0
+391 "U: purduehackers,..." 0.000294053 0
+392 "U: aileenlee,..." 0.00029405 0
+393 "U: peteratmsr,..." 0.000294016 0
+394 "U: TwitterSports,..." 0.000293894 0
+395 "U: PhilzCoffee,..." 0.000293613 0
+396 "U: nickparsons,..." 0.000292691 0
+397 "U: LanaDelRey,..." 0.000292666 0
+398 "U: periscopetv,..." 0.000292576 0
+399 "U: overleaf,..." 0.000292576 0
+400 "U: ABC,..." 0.000291894 0
+401 "U: RottenTomatoes,..." 0.000291855 0
+402 "U: kubernetesio,..." 0.000291829 0
+403 "U: johnmaeda,..." 0.000291653 0
+404 "U: hitRECordJoe,..." 0.000291112 0
+405 "U: TheRealBuzz,..." 0.000291024 0
+406 "U: MitraIllinois,..." 0.000290808 0
+407 "U: TEDNews,..." 0.000290661 0
+408 "U: chancetherapper,..." 0.000290537 0
+409 "U: Chad_Hurley,..." 0.000290414 0
+410 "U: earnmyturns,..." 0.000290414 0
+411 "U: amazontechdeals,..." 0.000290095 0
+412 "U: writemegwrite,..." 0.000289994 0
+413 "U: ClintonFdn,..." 0.000289929 0
+414 "U: foundersfund,..." 0.00028985 0
+415 "U: ABC7Chicago,..." 0.00028937 0
+416 "U: GitHubEducation,..." 0.000289213 0
+417 "U: Adobe,..." 0.000289044 0
+418 "U: LauraFrerichs,..." 0.00028899 0
+419 "U: 88PKane,..." 0.000288584 0
+420 "U: twittercomms,..." 0.000288533 0
+421 "U: techemployee,..." 0.000288235 0
+422 "U: Uber_SF,..." 0.000288235 0
+423 "U: msbernst,..." 0.000288207 0
+424 "U: codeascraft,..." 0.000288144 0
+425 "U: GoogleMobile,..." 0.000288016 0
+426 "U: davidaxelrod,..." 0.000287965 0
+427 "U: preskill,..." 0.000287954 0
+428 "U: astonmartin,..." 0.000287701 0
+429 "U: JeremyClarkson,..." 0.000287701 0
+430 "U: jesslivingston,..." 0.000287668 0
+431 "U: danieltosh,..." 0.000287608 0
+432 "U: CarnegieMellon,..." 0.000287402 0
+433 "U: Amazing_Maps,..." 0.000287081 0
+434 "U: bjnovak,..." 0.00028699 0
+435 "U: jetbrains,..." 0.000286778 0
+436 "U: missmayim,..." 0.000286763 0
+437 "U: JohnLegere,..." 0.000286652 0
+438 "U: Wealthfront,..." 0.000286637 0
+439 "U: ifoundry,..." 0.000286633 0
+440 "U: nasahqphoto,..." 0.000286608 0
+441 "U: OpenStack,..." 0.000286393 0
+442 "U: KDTrey5,..." 0.000286227 0
+443 "U: TwitterDev,..." 0.000286132 0
+444 "U: stripe,..." 0.000285961 0
+445 "U: OracleDatabase,..." 0.00028596 0
+446 "U: hulu,..." 0.000285939 0
+447 "U: Xbox,..." 0.000285938 0
+448 "U: chicagoideas,..." 0.000285823 0
+449 "U: uiucisa,..." 0.000285575 0
+450 "U: mindykaling,..." 0.000285558 0
+451 "U: nixcraft,..." 0.000285554 0
+452 "U: aboutdotme,..." 0.000285238 0
+453 "U: LeetCode,..." 0.000285216 0
+454 "U: NVIDIAGeForce,..." 0.000285056 0
+455 "U: EMCcorp,..." 0.000285056 0
+456 "U: GreenDay,..." 0.000285056 0
+457 "U: YahooFinance,..." 0.000284978 0
+458 "U: mashbusiness,..." 0.000284978 0
+459 "U: ReutersBiz,..." 0.000284978 0
+460 "U: Photoshop,..." 0.000284978 0
+461 "U: bldwin,..." 0.000284978 0
+462 "U: femfreq,..." 0.000284978 0
+463 "U: UNICEF,..." 0.000284978 0
+464 "U: java,..." 0.000284978 0
+465 "U: edutopia,..." 0.000284978 0
+466 "U: ReactJSNews,..." 0.000284978 0
+467 "U: TeamCoco,..." 0.000284657 0
+468 "U: NVIDIATesla,..." 0.000284547 0
+469 "U: topcoder,..." 0.000284474 0
+470 "U: Flickr,..." 0.000284427 0
+471 "U: johnplattml,..." 0.000284427 0
+472 "U: waitbutwhy,..." 0.000284427 0
+473 "U: UIUCLinguistics,..." 0.000284131 0
+474 "U: UChicagoCareers,..." 0.000283729 0
+475 "U: googleearth,..." 0.000283449 0
+476 "U: CHANEL,..." 0.000283437 0
+477 "U: Flight,..." 0.000283059 0
+478 "U: Wolfram_Alpha,..." 0.000283059 0
+479 "U: andresiniesta8,..." 0.000282821 0
+480 "U: cesc4official,..." 0.000282821 0
+481 "U: KAKA,..." 0.00028269 0
+482 "U: ValaAfshar,..." 0.000282619 0
+483 "U: NPRextra,..." 0.000282566 0
+484 "U: ELLEmagazine,..." 0.000282466 0
+485 "U: MarsOrbiter,..." 0.000282436 0
+486 "U: ESPNcricinfo,..." 0.000282436 0
+487 "U: ApacheMesos,..." 0.000282436 0
+488 "U: IBMAnalytics,..." 0.000282003 0
+489 "U: applenws,..." 0.000281992 0
+490 "U: MITEECS,..." 0.000281992 0
+491 "U: ScienceNews,..." 0.000281902 0
+492 "U: Discovery,..." 0.000281902 0
+493 "U: googledrive,..." 0.000281021 0
+494 "U: Davos,..." 0.000281021 0
+495 "U: UNDP,..." 0.000281021 0
+496 "U: gattaca,..." 0.000281021 0
+497 "U: bhogleharsha,..." 0.000281021 0
+498 "U: AnupamPkher,..." 0.000281021 0
+499 "U: thekiranbedi,..." 0.000281021 0
+500 "U: juniorbachchan,..." 0.000281021 0
+501 "U: ChampionsLeague,..." 0.000281021 0
+502 "U: LuisSuarez9,..." 0.000281021 0
+503 "U: mckeay,..." 0.000281021 0
+504 "U: JLo,..." 0.000281021 0
+505 "U: LeapMotion,..." 0.000281021 0
+506 "U: onedirection,..." 0.000281021 0
+507 "U: AndroidAuth,..." 0.000281021 0
+508 "U: pitbull,..." 0.000281021 0
+509 "U: ogrisel,..." 0.000281021 0
+510 "U: meghanmarkle,..." 0.000281021 0
+511 "U: sardesairajdeep,..." 0.000281021 0
+512 "U: nytopinion,..." 0.000281021 0
+513 "U: ibmevents,..." 0.000281021 0
+514 "U: mengyalan,..." 0.000205911 0
+515 "U: Lightroom,..." 0.000191304 0
+516 "U: FCC,..." 0.000189576 0.00299756
+517 "U: StephenCurry30,..." 0.000189147 0
+518 "U: SIGpwny,..." 9.36737e-05 0.00317085
+519 "U: waltersn512,..." 9.36737e-05 0.0037329
+520 "U: owen_lyn,..." 0 0.0067445
+521 "U: Haloamyy,..." 0 0.00112408
+522 "U: vivalasiesta,..." 0 0.00121776
+523 "U: rajath26,..." 0 0.00234184
+524 "U: alexjcord,..." 0 0.000749389
+525 "U: ChrisC_Pearson,..." 0 0.00196715
+526 "U: 3RedTrading,..." 0 0.00824328
+527 "U: ParijatMazumdar,..." 0 0.00262286
+528 "U: IamSaleeq,..." 0 0.00608879
+529 "U: pr_aravind,..." 0 0.00215449
+530 "U: mrbinson,..." 0 0.00374695
+531 "U: ashishbijlani,..." 0 0.00543307
+532 "U: DeeMoe,..." 0 0.00224817
+533 "U: brajabapun,..." 0 0.0035596
+534 "U: Claudia_WW20,..." 0 0.00327858
+535 "U: BeyondTheSea7,..." 0 0.000281021
+536 "U: ColinGraber,..." 0 0.00608879
+537 "U: bradenehrat,..." 0 0.00224817
+538 "U: hrukalive,..." 0 0.000749389
+539 "U: PraneetSahgal,..." 0 0.00365327
+540 "U: Lindcap98,..." 0 0.00290388
+541 "U: robbenyang,..." 0 0.00365327
+*Nodes 1900
+1:1 "U: iamevashih" 0.00242212
+1:2 "U: sriv22_" 0.00220701
+1:3 "U: CJS7070" 0.00217139
+1:4 "U: colegleason" 0.00214027
+1:5 "U: kavvyg" 0.00199227
+1:6 "U: nickofbh" 0.00189119
+1:7 "U: sujaykhandekar" 0.00180999
+1:8 "U: lauralicari94" 0.00179642
+1:9 "U: DrinkTheSunnyD" 0.00167618
+1:10 "U: Milanocookies93" 0.00158187
+1:11 "U: spnktn" 0.00158067
+1:12 "U: rohan34" 0.00157424
+1:13 "U: vai_pahwa" 0.00152408
+1:14 "U: saurik" 0.00147524
+1:15 "U: jbensal" 0.0013818
+1:16 "U: kitjainsayswhat" 0.00136244
+1:17 "U: aravind_sun" 0.00133327
+1:18 "U: Brendan_J_Ryan" 0.00126657
+1:19 "U: iluvcompsci" 0.00124723
+1:20 "U: illinihackers" 0.00123013
+1:21 "U: HackMIT" 0.00118955
+1:22 "U: phamduchieu" 0.00115437
+1:23 "U: nellyspageli" 0.00113652
+1:24 "U: PennApps" 0.0011087
+1:25 "U: VishalDisawar" 0.00108557
+1:26 "U: greggyb" 0.00105461
+1:27 "U: Clare_Cat" 0.00105404
+1:28 "U: brady_salz" 0.00105005
+1:29 "U: myokimi" 0.00104338
+1:30 "U: daferna2" 0.00104104
+1:31 "U: nathanhandler" 0.000979673
+1:32 "U: NateMcCord" 0.000955502
+1:33 "U: annierong5" 0.000951913
+1:34 "U: mjmayank1" 0.00094306
+1:35 "U: MassyTech" 0.000937215
+1:36 "U: donttrythis" 0.00091329
+1:37 "U: narendasan" 0.000910889
+1:38 "U: RobertPieta" 0.000841347
+1:39 "U: josephmilla" 0.000746629
+1:40 "U: MasterPpv" 0.000740772
+1:41 "U: WeterPoo" 0.000740562
+1:42 "U: sahmnomnom" 0.000739711
+1:43 "U: bojdell" 0.000710217
+1:44 "U: ACRDevils" 0.000655298
+1:45 "U: rohankapoorcom" 0.000641433
+1:46 "U: TheAmyDance" 0.000625167
+1:47 "U: StuffAswinSays" 0.000619704
+1:48 "U: ThalmicDev" 0.000608921
+1:49 "U: JamieNoTweet" 0.000602774
+1:50 "U: prattprattpratt" 0.000600594
+1:51 "U: davefontenot" 0.000597623
+1:52 "U: smitwiff" 0.000596592
+1:53 "U: grantimahara" 0.000593257
+1:54 "U: googleglass" 0.000592868
+1:55 "U: _lisavuong" 0.000532124
+1:56 "U: meeraparat" 0.000526373
+1:57 "U: docjamesw" 0.000525423
+1:58 "U: Hack_Chi" 0.000523342
+1:59 "U: IMOsolutions" 0.000518255
+1:60 "U: berwinxie" 0.000518195
+1:61 "U: Pebble" 0.000517879
+1:62 "U: TheHackGT" 0.00051255
+1:63 "U: henryboldi" 0.00051201
+1:64 "U: karmanya" 0.000503802
+1:65 "U: Dennis_Yuan" 0.000502918
+1:66 "U: YaleHack" 0.000502569
+1:67 "U: HackDuke" 0.000498984
+1:68 "U: sachinofgoa" 0.000474757
+1:69 "U: KatYAYknee" 0.000440949
+1:70 "U: theyangmaster" 0.000431997
+1:71 "U: generalelectric" 0.000425711
+1:72 "U: dylnuge" 0.000424576
+1:73 "U: DrewC212" 0.000421234
+1:74 "U: carh0rn" 0.000420946
+1:75 "U: rebecca0429" 0.000420405
+1:76 "U: mynameisraj" 0.000420235
+1:77 "U: r2d3us" 0.000415868
+1:78 "U: SoHacks" 0.000414716
+1:79 "U: klnusbaum" 0.000414705
+1:80 "U: KPCBFellows" 0.000414698
+1:81 "U: elihickox" 0.000412023
+1:82 "U: SeanA208" 0.000411937
+1:83 "U: HVFLabs" 0.000409887
+1:84 "U: AnselmoShim" 0.000409659
+1:85 "U: vandyhacks" 0.000409274
+1:86 "U: agiddygoat" 0.00040913
+1:87 "U: ilfounders" 0.000406453
+1:88 "U: foolywk" 0.000403807
+1:89 "U: YikYakApp" 0.00040357
+1:90 "U: iamrashidajones" 0.000399904
+1:91 "U: kashevdalmia" 0.000399604
+1:92 "U: zachtratar" 0.000397793
+1:93 "U: LAHacks" 0.000397718
+1:94 "U: justinkan" 0.000397244
+1:95 "U: UWMadHacks" 0.000396985
+1:96 "U: cyngn" 0.000393353
+1:97 "U: gitlost" 0.000390009
+1:98 "U: TheRealNimoy" 0.000386404
+1:99 "U: SleeplessinCU" 0.00033726
+1:100 "U: AK34_" 0.000326055
+1:101 "U: reedlabotz" 0.000325761
+1:102 "U: Austinh100" 0.00032062
+1:103 "U: om" 0.000317779
+1:104 "U: hackBCA" 0.000317085
+1:105 "U: TrumpSC" 0.000316934
+1:106 "U: rabois" 0.000316583
+1:107 "U: tzhongg" 0.000314878
+1:108 "U: porterrobinson" 0.000313306
+1:109 "U: ShyRuparel" 0.000313101
+1:110 "U: nestling" 0.000310916
+1:111 "U: rickygervais" 0.00031067
+1:112 "U: mrjiwani" 0.000309696
+1:113 "U: AndroidPolice" 0.000309082
+1:114 "U: Niranjana206" 0.000306469
+1:115 "U: goldenbirch21" 0.000305847
+1:116 "U: csproctor" 0.000305847
+1:117 "U: alisonbrie" 0.000305686
+1:118 "U: MikeIsaac" 0.000304319
+1:119 "U: theHackRU" 0.000304044
+1:120 "U: ChairmanAyyLmao" 0.000303259
+1:121 "U: getstrap" 0.000303112
+1:122 "U: TheAviPrasad" 0.00030306
+1:123 "U: TSM_Leffen" 0.000302542
+1:124 "U: naval" 0.000302477
+1:125 "U: derektrc" 0.00030116
+1:126 "U: MatiasDuarte" 0.000299582
+1:127 "U: BenedictEvans" 0.000298438
+1:128 "U: HackATL" 0.000298088
+1:129 "U: zero11235eight" 0.000296124
+1:130 "U: seismic_activty" 0.000294726
+1:131 "U: magicbentobus" 0.000291855
+1:132 "U: UberEng" 0.000290534
+1:133 "U: innovationlab" 0.000290522
+1:134 "U: slixpk" 0.000215231
+1:135 "U: lolesports" 0.000213608
+1:136 "U: niraj" 0.000212902
+1:137 "U: neilhimself" 0.000198582
+1:138 "U: NHL" 0.000193366
+1:139 "U: BeatsByACM" 0.000115388
+1:140 "U: Marty_Rosenberg" 0.000115388
+1:141 "U: kalinalinkalina" 0.000112237
+1:142 "U: ginocorrales" 0.000112237
+1:143 "U: GoThinkB1G" 0.000107455
+1:144 "U: ZachBrewer" 0.000107342
+1:145 "U: AgrawalAnchal" 0.000104879
+1:146 "U: brett_jackson" 0.000101792
+1:147 "U: IllinoisProbss" 0.000101792
+1:148 "U: SIGMusicUIUC" 0.000100894
+1:149 "U: rohanseth161995" 0
+1:150 "U: arvindvjkumar" 0
+1:151 "U: rgw3d" 0
+1:152 "U: Amacelia" 0
+1:153 "U: laurenahayes" 0
+2:1 "U: TEDxUIUC" 0.00153524
+2:2 "U: OIIR_Illinois" 0.00125455
+2:3 "U: UoICareerCenter" 0.00123895
+2:4 "U: LASillinois" 0.00115982
+2:5 "U: UofIFS" 0.000995154
+2:6 "U: IlliniFootball" 0.000959159
+2:7 "U: MarchingIllini" 0.000870064
+2:8 "U: UI_Counseling" 0.000775013
+2:9 "U: IlliniMBB" 0.000772434
+2:10 "U: CEEatIllinois" 0.000759758
+2:11 "U: gslis" 0.000759758
+2:12 "U: uiucacmsiggraph" 0.000757393
+2:13 "U: IlliniAthletics" 0.000752544
+2:14 "U: IllinoisLoyalty" 0.000708225
+2:15 "U: sustainILLINOIS" 0.000686481
+2:16 "U: ECSillinois" 0.000680197
+2:17 "U: IllinoisBlockI" 0.000678017
+2:18 "U: CorporateAtUofI" 0.000591608
+2:19 "U: IlliniPride" 0.000582799
+2:20 "U: uiuc_lacasa" 0.000582696
+2:21 "U: IUB_Presents" 0.000578169
+2:22 "U: SJPUIUC" 0.000577642
+2:23 "U: collegeofmedia" 0.000575586
+2:24 "U: IlliniSoccer" 0.000575317
+2:25 "U: NSBE_UIUC" 0.000574711
+2:26 "U: Illinois_1867" 0.000570866
+2:27 "U: uofiadmissions" 0.000568986
+2:28 "U: WeAre_100STRONG" 0.000567229
+2:29 "U: IURecRoom" 0.00052427
+2:30 "U: bradp10" 0.000513459
+2:31 "U: CITLIllinois" 0.000499179
+2:32 "U: UICOMUrbana" 0.000496248
+2:33 "U: QuadOskee" 0.000493995
+2:34 "U: finwellnessuie" 0.00049333
+2:35 "U: Courtyard_Cafe" 0.000489125
+2:36 "U: IamtheIFUND" 0.00048836
+2:37 "U: ILStudentMoney" 0.000485848
+2:38 "U: LER_Illinois" 0.000485483
+2:39 "U: Campustown" 0.000482413
+2:40 "U: IlliniHillel" 0.000481964
+2:41 "U: IlliniMTrack" 0.000480878
+2:42 "U: illinoisbiolib" 0.000480139
+2:43 "U: illinoisBCS" 0.000478909
+2:44 "U: Good2GoTruck" 0.000478141
+2:45 "U: ILStudentSenate" 0.000477554
+2:46 "U: IlliniVBall" 0.000475865
+2:47 "U: AACC_Illinois" 0.000475686
+2:48 "U: UI_OBFSNews" 0.000475314
+2:49 "U: chaitownuiuc" 0.000474437
+2:50 "U: CBSU_UIUC" 0.000473555
+2:51 "U: CocomeroUIUC" 0.000470678
+2:52 "U: UIUC_Observer" 0.000468368
+2:53 "U: CITES_CCME" 0.000409078
+2:54 "U: tfauiuc" 0.000401286
+2:55 "U: mkdickinson" 0.000400676
+2:56 "U: IlliniMGolf" 0.000395451
+2:57 "U: illini_drumline" 0.000395341
+2:58 "U: LARHalls" 0.000393142
+2:59 "U: Trelease_FAR" 0.000393142
+2:60 "U: IlliniIrwin" 0.000393142
+2:61 "U: IlliniBaseball" 0.000389412
+2:62 "U: IllinoisPSM" 0.000388389
+2:63 "U: IlliniSwimming" 0.00038797
+2:64 "U: UIAA_BAN" 0.000387955
+2:65 "U: IllinoisPress" 0.000387698
+2:66 "U: IlliniFSA" 0.000386631
+2:67 "U: MechSEGrad" 0.000386396
+2:68 "U: IlliniWrestling" 0.000386031
+2:69 "U: REEEC_UIUC" 0.00038566
+2:70 "U: IlliniSB" 0.00038566
+2:71 "U: StateFarmCenter" 0.000384486
+2:72 "U: ILstudyabroad" 0.000382783
+2:73 "U: IllinoisMBA" 0.000382191
+2:74 "U: di_sports" 0.000382191
+2:75 "U: CITES_ICS" 0.000382131
+2:76 "U: PsychToday" 0.000379882
+2:77 "U: EtcLab" 0.000379882
+2:78 "U: edILLINOIS" 0.000379733
+2:79 "U: UIUCvolunteers" 0.000379554
+2:80 "U: theskimm" 0.000378602
+2:81 "U: ariannahuff" 0.000376239
+2:82 "U: Dance2XSUIUC" 0.000374695
+2:83 "U: SCSAdvising" 0.000311096
+2:84 "U: ILDayofService" 0.000309922
+2:85 "U: illinichio" 0.00030244
+2:86 "U: HabitatforHuman" 0.000297853
+2:87 "U: IlliniVets" 0.000296591
+2:88 "U: ArtsatIllinois" 0.000296
+2:89 "U: NTBCMNAdvising" 0.000296
+2:90 "U: UnionROoffice" 0.000296
+2:91 "U: illinoisadver" 0.000296
+2:92 "U: ILWebmasters" 0.000294968
+2:93 "U: GOLSatUIUC" 0.000294715
+2:94 "U: IlliniWGym" 0.000294296
+2:95 "U: mpalillinois" 0.000294296
+2:96 "U: ACDISuiuc" 0.000294281
+2:97 "U: PARhalls" 0.00029369
+2:98 "U: GulleyLab" 0.00029369
+2:99 "U: NetMathIllinois" 0.000292086
+2:100 "U: uofiundeclared" 0.000291986
+2:101 "U: UIResHallLib" 0.000291986
+2:102 "U: Snyder_Hall" 0.000291986
+2:103 "U: WestonHallWEX" 0.000291986
+2:104 "U: WebMD" 0.000291986
+2:105 "U: IllinoisPHC" 0.000291741
+2:106 "U: AllertonParkUI" 0.000291073
+2:107 "U: SORF_UofI" 0.000290812
+2:108 "U: Illini_OKrush" 0.000290812
+2:109 "U: IU_RSO" 0.000289348
+2:110 "U: UIllinoisLaw" 0.000289109
+2:111 "U: IllinoisNRES" 0.000288937
+2:112 "U: ACESIllinois" 0.000288937
+2:113 "U: eucenter" 0.000288518
+2:114 "U: NativeScholars" 0.000288518
+2:115 "U: uialumninetwork" 0.000288518
+2:116 "U: CCSSuiuc" 0.000288518
+2:117 "U: TheatreIllinois" 0.000286799
+2:118 "U: UIUC_Software" 0.000286208
+2:119 "U: willpublicmedia" 0.000286208
+2:120 "U: NAHillinois" 0.000286208
+2:121 "U: GlobalStudiesIL" 0.000286208
+2:122 "U: JoesBrewery" 0.000284875
+2:123 "U: illioyearbook" 0.000284176
+2:124 "U: JarlingsCU" 0.000283411
+2:125 "U: UofIParapro" 0.000283331
+2:126 "U: DeltaGammaUIUC" 0.000283331
+2:127 "U: UIUC_SIA" 0.000283331
+2:128 "U: KDChi_UIUC" 0.000283331
+2:129 "U: UIUC_Swans" 0.000283331
+2:130 "U: chiefilliniwek" 0.000283331
+2:131 "U: billmaher" 0.000282566
+2:132 "U: ui7news" 0.000281021
+2:133 "U: Re_home" 0.000281021
+2:134 "U: uie_general" 0.000281021
+2:135 "U: illini_pr" 0.000279879
+2:136 "U: Champaign_Room" 0.000200346
+2:137 "U: CMNIllinoisIP" 0.000193126
+2:138 "U: FunkACESLibrary" 0.000192534
+2:139 "U: IllinoisSAA" 0.000190571
+2:140 "U: IMPULSEMagUIUC" 0.000187347
+2:141 "U: illinoisadpi" 0.000187347
+2:142 "U: bmcginty" 9.81357e-05
+2:143 "U: CiEats" 0
+2:144 "U: nature79" 0
+2:145 "U: iCollegeCart" 0
+2:146 "U: apacoalition" 0
+2:147 "U: nito__moreno" 0
+2:148 "U: KsheerasagarBal" 0
+2:149 "U: yuanyua14064033" 0
+2:150 "U: SJLEIllinois" 0
+2:151 "U: PsiChiUIUC" 0
+2:152 "U: checktzc123" 0
+3:1 "U: TheOfficialACM" 0.00221676
+3:2 "U: SF_BayArea_ACM" 0.000961421
+3:3 "U: sig_chi" 0.000882372
+3:4 "U: acmeducation" 0.00088013
+3:5 "U: ComputerSociety" 0.000869966
+3:6 "U: uscacm" 0.000865044
+3:7 "U: ACMQueue" 0.000859743
+3:8 "U: womenintech" 0.000780067
+3:9 "U: StanfordACM" 0.00077137
+3:10 "U: gtacm" 0.00077137
+3:11 "U: siggraph" 0.000770135
+3:12 "U: WITWomen" 0.000694985
+3:13 "U: NSF" 0.000689348
+3:14 "U: waltmossberg" 0.000678104
+3:15 "U: NCAT_ACM" 0.000677697
+3:16 "U: PMUACMChapter" 0.000676714
+3:17 "U: acmtochi" 0.000672396
+3:18 "U: ACMLarry" 0.000671413
+3:19 "U: columbia_acm" 0.00066871
+3:20 "U: ComSoc" 0.000588945
+3:21 "U: Microsoft_EDU" 0.000588387
+3:22 "U: sigsoft" 0.00058354
+3:23 "U: icpcamritapuri" 0.000578722
+3:24 "U: ACMUniandes" 0.000578722
+3:25 "U: ACMWomENcourage" 0.00057774
+3:26 "U: uw_acm" 0.00057774
+3:27 "U: tcnjsiggraph" 0.000576019
+3:28 "U: NDSUACM" 0.000575037
+3:29 "U: IEEEorg" 0.000570412
+3:30 "U: csteachersa" 0.000506261
+3:31 "U: LatinasInC" 0.000505279
+3:32 "U: ACM_CSCW" 0.00050263
+3:33 "U: Supercomputing" 0.000494273
+3:34 "U: CRAtweets" 0.000493459
+3:35 "U: NCWIT" 0.000493459
+3:36 "U: vansig" 0.00049207
+3:37 "U: sydgraph" 0.00049207
+3:38 "U: DCSIGGRAPH" 0.00049207
+3:39 "U: newscientist" 0.000490756
+3:40 "U: ccnyacm" 0.000490756
+3:41 "U: ScienceDaily" 0.000490756
+3:42 "U: SIGGRAPHAustin" 0.000489367
+3:43 "U: Computerworld" 0.00048532
+3:44 "U: BogotaSIGGRAPH" 0.000485048
+3:45 "U: SIGSPATIAL_GIS" 0.000485048
+3:46 "U: SIGHPC" 0.000485048
+3:47 "U: sigact" 0.000485048
+3:48 "U: acmtois" 0.000485048
+3:49 "U: ParisSIGGRAPH" 0.000484066
+3:50 "U: ACMInroads" 0.000484066
+3:51 "U: TO_siggraph" 0.000484066
+3:52 "U: ACMSIGCOMM" 0.000484066
+3:53 "U: acmsigite" 0.000484006
+3:54 "U: IEEESpectrum" 0.000482346
+3:55 "U: acmupm" 0.000482345
+3:56 "U: acmud" 0.000482345
+3:57 "U: XRDS_ACM" 0.000482345
+3:58 "U: ACMDL" 0.000482345
+3:59 "U: laacm" 0.000476372
+3:60 "U: ACM_CEO" 0.000403743
+3:61 "U: EdFelten" 0.000401766
+3:62 "U: Ubuntu_OS" 0.000400103
+3:63 "U: SIGBED" 0.000399725
+3:64 "U: Campus_Tech" 0.000398065
+3:65 "U: ComputingReview" 0.000397083
+3:66 "U: InformationWeek" 0.000397083
+3:67 "U: reshmasaujani" 0.000397083
+3:68 "U: Indiaacm" 0.0003959
+3:69 "U: DrexelSIGGRAPH" 0.000395693
+3:70 "U: ACM_SIGCHI" 0.000391375
+3:71 "U: ACM_SIGWEB" 0.000391375
+3:72 "U: SIGCSE_TS" 0.000390392
+3:73 "U: OrlandoSIGGRAPH" 0.000390392
+3:74 "U: alain_chesnais" 0.000390392
+3:75 "U: DCACM" 0.000390392
+3:76 "U: siggraph_irc" 0.000390392
+3:77 "U: ieeesoftware" 0.000387689
+3:78 "U: AcmUpv" 0.000387689
+3:79 "U: computingnow" 0.000387689
+3:80 "U: wef" 0.000377398
+3:81 "U: NSAGov" 0.000374695
+3:82 "U: Infosys" 0.000303409
+3:83 "U: 7homaslin" 0.000303409
+3:84 "U: TriCoalition" 0.000303409
+3:85 "U: IBMResearchCAM" 0.000303409
+3:86 "U: TeachTec" 0.000303409
+3:87 "U: thetechnewsblog" 0.000303409
+3:88 "U: govtechnews" 0.000303409
+3:89 "U: imaginecup" 0.000303409
+3:90 "U: scgbern" 0.000303409
+3:91 "U: TeamIDOC" 0.000303409
+3:92 "U: lemire" 0.000303409
+3:93 "U: alfredtwo" 0.000303409
+3:94 "U: guzdial" 0.000303409
+3:95 "U: scratch" 0.000303409
+3:96 "U: gchACM" 0.000301121
+3:97 "U: markoff" 0.000297651
+3:98 "U: acmsigda" 0.000296719
+3:99 "U: USACM" 0.000296719
+3:100 "U: kdd_news" 0.000296719
+3:101 "U: CSEdWeek" 0.000296719
+3:102 "U: blogCACM" 0.000296719
+3:103 "U: acmchi2012" 0.000294998
+3:104 "U: IEEESA" 0.000294929
+3:105 "U: recsys2010" 0.000294016
+3:106 "U: sigdoc" 0.000294016
+3:107 "U: BerkeleyLab" 0.000294016
+3:108 "U: Turing2014" 0.000294016
+3:109 "U: sigmm" 0.000294016
+3:110 "U: ComputerHistory" 0.000294016
+3:111 "U: CynthiaLIVE" 0.000290414
+3:112 "U: ACMawards" 0.000289025
+3:113 "U: GlobalKnowledge" 0.000283724
+3:114 "U: WES1919" 0.000200698
+3:115 "U: washmonthly" 0.000200342
+3:116 "U: acmpolicy" 0.000200342
+3:117 "U: IEEEXplore" 0.000198552
+3:118 "U: gmodeloh" 0.000196741
+3:119 "U: vitacmchapter" 0.000188329
+3:120 "U: Office" 0.000187347
+3:121 "U: upacm" 0.000187347
+3:122 "U: wchichester3" 0.000112783
+3:123 "U: ACMDBIT" 0.000101678
+3:124 "U: abesecacm" 0
+3:125 "U: ACMAssiut" 0
+3:126 "U: acmusp" 0
+3:127 "U: CyberIntern" 0
+3:128 "U: acm_ucm" 0
+3:129 "U: QUACM" 0
+3:130 "U: ERP_edu" 0
+3:131 "U: UPES_CSF" 0
+4:1 "U: UIResearchPark" 0.0041289
+4:2 "U: BillGates" 0.00397927
+4:3 "U: google" 0.0038982
+4:4 "U: TechCrunch" 0.00381336
+4:5 "U: twitter" 0.00303679
+4:6 "U: BarackObama" 0.00251308
+4:7 "U: nytimes" 0.00207606
+4:8 "U: Medium" 0.00146094
+4:9 "U: cnnbrk" 0.00144029
+4:10 "U: ericschmidt" 0.00117463
+4:11 "U: mashable" 0.00106191
+4:12 "U: facebook" 0.00106061
+4:13 "U: Starbucks" 0.000996766
+4:14 "U: googlenexus" 0.000766176
+4:15 "U: gadgetlab" 0.000660271
+4:16 "U: slashdot" 0.000485016
+4:17 "U: Oprah" 0.000473081
+4:18 "U: IBMWatson" 0.000468368
+4:19 "U: faribakhan" 0.000376706
+4:20 "U: finkd" 0.000281021
+4:21 "U: Motorola" 0.000281021
+4:22 "U: ragibhasan" 0.000187347
+4:23 "U: marefin2" 0
+5:1 "U: eceILLINOIS" 0.00511645
+5:2 "U: neiltyson" 0.00236534
+5:3 "U: CUMTD" 0.00144418
+5:4 "U: BlackSheep_UIUC" 0.00143853
+5:5 "U: Illinois_Intl" 0.00133506
+5:6 "U: sfbayrane" 0.00114828
+5:7 "U: ask_jeaves" 0.0011139
+5:8 "U: IllinoisIHSI" 0.000978011
+5:9 "U: ISSSIllinois" 0.000974314
+5:10 "U: YoureWelcomeCU" 0.000865545
+5:11 "U: IllinoisMatSE" 0.000861791
+5:12 "U: ImpactUIllinois" 0.000855594
+5:13 "U: hackaday" 0.000790524
+5:14 "U: uofibookstore" 0.000777663
+5:15 "U: UIPhoto" 0.000776025
+5:16 "U: IllinoisComm" 0.000759736
+5:17 "U: spurlockmuseum" 0.000671843
+5:18 "U: nspillinois" 0.00066338
+5:19 "U: buffer" 0.000602864
+5:20 "U: IllinoisLLAA" 0.000587269
+5:21 "U: CACMmag" 0.000576598
+5:22 "U: InclusiveIL" 0.000572602
+5:23 "U: FastCoDesign" 0.000572576
+5:24 "U: IllinoisWRC" 0.000569545
+5:25 "U: thoughtworks" 0.0005609
+5:26 "U: bruceschatz" 0.000487724
+5:27 "U: IlliniCenter" 0.000477182
+5:28 "U: SWE_President" 0.000476705
+5:29 "U: BNAACC" 0.000472413
+5:30 "U: CRAWomen" 0.000470753
+5:31 "U: UofIRegistrar" 0.000469265
+5:32 "U: linjiachang" 0.000431473
+5:33 "U: kslamb" 0.000426641
+5:34 "U: BioAnalyticsInc" 0.000401638
+5:35 "U: jhett93" 0.000392012
+5:36 "U: aarontanderson" 0.00039002
+5:37 "U: jwanhall" 0.000386813
+5:38 "U: ISTCoalition" 0.000379331
+5:39 "U: kCura" 0.000379084
+5:40 "U: TechweekCHI" 0.000379084
+6:1 "U: TheEconomist" 0.00182225
+6:2 "U: ghc" 0.00158503
+6:3 "U: mhacks" 0.00158117
+6:4 "U: TwitterEng" 0.00140258
+6:5 "U: ForbesTech" 0.00113648
+6:6 "U: SCSatCMU" 0.00106506
+6:7 "U: LinkedIn" 0.00103998
+6:8 "U: WomenWhoCode" 0.000889986
+6:9 "U: ChicagoInno" 0.000879189
+6:10 "U: vprillinois" 0.000867907
+6:11 "U: EconBizFin" 0.000850548
+6:12 "U: MichiganHackers" 0.000774122
+6:13 "U: Qualcomm" 0.000773192
+6:14 "U: business" 0.000768899
+6:15 "U: HuffPostTech" 0.000672081
+6:16 "U: RahmEmanuel" 0.000572686
+6:17 "U: NYSE" 0.00057128
+6:18 "U: Yale" 0.0005694
+6:19 "U: CiscoSecurity" 0.000568555
+6:20 "U: LinkedInEng" 0.000564587
+6:21 "U: BuiltInChicago" 0.000511762
+6:22 "U: spolsky" 0.000491481
+6:23 "U: cta" 0.000486068
+6:24 "U: UMich" 0.000479979
+6:25 "U: chicagotribune" 0.000479686
+6:26 "U: ChicagosMayor" 0.000479013
+6:27 "U: pixotech" 0.000407428
+6:28 "U: UILABS_" 0.000407012
+6:29 "U: UChicago" 0.000387439
+6:30 "U: pivotal" 0.000384731
+6:31 "U: Penn" 0.000381524
+6:32 "U: cnntech" 0.000380226
+6:33 "U: PurdueCS" 0.000378096
+6:34 "U: OptiverUS" 0.000304928
+6:35 "U: DMDII_" 0.000301695
+6:36 "U: SocialInChicago" 0.000294693
+6:37 "U: DRWTrading" 0.000292632
+6:38 "U: Accenture" 0.00029204
+6:39 "U: DataStax" 0.000291057
+6:40 "U: chicagoacm" 0.000290599
+6:41 "U: nytimesbusiness" 0.000286231
+6:42 "U: EECSatMI" 0.000284422
+6:43 "U: NUCareerAdvance" 0.000284422
+6:44 "U: StackDevJobs" 0.000283578
+6:45 "U: ChicagoBooth" 0.000283476
+6:46 "U: WSJecon" 0.000282595
+6:47 "U: NorthwesternU" 0.000282595
+6:48 "U: Princeton" 0.000188922
+6:49 "U: ITAbuzz" 0.000188922
+6:50 "U: SpotTrading" 0.00010371
+7:1 "U: IllinoisCS" 0.00948556
+7:2 "U: Illinois_Alma" 0.00716157
+7:3 "U: EngineeringAtIL" 0.00512211
+7:4 "U: TechServicesIL" 0.00187654
+7:5 "U: UIPD" 0.00156365
+7:6 "U: WCSuiuc" 0.000943613
+7:7 "U: sciam" 0.000680357
+7:8 "U: AustralianOpen" 0.000397029
+7:9 "U: usopen" 0.000303355
+7:10 "U: IlliniMTennis" 0.000295756
+7:11 "U: Wimbledon" 0.000292295
+7:12 "U: MLB" 0.000194586
+7:13 "U: attorneywendel" 9.36737e-05
+7:14 "U: alicejifanyin" 0
+8:1 "U: elonmusk" 0.00406589
+8:2 "U: WIRED" 0.00291454
+8:3 "U: mlevchin" 0.00197709
+8:4 "U: tim_cook" 0.00194132
+8:5 "U: pmarca" 0.00174927
+8:6 "U: alexisohanian" 0.00143307
+8:7 "U: bhorowitz" 0.00127858
+8:8 "U: bchesky" 0.00106756
+8:9 "U: a16z" 0.000889174
+8:10 "U: awscloud" 0.000878341
+8:11 "U: golang" 0.00087402
+8:12 "U: kpcb" 0.000804687
+8:13 "U: AirbnbNerds" 0.00078844
+8:14 "U: GoogleVentures" 0.000775119
+8:15 "U: clattner_llvm" 0.000729266
+8:16 "U: biz" 0.000690619
+8:17 "U: davidbyttow" 0.000504886
+8:18 "U: martinfowler" 0.000501266
+8:19 "U: hunterwalk" 0.000406803
+8:20 "U: xiaoma" 0.000394775
+8:21 "U: HoloLens" 0.000394384
+8:22 "U: SquareEng" 0.000393067
+8:23 "U: joshelman" 0.000314373
+8:24 "U: _tessr" 0.000313629
+8:25 "U: Recode" 0.000303426
+8:26 "U: obviousvc" 0.000300267
+8:27 "U: stk" 0.00029741
+8:28 "U: adamnash" 0.000295712
+8:29 "U: jeffbarr" 0.000292592
+8:30 "U: infraredflower" 0.000201628
+9:1 "U: TEDTalks" 0.00181763
+9:2 "U: IEEE_UIUC" 0.00146606
+9:3 "U: SlackHQ" 0.00130142
+9:4 "U: sundarpichai" 0.0013003
+9:5 "U: nodejs" 0.00118255
+9:6 "U: GirlsinTech" 0.00110104
+9:7 "U: getbootstrap" 0.00107863
+9:8 "U: codeorg" 0.00106365
+9:9 "U: firefox" 0.00105445
+9:10 "U: Codecademy" 0.000995064
+9:11 "U: SWEIllinois" 0.00090333
+9:12 "U: coollavy92" 0.000845804
+9:13 "U: meimarrissa" 0.000841966
+9:14 "U: EweekUIUC" 0.000806069
+9:15 "U: khanacademy" 0.000795533
+9:16 "U: jk_rowling" 0.000773444
+9:17 "U: nktprkh" 0.000742552
+9:18 "U: jquery" 0.000682868
+9:19 "U: systers_org" 0.0005175
+9:20 "U: venmo" 0.000401866
+9:21 "U: arrahman" 0.000389791
+9:22 "U: iHrithik" 0.000389791
+9:23 "U: androidcentral" 0.000389224
+9:24 "U: LeoDiCaprio" 0.000387767
+9:25 "U: geneliad" 0.000385755
+9:26 "U: SunidhiChauhan5" 0.000385755
+9:27 "U: YiyangHu" 0.000322396
+9:28 "U: EC_UIUC" 0.000306015
+9:29 "U: parekh_92" 0.000305555
+9:30 "U: aneeshack4" 0.000299159
+9:31 "U: aamir_khan" 0.000293064
+9:32 "U: BeingSalmanKhan" 0.000292082
+9:33 "U: ShraddhaKapoor" 0.000292082
+9:34 "U: superstarrajini" 0.000292082
+9:35 "U: realpreityzinta" 0.000292082
+9:36 "U: akshaykumar" 0.000292082
+9:37 "U: TOIEntertain" 0.000292082
+9:38 "U: MariaSharapova" 0.000292082
+9:39 "U: sonunigam" 0.000292082
+10:1 "U: DaeyunShin" 0.00144503
+10:2 "U: drewhouston" 0.00118022
+10:3 "U: SmilePolitely" 0.00117636
+10:4 "U: loliponi" 0.00111393
+10:5 "U: nicktabick" 0.00103955
+10:6 "U: HackerNewsOnion" 0.00100496
+10:7 "U: codinghorror" 0.000763623
+10:8 "U: hipsterhacker" 0.000685755
+10:9 "U: feliciaday" 0.000683106
+10:10 "U: techstars" 0.000674166
+10:11 "U: Oatmeal" 0.000671057
+10:12 "U: TimothyKadich" 0.000617049
+10:13 "U: trello" 0.00058696
+10:14 "U: Linux" 0.000581258
+10:15 "U: sadserver" 0.000575821
+10:16 "U: evilhag" 0.000511286
+10:17 "U: NegatedVoid" 0.000508993
+10:18 "U: UIUCTF" 0.000497193
+10:19 "U: mezmor" 0.000493912
+10:20 "U: Nick_Offerman" 0.000492542
+10:21 "U: espresso_royale" 0.000490762
+10:22 "U: wilw" 0.000484334
+10:23 "U: AcademicsSay" 0.000483814
+10:24 "U: UDJPlayer" 0.000409827
+10:25 "U: SirPatStew" 0.000390304
+10:26 "U: xkcdrss" 0.000389632
+10:27 "U: kevinrose" 0.000383651
+10:28 "U: CommitStrip" 0.000382633
+10:29 "U: mitchellh" 0.000381025
+10:30 "U: wdtz" 0.000317446
+10:31 "U: JimCarrey" 0.000315854
+10:32 "U: danfreedman" 0.000313359
+10:33 "U: RickyNewcomb" 0.000307553
+10:34 "U: jwz" 0.000305557
+10:35 "U: Arubin" 0.000302557
+10:36 "U: NeckbeardHacker" 0.000297491
+10:37 "U: TNG_S8" 0.000296894
+10:38 "U: 5entinel" 0.000296894
+10:39 "U: BrentSpiner" 0.00029663
+10:40 "U: taoxiease" 0.000293401
+10:41 "U: AllieBrosh" 0.000292493
+10:42 "U: googlevoice" 0.000292471
+10:43 "U: tweetsauce" 0.000291688
+10:44 "U: HP" 0.000291242
+10:45 "U: WPGU1071" 0.000290187
+10:46 "U: Neovim" 0.000287351
+10:47 "U: _msparks" 0.000286993
+10:48 "U: EuroSys2015" 0.000285839
+10:49 "U: avsm" 0.000285839
+10:50 "U: xkcd" 0.000285839
+10:51 "U: baristaTam" 0.00021718
+10:52 "U: mikestaszel" 0.000210729
+11:1 "U: GradLifeIL" 0.00106923
+11:2 "U: CrackedTruck" 0.000915114
+11:3 "U: SWEtalk" 0.000783725
+11:4 "U: UofIResearch" 0.00077896
+11:5 "U: blackdogcu" 0.000703918
+11:6 "U: cg_food_coop" 0.000699084
+11:7 "U: thecuart" 0.00060337
+11:8 "U: BeMissPossible" 0.000602874
+11:9 "U: iHotel" 0.000593752
+11:10 "U: champark" 0.000586591
+11:11 "U: uiucssf" 0.000584806
+11:12 "U: robrutenbar" 0.000520764
+11:13 "U: ILBioinstrument" 0.000508747
+11:14 "U: raman_ritu" 0.000499592
+11:15 "U: PresCons" 0.000497033
+11:16 "U: culincolnsquare" 0.000496973
+11:17 "U: urbanasweetcorn" 0.000496274
+11:18 "U: ssc_uiuc" 0.00049529
+11:19 "U: urbanapublicart" 0.000493511
+11:20 "U: MsTechGroup" 0.000489304
+11:21 "U: EngageIllinois" 0.000414395
+11:22 "U: ChBE_Illinois" 0.000411287
+11:23 "U: CurtisOrchard" 0.000409135
+11:24 "U: NSBE" 0.000403094
+11:25 "U: thevirginia" 0.000399872
+11:26 "U: PandaDoughnutCU" 0.000397871
+11:27 "U: CUCheese" 0.000396785
+11:28 "U: ChambanaSciCafe" 0.000396613
+11:29 "U: shopartmart" 0.00039524
+11:30 "U: GETillinois" 0.000393885
+11:31 "U: UniversityYUIUC" 0.000392409
+11:32 "U: makerspaceu" 0.000392222
+11:33 "U: idncnews" 0.000321313
+11:34 "U: AgribleInc" 0.000315013
+11:35 "U: ece_sac" 0.000312233
+11:36 "U: Illinois4H" 0.00030739
+11:37 "U: Illinidads" 0.000306217
+11:38 "U: MediaSSC" 0.000303922
+11:39 "U: CU_Coders" 0.000303873
+11:40 "U: ChicagoILLINI" 0.000303157
+11:41 "U: cubikemonth" 0.00030294
+11:42 "U: IllinoisABE" 0.00030294
+11:43 "U: UrbanaPizzaM" 0.000302845
+11:44 "U: FMCoffeee" 0.000302845
+11:45 "U: ILresearchdata" 0.000302203
+11:46 "U: michael_kruepke" 0.000300211
+11:47 "U: probablypranjal" 0.000300211
+11:48 "U: IntlMinimalist" 0.000299056
+11:49 "U: IDOT_Illinois" 0.000298735
+11:50 "U: IllinoisPolSci" 0.00029797
+11:51 "U: The_IDEA_Store" 0.00029727
+11:52 "U: UIUCAnimalBio" 0.000296425
+12:1 "U: Snowden" 0.0028776
+12:2 "U: googleresearch" 0.00265737
+12:3 "U: _achalv" 0.00211043
+12:4 "U: azizansari" 0.00124368
+12:5 "U: ThePygFest" 0.000848433
+12:6 "U: angularjs" 0.000752981
+12:7 "U: 50NerdsofGrey" 0.000738716
+12:8 "U: medialab" 0.000733477
+12:9 "U: lorakrys" 0.00063487
+12:10 "U: FastCompany" 0.000567851
+12:11 "U: stanforddschool" 0.000555941
+12:12 "U: letsencrypt" 0.000467913
+12:13 "U: DanielleMorrill" 0.000465583
+12:14 "U: pakalupapito" 0.000463673
+12:15 "U: Wu_Tang_Finance" 0.000458
+12:16 "U: CrystalKnowsMe" 0.000453707
+12:17 "U: BigDataBorat" 0.0004528
+12:18 "U: RealTomHankz" 0.000397877
+12:19 "U: jeffbigham" 0.00037009
+12:20 "U: justinsayarath" 0.000369241
+12:21 "U: sknthla" 0.000361242
+12:22 "U: realDonaldJS" 0.000360612
+12:23 "U: pgbovine" 0.000355805
+12:24 "U: frogdesign" 0.000355579
+12:25 "U: golan" 0.000354761
+13:1 "U: actuallyaswin" 0.00239175
+13:2 "U: googlechrome" 0.00146264
+13:3 "U: MarsCuriosity" 0.000921409
+13:4 "U: WhiteHouse" 0.000915891
+13:5 "U: samgnesin" 0.000900881
+13:6 "U: shugoingplaces" 0.00083597
+13:7 "U: GooglePlay" 0.000812813
+13:8 "U: thereaIbanksy" 0.000809634
+13:9 "U: DisneyPixar" 0.000640396
+13:10 "U: RickandMorty" 0.000542688
+13:11 "U: nbcchicago" 0.000526696
+13:12 "U: googlemaps" 0.000520869
+13:13 "U: annacbare" 0.000478968
+13:14 "U: HamillHimself" 0.000455485
+13:15 "U: olivercai" 0.000448424
+13:16 "U: lyft" 0.00044207
+13:17 "U: danharmon" 0.000441883
+13:18 "U: TheRealStanLee" 0.000440709
+13:19 "U: SarahKSilverman" 0.000434834
+13:20 "U: RanjithaSKumar" 0.000430571
+13:21 "U: _FloridaMan" 0.000429692
+13:22 "U: britneyspears" 0.000427134
+13:23 "U: carrieffisher" 0.000357349
+13:24 "U: mulaney" 0.000350001
+13:25 "U: chrishemsworth" 0.000347035
+13:26 "U: muse" 0.000347035
+13:27 "U: StanfordHCI" 0.000342884
+13:28 "U: stephenfry" 0.000342592
+13:29 "U: Twitch" 0.000342017
+13:30 "U: imgur" 0.000335777
+13:31 "U: mark_wahlberg" 0.000329425
+13:32 "U: rihanna" 0.000235752
+13:33 "U: leomad2014" 0
+14:1 "U: iamdevloper" 0.000779571
+14:2 "U: FioraAeterna" 0.000611734
+14:3 "U: RobDenBleyker" 0.000589892
+14:4 "U: NPR" 0.000571042
+14:5 "U: WarrenBuffett" 0.000569705
+14:6 "U: KenJennings" 0.000495816
+14:7 "U: KevinSpacey" 0.000484392
+14:8 "U: SANSInstitute" 0.000481363
+14:9 "U: DTChampaign" 0.000476752
+14:10 "U: heroku" 0.000474821
+14:11 "U: InfoSecHotSpot" 0.000468368
+14:12 "U: the_intercept" 0.000422266
+14:13 "U: bcrypt" 0.000393428
+14:14 "U: csoghoian" 0.000390022
+14:15 "U: johngreen" 0.000389936
+14:16 "U: k8em0" 0.000387414
+14:17 "U: RobertDowneyJr" 0.000386975
+14:18 "U: ColonialRoom" 0.000385023
+14:19 "U: DarkReading" 0.000384335
+14:20 "U: adrianco" 0.000383502
+14:21 "U: kaspersky" 0.000375677
+14:22 "U: mikko" 0.000374695
+14:23 "U: taosecurity" 0.000374695
+14:24 "U: IT_ProForum" 0.000307922
+14:25 "U: 27bslash6" 0.00030103
+14:26 "U: IMKristenBell" 0.000294494
+14:27 "U: RSAsecurity" 0.000290661
+14:28 "U: __apf__" 0.000290115
+14:29 "U: joeyhagedorn" 0.000287862
+14:30 "U: papers_we_love" 0.000286708
+14:31 "U: ibmdesign" 0.000286708
+14:32 "U: simple" 0.000285056
+14:33 "U: klout" 0.000284978
+14:34 "U: united" 0.000282619
+14:35 "U: securityninja" 0.000282533
+14:36 "U: TenableSecurity" 0.000281021
+14:37 "U: DidierStevens" 0.000281021
+14:38 "U: threatpost" 0.000281021
+14:39 "U: SecBarbie" 0.000281021
+14:40 "U: briankrebs" 0.000281021
+14:41 "U: e_kaspersky" 0.000281021
+14:42 "U: FiloSottile" 0.000281021
+14:43 "U: thegrugq" 0.000281021
+14:44 "U: metasploit" 0.000281021
+14:45 "U: csoandy" 0.000281021
+14:46 "U: KCombinator" 9.36737e-05
+14:47 "U: mloar" 0
+14:48 "U: warquel" 0
+15:1 "U: MLHacks" 0.00182832
+15:2 "U: CompSciFact" 0.00177642
+15:3 "U: Gizmodo" 0.00166962
+15:4 "U: BernieSanders" 0.00146715
+15:5 "U: TheDailyShow" 0.00116936
+15:6 "U: TheOnion" 0.00108114
+15:7 "U: DARPA" 0.00058813
+15:8 "U: drfeifei" 0.000585656
+15:9 "U: dakami" 0.00057642
+15:10 "U: TheHackersNews" 0.00057037
+15:11 "U: moskov" 0.000509246
+15:12 "U: EFF" 0.000489297
+15:13 "U: garrytan" 0.000416398
+15:14 "U: Cmdr_Hadfield" 0.000410245
+15:15 "U: ilikevests" 0.000400605
+15:16 "U: InfosecurityMag" 0.000391681
+15:17 "U: Jessicalessin" 0.000389203
+15:18 "U: mims" 0.000305785
+15:19 "U: rrhoover" 0.000302149
+15:20 "U: _defcon_" 0.000293051
+15:21 "U: michiokaku" 0.000292922
+15:22 "U: thedarktangent" 0.000288367
+15:23 "U: eholmes2003" 0.000288367
+15:24 "U: BlackHatEvents" 0.000288367
+15:25 "U: ZiqiPeng" 0.000207428
+16:1 "U: IllinoisWCS" 0.00240552
+16:2 "U: emilychaosays" 0.00136866
+16:3 "U: pfefferminze" 0.000651746
+16:4 "U: C2theJ" 0.000532303
+16:5 "U: ECEPulse" 0.000502565
+16:6 "U: PCMag" 0.000475537
+16:7 "U: illinoislaunch" 0.000400681
+16:8 "U: womeng" 0.000391976
+16:9 "U: befamous" 0.000391524
+16:10 "U: gnome" 0.000381968
+16:11 "U: debian" 0.000381442
+16:12 "U: BrandonPhilips" 0.00031937
+16:13 "U: randileeharper" 0.00031937
+16:14 "U: geekfeminism" 0.000315329
+16:15 "U: JoinSquare" 0.000309229
+16:16 "U: MFTM_UIUC" 0.000301408
+16:17 "U: adainitiative" 0.000300806
+16:18 "U: nihilist_arbys" 0.000299111
+16:19 "U: SAI" 0.000298024
+16:20 "U: bower" 0.000297851
+16:21 "U: neelabhg" 0.00029256
+16:22 "U: TwitterAds" 0.000289245
+16:23 "U: OTCRConsulting" 0.000288838
+16:24 "U: safety" 0.000287016
+16:25 "U: TwitterIR" 0.000287016
+16:26 "U: gragtah" 0.000285739
+16:27 "U: thinkgeek" 0.000284978
+16:28 "U: RedHatNews" 0.000284978
+16:29 "U: pattonoswalt" 0.000284338
+16:30 "U: sailorhg" 0.000282619
+16:31 "U: hmason" 0.000281021
+16:32 "U: ElsbethWeeks" 0.000210593
+16:33 "U: josie_geng" 0.000208587
+16:34 "U: Tomtomboy_hi" 0.000112783
+16:35 "U: kovaka" 0.000112783
+16:36 "U: JiyerJiyer" 0.000112783
+16:37 "U: ViDEv2015" 0
+16:38 "U: HeyJarai" 0
+16:39 "U: afscg" 0
+16:40 "U: saulfp" 0
+16:41 "U: AllyD2030" 0
+17:1 "U: acmreflections" 0.00360513
+17:2 "U: googlestudents" 0.00133901
+17:3 "U: cassidoo" 0.000891435
+17:4 "U: KarlTheFog" 0.000718912
+17:5 "U: triketora" 0.000700963
+17:6 "U: sacca" 0.000685296
+17:7 "U: BlackGirlsCode" 0.000502044
+17:8 "U: whispersystems" 0.000493162
+17:9 "U: USATODAYcollege" 0.000474364
+17:10 "U: TechatNYU" 0.000399554
+17:11 "U: ideo" 0.000392358
+17:12 "U: djangoproject" 0.000392194
+17:13 "U: amyschumer" 0.000385523
+17:14 "U: women2" 0.000383324
+17:15 "U: strangeloop_stl" 0.00030819
+17:16 "U: SuB8u" 0.000296814
+17:17 "U: YourAnonNews" 0.000291688
+17:18 "U: chamath" 0.000291218
+17:19 "U: ColumbiaEship" 0.000289879
+17:20 "U: meredithperry" 0.000288053
+17:21 "U: umsi" 0.000282848
+17:22 "U: TravelGov" 0.000282619
+17:23 "U: BrownCareerLAB" 0.000281021
+17:24 "U: kscottz" 0.000206811
+17:25 "U: sage_corps" 0
+18:1 "U: WSJ" 0.00178766
+18:2 "U: docker" 0.00108592
+18:3 "U: SiliconHBO" 0.00107885
+18:4 "U: lifeatgoogle" 0.0009579
+18:5 "U: reactjs" 0.000696265
+18:6 "U: BrendanEich" 0.000684205
+18:7 "U: googlecloud" 0.000660656
+18:8 "U: googletalks" 0.000586473
+18:9 "U: arduino" 0.000496573
+18:10 "U: GoogleAppsDev" 0.000485899
+18:11 "U: GoogleDesign" 0.000477004
+18:12 "U: gruntjs" 0.000393193
+18:13 "U: emberjs" 0.000389486
+18:14 "U: FreedomofPress" 0.000385529
+18:15 "U: Telegraph" 0.000382687
+18:16 "U: DockerCon" 0.00037611
+18:17 "U: linuxacademyCOM" 0.000374695
+18:18 "U: opendns" 0.000374695
+18:19 "U: Ionicframework" 0.000295812
+18:20 "U: NakedSecurity" 0.000290414
+18:21 "U: davidwalshblog" 0.000289213
+18:22 "U: thetimes" 0.000285056
+18:23 "U: TechCrunchOnion" 0.000282175
+18:24 "U: hrsanaie" 0
+19:1 "U: laparisa" 0.000983954
+19:2 "U: wbm312" 0.000928314
+19:3 "U: jwb713" 0.000731044
+19:4 "U: rithmio" 0.000614978
+19:5 "U: buzzindelhi" 0.000578759
+19:6 "U: AliKAfridi" 0.000518368
+19:7 "U: IllinoisESAA" 0.000515081
+19:8 "U: billurbana" 0.000514296
+19:9 "U: SallyXDZ" 0.000418212
+19:10 "U: QuirkyInsider" 0.000416636
+19:11 "U: MurtazaHaider12" 0.000411302
+19:12 "U: MichelleWellens" 0.000411076
+19:13 "U: 56ek" 0.000402136
+19:14 "U: Techmeme" 0.000322368
+19:15 "U: SidSethupathi" 0.000309511
+19:16 "U: perry_huang" 0.000308414
+19:17 "U: iVenture_UofI" 0.000301228
+19:18 "U: IlliniBizDean" 0.000300383
+19:19 "U: ILHealthEng" 0.000300217
+19:20 "U: andrewfbell" 0.000299872
+19:21 "U: ireneau" 0.000298922
+19:22 "U: UofISocialWork" 0.000298889
+19:23 "U: JimBasney" 0.000297488
+19:24 "U: powersoffour" 0.000297488
+19:25 "U: ChicagoCIE" 0.000295529
+19:26 "U: Caltech" 0.000293702
+19:27 "U: TCIPG" 0.000293702
+20:1 "U: radiantmoondust" 0.00162306
+20:2 "U: Forbes" 0.0014634
+20:3 "U: Inc" 0.00118464
+20:4 "U: HarvardBiz" 0.000803488
+20:5 "U: FortuneMagazine" 0.000692394
+20:6 "U: YoungEnt" 0.000594166
+20:7 "U: ThinkwithGoogle" 0.000593513
+20:8 "U: IL_Leadership" 0.000577216
+20:9 "U: UIllLRev" 0.000505569
+20:10 "U: Entrepreneur" 0.000496857
+20:11 "U: snodgrss" 0.000442143
+20:12 "U: IlliniVideo" 0.000417673
+20:13 "U: IlliniNews1" 0.000399226
+20:14 "U: veerleop" 0.000333638
+20:15 "U: IlliniHockey" 0.000312155
+20:16 "U: CindyLin" 0.000311026
+20:17 "U: UIUC2017" 0.00031074
+20:18 "U: OccupyUIUC" 0.000305553
+21:1 "U: YouTube" 0.00163813
+21:2 "U: KrannertCenter" 0.00125218
+21:3 "U: katyperry" 0.000963588
+21:4 "U: starwars" 0.000607576
+21:5 "U: ananyacleetus" 0.000538649
+21:6 "U: IanMcKellen" 0.000487256
+21:7 "U: innovationuiuc" 0.000411155
+21:8 "U: alyankovic" 0.000398212
+21:9 "U: LMFAO" 0.000394104
+21:10 "U: RyanLewis" 0.000321951
+21:11 "U: macklemore" 0.000321951
+21:12 "U: jasonsegel" 0.000317194
+21:13 "U: PumpkinPiPics" 0.000305851
+21:14 "U: SethMacFarlane" 0.000303185
+21:15 "U: WarnerBrosEnt" 0.000302666
+21:16 "U: parksandrecnbc" 0.000301382
+21:17 "U: RollingStone" 0.000300416
+21:18 "U: PaulMcCartney" 0.000300076
+21:19 "U: MarkRuffalo" 0.000298631
+21:20 "U: Marvel" 0.000298631
+22:1 "U: AP" 0.00104785
+22:2 "U: Pontifex" 0.000869139
+22:3 "U: BuzzFeed" 0.000789354
+22:4 "U: washingtonpost" 0.000770859
+22:5 "U: Space_Station" 0.000667783
+22:6 "U: Philae2014" 0.000585281
+22:7 "U: NASAJPL" 0.000485701
+22:8 "U: TheAtlantic" 0.000413186
+22:9 "U: BuzzFeedNews" 0.000395076
+22:10 "U: vardi" 0.000393035
+22:11 "U: ISS_Research" 0.000383979
+22:12 "U: esa" 0.000381941
+22:13 "U: Pogue" 0.000381863
+22:14 "U: ACMSIGMOBILE" 0.000296658
+22:15 "U: ICPCNews" 0.000296658
+22:16 "U: alispagnola" 0.000296388
+22:17 "U: StationCDRKelly" 0.000289112
+22:18 "U: Gladwell" 0.000288218
+22:19 "U: startupheads" 0.000283664
+22:20 "U: sdxtech" 0.000283664
+22:21 "U: ACMSIGCAS" 9.63767e-05
+23:1 "U: jefferickson" 0.00109075
+23:2 "U: dpaola2" 0.00088578
+23:3 "U: bhargav" 0.000723978
+23:4 "U: UnsungHero97" 0.000594516
+23:5 "U: ericries" 0.000580552
+23:6 "U: trombonekenny" 0.000516174
+23:7 "U: kkarahal" 0.000507359
+23:8 "U: alephbass" 0.000498849
+23:9 "U: keen_io" 0.000483313
+23:10 "U: adairrabbit" 0.000403324
+23:11 "U: karpathy" 0.000380524
+23:12 "U: ibashes" 0.000324008
+23:13 "U: PHP_CEO" 0.000306027
+23:14 "U: ekta1651" 0.000300077
+23:15 "U: mgornick" 0.000296412
+23:16 "U: bmishkin" 0.000293374
+23:17 "U: choxi" 0.000290411
+23:18 "U: sameersundresh" 0.000288872
+23:19 "U: MrJamesMay" 0.000285145
+23:20 "U: RichardHammond" 0.00028373
+23:21 "U: fiandola" 9.88152e-05
+24:1 "U: ycombinator" 0.00234778
+24:2 "U: Dropbox" 0.00227114
+24:3 "U: shit_hn_says" 0.000698103
+24:4 "U: notch" 0.000678244
+24:5 "U: ID_AA_Carmack" 0.00067675
+24:6 "U: DalaiLama" 0.000586469
+24:7 "U: MacRumors" 0.000487027
+24:8 "U: pschiller" 0.00040231
+24:9 "U: worrydream" 0.000303818
+24:10 "U: newsycbot" 0.000292217
+24:11 "U: IndieCade" 0.000287196
+24:12 "U: romero" 0.000287169
+24:13 "U: clemzio" 9.73268e-05
+25:1 "U: MSFTResearch" 0.00155182
+25:2 "U: Microsoft" 0.00146656
+25:3 "U: Windows" 0.000947617
+25:4 "U: collegefreebies" 0.000852854
+25:5 "U: twittermedia" 0.00066139
+25:6 "U: MicrosoftJobs" 0.000586175
+25:7 "U: MSLearning" 0.000472121
+25:8 "U: MSCloud" 0.000469352
+25:9 "U: GoldmanSachs" 0.000388979
+25:10 "U: Office365" 0.00037666
+25:11 "U: msdev" 0.000375677
+25:12 "U: Lumia" 0.000375677
+25:13 "U: MSFTnews" 0.000282821
+25:14 "U: msftsecurity" 0.000187347
+25:15 "U: Yifan1992" 0
+26:1 "U: CNN" 0.00132906
+26:2 "U: TIME" 0.000941024
+26:3 "U: hootsuite" 0.000855636
+26:4 "U: kickstarter" 0.000669161
+26:5 "U: gtcomputing" 0.000587859
+26:6 "U: HackTX" 0.000495349
+26:7 "U: davemcclure" 0.000492971
+26:8 "U: timoreilly" 0.000477762
+26:9 "U: BreakingNews" 0.000376292
+26:10 "U: cnni" 0.000375973
+26:11 "U: StanfordBiz" 0.000306034
+26:12 "U: JerrySeinfeld" 0.000286729
+26:13 "U: chrisrock" 0.000284187
+26:14 "U: MarketingUK" 0.000283331
+26:15 "U: twittertv" 0.000283059
+26:16 "U: TwitterMusic" 0.000283059
+26:17 "U: GoogleRetail" 0.000281021
+26:18 "U: moreno8944" 0
+26:19 "U: BVrecruits" 0
+27:1 "U: HackIllinois" 0.00421448
+27:2 "U: Illini_Union" 0.00169884
+27:3 "U: SenSanders" 0.00125039
+27:4 "U: wikileaks" 0.000877796
+27:5 "U: Wikipedia" 0.000379613
+27:6 "U: mahir256" 0
+28:1 "U: sama" 0.00129648
+28:2 "U: FLOTUS" 0.00108661
+28:3 "U: gvanrossum" 0.000699917
+28:4 "U: SeinfeldToday" 0.000688376
+28:5 "U: nest" 0.000686435
+28:6 "U: travisk" 0.000604271
+28:7 "U: JakeWharton" 0.00040014
+28:8 "U: PalantirTech" 0.000396475
+28:9 "U: paul_irish" 0.000394867
+28:10 "U: planetmoney" 0.000393355
+28:11 "U: internetofshit" 0.000305339
+28:12 "U: EdwardTufte" 0.000303747
+28:13 "U: sparker" 0.000299682
+29:1 "U: sequoia" 0.000878416
+29:2 "U: girldevelopit" 0.000706931
+29:3 "U: hackNY" 0.000614655
+29:4 "U: mcuban" 0.000591141
+29:5 "U: CNET" 0.000586663
+29:6 "U: peterthiel" 0.000477947
+29:7 "U: CNETNews" 0.000476736
+29:8 "U: UTCompSci" 0.000380999
+29:9 "U: GDforEmployers" 0.000378123
+29:10 "U: UVaHackers" 0.000299612
+29:11 "U: CMU_ECE" 0.000286276
+29:12 "U: MconneX" 0.00028445
+29:13 "U: MichiganRoss" 0.00028445
+29:14 "U: ChicagoBears" 0.000282566
+29:15 "U: FastEntCareers" 0.000104879
+29:16 "U: mosesklee" 0
+30:1 "U: taylorswift13" 0.001362
+30:2 "U: NatGeo" 0.000853788
+30:3 "U: sachin_rt" 0.000660733
+30:4 "U: RealHughJackman" 0.000568516
+30:5 "U: justinbieber" 0.000566077
+30:6 "U: ParineetiChopra" 0.000385755
+30:7 "U: HBO" 0.000379701
+30:8 "U: MichiganACM" 0.000298418
+30:9 "U: S1dharthM" 0.000292082
+30:10 "U: selenagomez" 0.000285056
+30:11 "U: TheVijayMallya" 0.000281021
+30:12 "U: wbpictures" 0.000281021
+30:13 "U: shakira" 0.000187347
+30:14 "U: Piya_t" 0
+31:1 "U: codeschool" 0.000688804
+31:2 "U: guardian" 0.000476361
+31:3 "U: NBA" 0.000473444
+31:4 "U: nickrp" 0.000295688
+31:5 "U: XabiAlonso" 0.000287701
+31:6 "U: analyticbridge" 0.000285308
+31:7 "U: thesundaytimes" 0.000285056
+31:8 "U: treehouse" 0.000284978
+31:9 "U: MesutOzil1088" 0.000283033
+31:10 "U: Manuel_Neuer" 0.000283033
+31:11 "U: fbOpenSource" 0.000282436
+31:12 "U: cctvnews" 0.000282004
+31:13 "U: androidandme" 0.000281021
+31:14 "U: Cristiano" 0.000281021
+31:15 "U: FIFAWorldCup" 0.000281021
+31:16 "U: FIFAcom" 0.000281021
+31:17 "U: windowsdev" 0.000281021
+31:18 "U: BSchweinsteiger" 0.000281021
+31:19 "U: realmadrid" 0.000187347
+31:20 "U: BasiamaDuke" 0
+32:1 "U: IllinoisISE" 0.000493992
+32:2 "U: EGSAC_UIUC" 0.000489946
+32:3 "U: learnlibrary" 0.000386988
+32:4 "U: UIIceArena" 0.000386396
+32:5 "U: GradSWEillinois" 0.000385231
+32:6 "U: ybisk" 0.000303916
+32:7 "U: bilgeacun" 0.000302859
+32:8 "U: mprobson" 0.000299538
+32:9 "U: erinkmolloy" 0.000294216
+32:10 "U: NSFGRFP" 0.000294216
+32:11 "U: ugresearch_UI" 0.000293314
+32:12 "U: BIOENGatIL" 0.000293314
+32:13 "U: sciencegoddess" 0.000293054
+32:14 "U: RebeccaEE" 0.000291062
+32:15 "U: daniellejmai" 0.000291062
+32:16 "U: SWE_grad" 0.000287536
+32:17 "U: mechseILLINOIS" 0.000287536
+32:18 "U: kaggle" 0.000281902
+32:19 "U: atnmanuo" 9.74596e-05
+32:20 "U: thiagothiagotei" 0
+32:21 "U: DanielKhashabi" 0
+32:22 "U: qzhanguiuc" 0
+33:1 "U: NASA" 0.00262006
+33:2 "U: GirlsWhoCode" 0.00128367
+33:3 "U: oculus" 0.00066461
+33:4 "U: EA" 0.000380176
+33:5 "U: Pink" 0.000374695
+33:6 "U: unity3d" 0.000281021
+33:7 "U: xLindsAfurdx" 0
+34:1 "U: UIAA" 0.00151196
+34:2 "U: newsycombinator" 0.00126165
+34:3 "U: richardbranson" 0.000784068
+34:4 "U: whitehouseostp" 0.000523894
+34:5 "U: UNrightswire" 0.000433921
+34:6 "U: TechWomen" 0.000385607
+34:7 "U: kamilah" 0.000333576
+34:8 "U: MuseumAdvocait" 0.000210373
+34:9 "U: AlanTuringBr" 0
+35:1 "U: TwitterOSS" 0.000780154
+35:2 "U: CIA" 0.000775135
+35:3 "U: TeXtip" 0.000670754
+35:4 "U: JeffBezos" 0.000509229
+35:5 "U: jtoy" 0.000406883
+35:6 "U: DataSciFact" 0.000392516
+35:7 "U: solomonstre" 0.000389741
+35:8 "U: TopologyFact" 0.000382877
+35:9 "U: nikitab" 0.000316831
+35:10 "U: ronnyk" 0.000301121
+35:11 "U: NinjaEconomics" 0.000290333
+35:12 "U: AI_TCS" 0.000103067
+36:1 "U: instagram" 0.0010759
+36:2 "U: UN" 0.000753076
+36:3 "U: DHSgov" 0.00037873
+36:4 "U: StateDept" 0.00037873
+36:5 "U: FBI" 0.00037873
+36:6 "U: TEDchris" 0.000293941
+36:7 "U: JohnKerry" 0.000287039
+36:8 "U: SecretService" 0.000285056
+36:9 "U: USAgov" 0.000283724
+36:10 "U: fodorstravel" 0.000281021
+36:11 "U: ATT" 0.000281021
+36:12 "U: brianamarie132" 0.000281021
+36:13 "U: ksmit5a2" 0
+37:1 "U: MIT" 0.00144617
+37:2 "U: Stanford" 0.00143236
+37:3 "U: Harvard" 0.00047274
+37:4 "U: Cornell" 0.000380587
+37:5 "U: BrownUniversity" 0.000376521
+37:6 "U: Columbia" 0.000281021
+37:7 "U: Cambridge_Uni" 0.000187347
+37:8 "U: ccnubbs" 0
+38:1 "U: vine" 0.000966369
+38:2 "U: nginx" 0.000378652
+38:3 "U: Learn_Things" 0.000303985
+38:4 "U: DigitalTrends" 0.000292199
+38:5 "U: WHO" 0.000287701
+38:6 "U: F1" 0.000287701
+38:7 "U: Nonprofits" 0.000287016
+38:8 "U: _developin" 0.000284978
+38:9 "U: MurrayNewlands" 0.000283664
+38:10 "U: ambarmstrong" 0.000281021
+38:11 "U: Razer" 0.000281021
+38:12 "U: SAPTradeGeek" 0.000281021
+38:13 "U: kravanator" 0
+39:1 "U: NHLBlackhawks" 0.000776083
+39:2 "U: Raspberry_Pi" 0.000686745
+39:3 "U: climagic" 0.000588169
+39:4 "U: doctorow" 0.000314054
+39:5 "U: adafruit" 0.000308093
+39:6 "U: SavedYouAClick" 0.000296644
+39:7 "U: StrongBadActual" 0.000288884
+39:8 "U: nriley" 0.000287372
+39:9 "U: joshcorman" 0.000287372
+39:10 "U: 0xEnder" 9.71355e-05
+40:1 "U: github" 0.00313601
+40:2 "U: kevinlange" 0.000721578
+40:3 "U: ToAruOS" 0
+41:1 "U: EmWatson" 0.00124662
+41:2 "U: kudeki" 0.00111565
+41:3 "U: ladygaga" 0.000772947
+41:4 "U: jessicaalba" 0.000291952
+41:5 "U: AlessioXSorce" 0
+42:1 "U: jtimberlake" 0.00117675
+42:2 "U: BBCWorld" 0.0010769
+42:3 "U: coursera" 0.000517949
+42:4 "U: lootcrate" 0.000415068
+42:5 "U: benlandis" 0.00018999
+43:1 "U: hortonworks" 0.000469339
+43:2 "U: fizzanili" 0.000301101
+43:3 "U: amplab" 0.000284427
+43:4 "U: jaykreps" 0.000281992
+43:5 "U: neil_conway" 0.000281992
+43:6 "U: mapr" 0.000281992
+43:7 "U: goodreads" 0.000281992
+43:8 "U: IBMResearch" 0.000281021
+43:9 "U: rxin" 0.000281021
+43:10 "U: cassandra" 0.000281021
+43:11 "U: pbailis" 0.000187347
+43:12 "U: xiangdong" 9.36737e-05
+43:13 "U: fenggeorgeyu" 0
+43:14 "U: Alkinti" 0
+43:15 "U: leetcat__" 0
+43:16 "U: thehiddenstory" 0
+44:1 "U: matthewdierker" 0.00318717
+45:1 "U: askundergrad" 0.00133674
+45:2 "U: champaigncity" 0.00104782
+45:3 "U: urbanaparks" 0.000491132
+45:4 "U: stubbslab" 0.000303907
+45:5 "U: JosephMTroy" 0
+46:1 "U: POTUS" 0.00314536
+47:1 "U: yisongyue" 0.000304556
+47:2 "U: stop" 0.000286241
+47:3 "U: Trifacta" 0.000285087
+47:4 "U: jsfiddle" 0.000284978
+47:5 "U: BigDataGal" 0.000284657
+47:6 "U: peteskomoroch" 0.000284427
+47:7 "U: KirkDBorne" 0.000281021
+47:8 "U: jerrytalton" 0.000239158
+47:9 "U: bing" 0.000190754
+47:10 "U: el33th4xor" 0.000190754
+47:11 "U: SportsCenter" 0.000190754
+47:12 "U: Atlassian" 0.000187347
+47:13 "U: swish41" 9.70799e-05
+47:14 "U: 45e88f1793b2441" 0
+47:15 "U: ZubinPahuja" 0
+47:16 "U: chellam_chellam" 0
+47:17 "U: JustBeamIt" 0
+48:1 "U: TheDailyIllini" 0.00298657
+49:1 "U: googledevs" 0.00298348
+50:1 "U: mashabletech" 0.000601345
+50:2 "U: gigaom" 0.000594665
+50:3 "U: readyforce" 0.000428943
+50:4 "U: 1871Chicago" 0.000408145
+50:5 "U: Quora" 0.00040664
+50:6 "U: TED_TALKS" 0.000399707
+51:1 "U: xcrushhh" 0.00271937
+52:1 "U: SpaceX" 0.00271353
+53:1 "U: Android" 0.0025135
+54:1 "U: IllinoisOnBTN" 0.000382761
+54:2 "U: DragonFirePizza" 0.000382467
+54:3 "U: EmpanadasHouse" 0.000288793
+54:4 "U: ZooeyDeschanel" 0.000285782
+54:5 "U: buzzMagCU" 0.000285782
+54:6 "U: mental_floss" 0.000283652
+54:7 "U: noahfinny" 0.000283652
+54:8 "U: elankaroll" 9.5459e-05
+54:9 "U: margarinemargie" 9.45189e-05
+54:10 "U: noamseg" 0
+55:1 "U: intel" 0.0011398
+55:2 "U: trishtrashers" 0.000389791
+55:3 "U: sonamakapoor" 0.000385755
+55:4 "U: Cognizant" 0.000284978
+55:5 "U: venmanis" 0
+56:1 "U: acmoffice" 0.00216627
+57:1 "U: skamille" 0.000375849
+57:2 "U: odersky" 0.000374695
+57:3 "U: joshbloch" 0.000285483
+57:4 "U: jboner" 0.000284483
+57:5 "U: MagicRecs" 0.000283059
+57:6 "U: nathanmarz" 0.000282175
+57:7 "U: edburns" 9.36737e-05
+57:8 "U: rmalik" 9.36737e-05
+57:9 "U: kalyancgs" 0
+57:10 "U: muntasirraihan" 0
+57:11 "U: SteveBezek" 0
+58:1 "U: NCSAatIllinois" 0.00197286
+59:1 "U: techreview" 0.00195656
+60:1 "U: IlliniAlert" 0.00193692
+61:1 "U: AndroidDev" 0.00183074
+62:1 "U: googleanalytics" 0.000472574
+62:2 "U: AxelKoster" 0.000374695
+62:3 "U: OneGmartin" 0.000290695
+62:4 "U: BBCClick" 0.000284547
+62:5 "U: mattcutts" 0.000281021
+62:6 "U: bigdata_chile" 0
+63:1 "U: csgso" 0.00170276
+64:1 "U: TECenter" 0.00163723
+65:1 "U: ILinnovations" 0.00163251
+66:1 "U: TeslaMotors" 0.00161766
+67:1 "U: USCERT_gov" 0.000378157
+67:2 "U: AmerenIllinois" 0.000376733
+67:3 "U: argonne" 0.000285429
+67:4 "U: ENERGY" 0.00028375
+67:5 "U: MITSloan" 0.000281992
+67:6 "U: credcresearch" 0
+68:1 "U: billclinton" 0.00155304
+69:1 "U: BeckmanInst" 0.00155092
+70:1 "U: lifehacker" 0.00154891
+71:1 "U: marissamayer" 0.00154208
+72:1 "U: koomen" 0.000289202
+72:2 "U: feross" 0.000283033
+72:3 "U: kevjumba" 0.000281021
+72:4 "U: uxmag" 0.000281021
+72:5 "U: irtefa1" 0.000205911
+72:6 "U: _Snape_" 0.000187347
+72:7 "U: DaocunYang" 0
+72:8 "U: vc1105" 0
+72:9 "U: Root3d" 0
+72:10 "U: marz_shin" 0
+72:11 "U: elf101586" 0
+73:1 "U: uiucbusiness" 0.00151925
+74:1 "U: engadget" 0.00147017
+75:1 "U: iamjohnoliver" 0.00146296
+76:1 "U: satyanadella" 0.00145749
+77:1 "U: jimmyfallon" 0.00143593
+78:1 "U: SwiftOnSecurity" 0.00143325
+79:1 "U: TwitterU" 0.00137808
+80:1 "U: zhangyaxing" 0.00030302
+80:2 "U: zhongbo" 0.000288163
+80:3 "U: chenqian1024" 0.000288163
+80:4 "U: cssa_uiuc" 0.000193519
+80:5 "U: junleqian" 9.8176e-05
+80:6 "U: SHAQ" 9.53427e-05
+80:7 "U: euv921" 9.53427e-05
+81:1 "U: CSL_Illinois" 0.00136052
+82:1 "U: StephenAtHome" 0.00135837
+83:1 "U: verge" 0.00135764
+84:1 "U: HillaryClinton" 0.00126742
+85:1 "U: cityofurbana" 0.00125442
+86:1 "U: NewsAtIllinois" 0.00122823
+87:1 "U: digitalocean" 0.00119417
+88:1 "U: ConanOBrien" 0.00118139
+89:1 "U: IllinoisEOH" 0.00117777
+90:1 "U: graingerlibrary" 0.00117138
+91:1 "U: TheEllenShow" 0.00116665
+91:2 "U: tony" 0
+92:1 "U: twitterapi" 0.00115992
+93:1 "U: BillNye" 0.00115799
+94:1 "U: ActuallyNPH" 0.00110696
+95:1 "U: paulg" 0.00108453
+96:1 "U: jack" 0.00108276
+97:1 "U: MongoDB" 0.00106956
+98:1 "U: BBCBreaking" 0.0010494
+99:1 "U: mattmight" 0.000378101
+99:2 "U: UnixToolTip" 0.000375576
+99:3 "U: RegexTip" 0.000281902
+99:4 "U: sgord512" 0
+100:1 "U: GraingerBob" 0.000983482
+101:1 "U: JoinTheFlock" 0.000983379
+102:1 "U: jeffweiner" 0.000972208
+103:1 "U: VentureBeat" 0.000965456
+104:1 "U: gmail" 0.000965336
+105:1 "U: IlliniCampusRec" 0.000956616
+106:1 "U: UIUCQuotes" 0.00037554
+106:2 "U: UniofOxford" 0.000294016
+106:3 "U: AirAsia" 0.000285056
+106:4 "U: DaengFN_Taj" 0
+107:1 "U: visitchampaign" 0.000950322
+108:1 "U: Reuters" 0.000948391
+109:1 "U: anitaborg_org" 0.000887364
+110:1 "U: DonGerard" 0.000879235
+111:1 "U: WIREDScience" 0.000877206
+112:1 "U: BoilerMake1" 0.000876279
+113:1 "U: Square" 0.000873526
+114:1 "U: news_gazette" 0.00087016
+115:1 "U: arstechnica" 0.000869501
+116:1 "U: ILStuAffairs" 0.000857356
+117:1 "U: KAMillinois" 0.000856408
+118:1 "U: GoogleforWork" 0.000855038
+119:1 "U: IllinoisEngrIT" 0.000811873
+120:1 "U: BoredElonMusk" 0.000807126
+121:1 "U: dickc" 0.000798775
+122:1 "U: kumailn" 0.000785101
+123:1 "U: stevewoz" 0.000781788
+124:1 "U: GeorgeTakei" 0.000774248
+125:1 "U: NASA_Technology" 0.000772331
+126:1 "U: Pinterest" 0.000767733
+127:1 "U: urbanamarket" 0.000765141
+128:1 "U: design" 0.000762739
+129:1 "U: cloudera" 0.00076
+130:1 "U: Cisco" 0.000758364
+131:1 "U: FT" 0.000755301
+132:1 "U: CNBC" 0.000755175
+133:1 "U: HuffingtonPost" 0.000750987
+134:1 "U: chamila818" 0.000731746
+135:1 "U: illinisecure" 0.000722891
+136:1 "U: hackwithtrees" 0.000699314
+137:1 "U: GSElevator" 0.000697574
+138:1 "U: SupriyaHobbs" 0.000695889
+139:1 "U: AnnaKendrick47" 0.000694615
+140:1 "U: Jason" 0.000692485
+141:1 "U: CUVolunteer" 0.000394649
+141:2 "U: VP" 0.000296459
+141:3 "U: TheStacksCat" 0
+142:1 "U: StartupLJackson" 0.000682307
+143:1 "U: Airbnb" 0.000680747
+144:1 "U: MKBHD" 0.000678313
+145:1 "U: reidhoffman" 0.000673425
+146:1 "U: andersoncooper" 0.000673011
+147:1 "U: ev" 0.000672995
+148:1 "U: Sethrogen" 0.000672604
+149:1 "U: LastWeekTonight" 0.000672383
+150:1 "U: Uber" 0.000672337
+151:1 "U: colaburbana" 0.000670662
+152:1 "U: amazon" 0.000669508
+153:1 "U: 500Startups" 0.000668566
+154:1 "U: espn" 0.000666343
+155:1 "U: ChampaignPubLib" 0.000664861
+156:1 "U: hackingdata" 0.000660003
+157:1 "U: maroon5" 0.000659751
+158:1 "U: narendramodi" 0.000657754
+159:1 "U: DanShenGou" 0.000624864
+160:1 "U: coreoslinux" 0.000617657
+161:1 "U: BriannaIfft" 0.000616702
+162:1 "U: TopScholars1" 0.000601724
+163:1 "U: wece_uiuc" 0.000600496
+164:1 "U: donaldglover" 0.000599214
+165:1 "U: Firebase" 0.000596771
+166:1 "U: jeresig" 0.000595219
+167:1 "U: thehacktech" 0.000595192
+168:1 "U: HackTheNorth" 0.00059514
+169:1 "U: SteveCarell" 0.000593814
+170:1 "U: IGBIllinois" 0.000593698
+171:1 "U: TwitterData" 0.000589546
+172:1 "U: IllinoisARI" 0.000588728
+173:1 "U: levie" 0.00058457
+174:1 "U: AppStore" 0.000584048
+175:1 "U: CyanogenMod" 0.0005825
+176:1 "U: SebastianThrun" 0.000582046
+177:1 "U: bitcmp" 0.000579242
+178:1 "U: IlliniCrushes" 0.000579217
+179:1 "U: hackerrank" 0.0005767
+180:1 "U: Yahoo" 0.000576086
+181:1 "U: adityagp" 0.000574828
+182:1 "U: ChromiumDev" 0.000573661
+183:1 "U: PHDcomics" 0.000573529
+184:1 "U: addyosmani" 0.000572246
+185:1 "U: PayPal" 0.000572165
+186:1 "U: RWW" 0.000569652
+187:1 "U: TheNextWeb" 0.000569652
+188:1 "U: BW" 0.000569292
+189:1 "U: KingJames" 0.000567117
+190:1 "U: businessinsider" 0.000566982
+191:1 "U: swecrs" 0.00028375
+191:2 "U: adamlevine" 0.000281021
+191:3 "U: arielinwen" 0
+191:4 "U: _xingjiang_" 0
+191:5 "U: Jiarui_Xu" 0
+191:6 "U: shreyas208" 0
+192:1 "U: kaifulee" 0.000563711
+193:1 "U: kdnuggets" 0.000562923
+194:1 "U: Adele" 0.000562042
+195:1 "U: UnivHousing" 0.000506041
+196:1 "U: HackPrinceton" 0.000500225
+197:1 "U: TwitterSF" 0.000498682
+198:1 "U: NateSilver538" 0.000496541
+199:1 "U: JonahHill" 0.000495325
+200:1 "U: stewart" 0.000494157
+201:1 "U: Real_CSS_Tricks" 0.000493783
+202:1 "U: bfeld" 0.000492673
+203:1 "U: UrbanaPD" 0.000489257
+204:1 "U: GreylockVC" 0.000487113
+205:1 "U: AppleMusic" 0.000486892
+206:1 "U: DavidSacks" 0.000486868
+207:1 "U: meteorjs" 0.000485981
+208:1 "U: NewYorker" 0.00048562
+209:1 "U: TheTweetOfGod" 0.000485346
+210:1 "U: fb_engineering" 0.000484978
+211:1 "U: chambanamoms" 0.000484647
+212:1 "U: USFSCO" 0.00048428
+213:1 "U: JavaScriptDaily" 0.000484143
+214:1 "U: IllinoisLGBTRC" 0.000483644
+215:1 "U: Nike" 0.000482891
+216:1 "U: xdadevelopers" 0.000481942
+217:1 "U: oneplus" 0.000479854
+218:1 "U: HistoryInPics" 0.000479203
+219:1 "U: igrigorik" 0.000479177
+220:1 "U: AndrewYNg" 0.000478979
+221:1 "U: Snapchat" 0.000478903
+222:1 "U: mozilla" 0.000478325
+223:1 "U: stevenstrogatz" 0.000478008
+224:1 "U: AmericanExpress" 0.000477186
+225:1 "U: ubuntu" 0.000476858
+226:1 "U: AngelList" 0.000476242
+227:1 "U: Sony" 0.000474753
+228:1 "U: coldplay" 0.000474456
+229:1 "U: Support" 0.000474364
+230:1 "U: Drake" 0.000474345
+231:1 "U: WSJbusiness" 0.00047428
+232:1 "U: FinancialTimes" 0.00047428
+233:1 "U: SamsungMobile" 0.000473386
+234:1 "U: Spotify" 0.000473115
+235:1 "U: msuster" 0.000472975
+236:1 "U: EconEconomics" 0.000472325
+237:1 "U: guardiantech" 0.000472325
+238:1 "U: mashsocialmedia" 0.000472021
+239:1 "U: BrunoMars" 0.000471775
+240:1 "U: twittermobile" 0.000471378
+241:1 "U: reddit" 0.000471326
+242:1 "U: Chase" 0.000470767
+243:1 "U: Azure" 0.000470767
+244:1 "U: VisualStudio" 0.000282004
+244:2 "U: Outlook" 0.000187347
+244:3 "U: vishrutreddi" 0
+244:4 "U: shenghuiyang" 0
+245:1 "U: RNTata2000" 0.000468368
+246:1 "U: _benng" 0.000424441
+247:1 "U: VirginAmerica" 0.000414997
+248:1 "U: terns" 0.000405008
+249:1 "U: funnyordie" 0.000403824
+250:1 "U: MSTEOffice" 0.000402998
+251:1 "U: jeremys" 0.000402424
+252:1 "U: UIarchives" 0.00039759
+253:1 "U: NUWildHacks" 0.000397077
+254:1 "U: IFTTT" 0.000396725
+255:1 "U: VT_Hacks" 0.000395719
+256:1 "U: karaswisher" 0.000394772
+257:1 "U: aproposeinc" 0.000394197
+258:1 "U: lessig" 0.000393976
+259:1 "U: jgebbia" 0.000393708
+260:1 "U: melindagates" 0.000393703
+261:1 "U: vkhosla" 0.000393031
+262:1 "U: TwitterForNews" 0.000393014
+263:1 "U: CNNMoney" 0.000392433
+264:1 "U: twilio" 0.00039232
+265:1 "U: GrubHub" 0.000392173
+266:1 "U: hackatbrown" 0.000391683
+267:1 "U: lazowska" 0.000391096
+268:1 "U: periscopeco" 0.000390891
+269:1 "U: npmjs" 0.000390469
+270:1 "U: nvidia" 0.000389569
+271:1 "U: alexbratton" 0.000389498
+272:1 "U: RonConway" 0.000387945
+273:1 "U: AtomEditor" 0.000387256
+274:1 "U: gatesfoundation" 0.000387238
+275:1 "U: MIT_CSAIL" 0.000387208
+276:1 "U: PhysicsIllinois" 0.000386743
+277:1 "U: defunkt" 0.000386349
+278:1 "U: tumblr" 0.000386303
+279:1 "U: JamesFrancoTV" 0.000386291
+280:1 "U: WCIA3" 0.000385869
+281:1 "U: mathematicsprof" 0.000385216
+282:1 "U: maanow" 0.000385216
+283:1 "U: urbanabusiness" 0.000384467
+284:1 "U: RichardDawkins" 0.00038438
+285:1 "U: dhh" 0.000384223
+286:1 "U: PopSci" 0.000383784
+287:1 "U: HRHWill" 0.000383761
+288:1 "U: VMware" 0.000383568
+289:1 "U: ThePSF" 0.000382887
+290:1 "U: adamdangelo" 0.000382655
+291:1 "U: fredwilson" 0.000382396
+292:1 "U: CERN" 0.000382383
+293:1 "U: UIMakerLab" 0.000381375
+294:1 "U: MicrosoftEdge" 0.000381079
+295:1 "U: IllinoisCS_ICPC" 0.000380853
+296:1 "U: golangweekly" 0.000380729
+297:1 "U: UrbanaFree" 0.000380681
+298:1 "U: rails" 0.000380606
+299:1 "U: digg" 0.00038058
+300:1 "U: TweetDeck" 0.000380504
+301:1 "U: kanyewest" 0.000380342
+302:1 "U: steam_games" 0.000380242
+303:1 "U: googlecodejam" 0.000380164
+304:1 "U: BrothersUofI" 0.000380143
+305:1 "U: w3c" 0.000379842
+306:1 "U: timberners_lee" 0.000379842
+307:1 "U: jure" 0.000379731
+308:1 "U: Oracle" 0.000379634
+309:1 "U: pcworld" 0.000379634
+310:1 "U: JapanHouseUofI" 0.000379326
+311:1 "U: strataconf" 0.000379301
+312:1 "U: iamsrk" 0.000379298
+313:1 "U: BryanCranston" 0.000379139
+314:1 "U: ChampaignPD" 0.000378833
+315:1 "U: karger" 0.00037876
+316:1 "U: PlayStation" 0.00037873
+317:1 "U: TripAdvisor" 0.00037873
+318:1 "U: MarketWatch" 0.000378652
+319:1 "U: usedgov" 0.000378652
+320:1 "U: educationweek" 0.000378652
+321:1 "U: NYTScience" 0.000378101
+322:1 "U: aaronpaul_8" 0.00037786
+323:1 "U: mxcl" 0.000377815
+324:1 "U: stanfordnlp" 0.000377815
+325:1 "U: jeb_" 0.000377622
+326:1 "U: linuxfoundation" 0.000377189
+327:1 "U: IBM" 0.000377122
+328:1 "U: Newsweek" 0.000375973
+329:1 "U: Samsungtweets" 0.000375677
+330:1 "U: imVkohli" 0.000374695
+331:1 "U: BBCBusiness" 0.000374695
+332:1 "U: FarOutAkhtar" 0.000374695
+333:1 "U: AvrilLavigne" 0.000374695
+334:1 "U: IBMbigdata" 0.000374695
+335:1 "U: jimmykimmel" 0.000374695
+336:1 "U: kobebryant" 9.36737e-05
+336:2 "U: CP3" 9.36737e-05
+336:3 "U: carmeloanthony" 9.36737e-05
+336:4 "U: JHarden13" 9.36737e-05
+336:5 "U: vishaalganesan" 0
+337:1 "U: UserhelpCS" 0.000329326
+338:1 "U: jmozen" 0.00032222
+339:1 "U: thenikiwells" 0.000315725
+340:1 "U: lordemusic" 0.000315028
+341:1 "U: _bsiddiqui" 0.00031455
+342:1 "U: nytgraphics" 0.00031455
+343:1 "U: abril_vela" 0.000314368
+344:1 "U: katespadeny" 0.000312076
+345:1 "U: DemetriMartin" 0.000311152
+346:1 "U: Etsy" 0.000310676
+347:1 "U: Benioff" 0.000308153
+348:1 "U: 18F" 0.0003078
+349:1 "U: twoffice" 0.000307378
+350:1 "U: LeagueOfLegends" 0.000307282
+351:1 "U: BigRedHacks" 0.000306175
+352:1 "U: clpwn" 0.000305591
+353:1 "U: UIEngrAlums" 0.000305317
+354:1 "U: BWiComputing" 0.000304937
+355:1 "U: learningcode" 0.000304937
+356:1 "U: Bountysource" 0.000304558
+357:1 "U: McGillHacks" 0.00030219
+358:1 "U: michaelarmbrust" 0.000301844
+359:1 "U: IEEEInstitute" 0.000301619
+360:1 "U: CollegeHumor" 0.000301231
+361:1 "U: NASANewHorizons" 0.000301097
+362:1 "U: ggreenwald" 0.000301096
+363:1 "U: madeon" 0.00030045
+364:1 "U: TIMEHealth" 0.00030035
+365:1 "U: dart_lang" 0.000299777
+366:1 "U: MaterialUp" 0.000299508
+367:1 "U: mgsiegler" 0.000299319
+368:1 "U: sherylsandberg" 0.00029914
+369:1 "U: nottjmiller" 0.000298928
+370:1 "U: GEResearch" 0.000298906
+371:1 "U: balajis" 0.000298438
+372:1 "U: SathvikaA" 0.000297968
+373:1 "U: rogerdickey" 0.000297923
+374:1 "U: onlyinsf" 0.000297465
+375:1 "U: akshaybajaj" 0.000297351
+376:1 "U: ProductHunt" 0.000296814
+377:1 "U: theHackNC" 0.000296796
+378:1 "U: html5doctor" 0.000296796
+379:1 "U: dailyjs" 0.000296796
+380:1 "U: edXOnline" 0.000296198
+381:1 "U: hackerleague" 0.000296183
+382:1 "U: ebaystudents" 0.000295906
+383:1 "U: ColIegeStudent" 0.000295889
+384:1 "U: AngularJS_News" 0.000295812
+385:1 "U: university" 0.000295651
+386:1 "U: recruiterbro" 0.000295211
+387:1 "U: CalHacks" 0.00029497
+388:1 "U: TalkAndroid" 0.00029469
+389:1 "U: RodneyDavis" 0.000294616
+390:1 "U: PearlHacks" 0.000294371
+391:1 "U: purduehackers" 0.000294053
+392:1 "U: aileenlee" 0.00029405
+393:1 "U: peteratmsr" 0.000294016
+394:1 "U: TwitterSports" 0.000293894
+395:1 "U: PhilzCoffee" 0.000293613
+396:1 "U: nickparsons" 0.000292691
+397:1 "U: LanaDelRey" 0.000292666
+398:1 "U: periscopetv" 0.000292576
+399:1 "U: overleaf" 0.000292576
+400:1 "U: ABC" 0.000291894
+401:1 "U: RottenTomatoes" 0.000291855
+402:1 "U: kubernetesio" 0.000291829
+403:1 "U: johnmaeda" 0.000291653
+404:1 "U: hitRECordJoe" 0.000291112
+405:1 "U: TheRealBuzz" 0.000291024
+406:1 "U: MitraIllinois" 0.000290808
+407:1 "U: TEDNews" 0.000290661
+408:1 "U: chancetherapper" 0.000290537
+409:1 "U: Chad_Hurley" 0.000290414
+410:1 "U: earnmyturns" 0.000290414
+411:1 "U: amazontechdeals" 0.000290095
+412:1 "U: writemegwrite" 0.000289994
+413:1 "U: ClintonFdn" 0.000289929
+414:1 "U: foundersfund" 0.00028985
+415:1 "U: ABC7Chicago" 0.00028937
+416:1 "U: GitHubEducation" 0.000289213
+417:1 "U: Adobe" 0.000289044
+418:1 "U: LauraFrerichs" 0.00028899
+419:1 "U: 88PKane" 0.000288584
+420:1 "U: twittercomms" 0.000288533
+421:1 "U: techemployee" 0.000288235
+422:1 "U: Uber_SF" 0.000288235
+423:1 "U: msbernst" 0.000288207
+424:1 "U: codeascraft" 0.000288144
+425:1 "U: GoogleMobile" 0.000288016
+426:1 "U: davidaxelrod" 0.000287965
+427:1 "U: preskill" 0.000287954
+428:1 "U: astonmartin" 0.000287701
+429:1 "U: JeremyClarkson" 0.000287701
+430:1 "U: jesslivingston" 0.000287668
+431:1 "U: danieltosh" 0.000287608
+432:1 "U: CarnegieMellon" 0.000287402
+433:1 "U: Amazing_Maps" 0.000287081
+434:1 "U: bjnovak" 0.00028699
+435:1 "U: jetbrains" 0.000286778
+436:1 "U: missmayim" 0.000286763
+436:2 "U: davidweiner23" 0
+437:1 "U: JohnLegere" 0.000286652
+438:1 "U: Wealthfront" 0.000286637
+439:1 "U: ifoundry" 0.000286633
+440:1 "U: nasahqphoto" 0.000286608
+441:1 "U: OpenStack" 0.000286393
+442:1 "U: KDTrey5" 0.000286227
+443:1 "U: TwitterDev" 0.000286132
+444:1 "U: stripe" 0.000285961
+445:1 "U: OracleDatabase" 0.00028596
+446:1 "U: hulu" 0.000285939
+447:1 "U: Xbox" 0.000285938
+448:1 "U: chicagoideas" 0.000285823
+449:1 "U: uiucisa" 0.000285575
+450:1 "U: mindykaling" 0.000285558
+451:1 "U: nixcraft" 0.000285554
+452:1 "U: aboutdotme" 0.000285238
+453:1 "U: LeetCode" 0.000285216
+454:1 "U: NVIDIAGeForce" 0.000285056
+455:1 "U: EMCcorp" 0.000285056
+456:1 "U: GreenDay" 0.000285056
+457:1 "U: YahooFinance" 0.000284978
+458:1 "U: mashbusiness" 0.000284978
+459:1 "U: ReutersBiz" 0.000284978
+460:1 "U: Photoshop" 0.000284978
+461:1 "U: bldwin" 0.000284978
+462:1 "U: femfreq" 0.000284978
+463:1 "U: UNICEF" 0.000284978
+464:1 "U: java" 0.000284978
+465:1 "U: edutopia" 0.000284978
+466:1 "U: ReactJSNews" 0.000284978
+467:1 "U: TeamCoco" 0.000284657
+468:1 "U: NVIDIATesla" 0.000284547
+469:1 "U: topcoder" 0.000284474
+470:1 "U: Flickr" 0.000284427
+471:1 "U: johnplattml" 0.000284427
+472:1 "U: waitbutwhy" 0.000284427
+473:1 "U: UIUCLinguistics" 0.000284131
+474:1 "U: UChicagoCareers" 0.000283729
+475:1 "U: googleearth" 0.000283449
+476:1 "U: CHANEL" 0.000283437
+477:1 "U: Flight" 0.000283059
+478:1 "U: Wolfram_Alpha" 0.000283059
+479:1 "U: andresiniesta8" 0.000282821
+480:1 "U: cesc4official" 0.000282821
+481:1 "U: KAKA" 0.00028269
+482:1 "U: ValaAfshar" 0.000282619
+483:1 "U: NPRextra" 0.000282566
+484:1 "U: ELLEmagazine" 0.000282466
+485:1 "U: MarsOrbiter" 0.000282436
+486:1 "U: ESPNcricinfo" 0.000282436
+487:1 "U: ApacheMesos" 0.000282436
+488:1 "U: IBMAnalytics" 0.000282003
+489:1 "U: applenws" 0.000281992
+490:1 "U: MITEECS" 0.000281992
+491:1 "U: ScienceNews" 0.000281902
+492:1 "U: Discovery" 0.000281902
+493:1 "U: googledrive" 0.000281021
+494:1 "U: Davos" 0.000281021
+495:1 "U: UNDP" 0.000281021
+496:1 "U: gattaca" 0.000281021
+497:1 "U: bhogleharsha" 0.000281021
+498:1 "U: AnupamPkher" 0.000281021
+499:1 "U: thekiranbedi" 0.000281021
+500:1 "U: juniorbachchan" 0.000281021
+501:1 "U: ChampionsLeague" 0.000281021
+502:1 "U: LuisSuarez9" 0.000281021
+503:1 "U: mckeay" 0.000281021
+504:1 "U: JLo" 0.000281021
+505:1 "U: LeapMotion" 0.000281021
+506:1 "U: onedirection" 0.000281021
+507:1 "U: AndroidAuth" 0.000281021
+508:1 "U: pitbull" 0.000281021
+509:1 "U: ogrisel" 0.000281021
+510:1 "U: meghanmarkle" 0.000281021
+511:1 "U: sardesairajdeep" 0.000281021
+512:1 "U: nytopinion" 0.000281021
+513:1 "U: ibmevents" 0.000281021
+514:1 "U: mengyalan" 0.000205911
+515:1 "U: Lightroom" 0.000191304
+516:1 "U: FCC" 0.000189576
+516:2 "U: ChrisJd09" 0
+517:1 "U: StephenCurry30" 0.000189147
+518:1 "U: SIGpwny" 9.36737e-05
+518:2 "U: alus21" 0
+519:1 "U: waltersn512" 9.36737e-05
+519:2 "U: Daniel5082" 0
+520:1 "U: owen_lyn" 0
+521:1 "U: Haloamyy" 0
+522:1 "U: vivalasiesta" 0
+523:1 "U: rajath26" 0
+524:1 "U: alexjcord" 0
+525:1 "U: ChrisC_Pearson" 0
+526:1 "U: 3RedTrading" 0
+527:1 "U: ParijatMazumdar" 0
+528:1 "U: IamSaleeq" 0
+529:1 "U: pr_aravind" 0
+530:1 "U: mrbinson" 0
+531:1 "U: ashishbijlani" 0
+532:1 "U: DeeMoe" 0
+533:1 "U: brajabapun" 0
+534:1 "U: Claudia_WW20" 0
+535:1 "U: BeyondTheSea7" 0
+536:1 "U: ColinGraber" 0
+537:1 "U: bradenehrat" 0
+538:1 "U: hrukalive" 0
+539:1 "U: PraneetSahgal" 0
+540:1 "U: Lindcap98" 0
+541:1 "U: robbenyang" 0
+*Links 2866
+1 2 0.00294941
+1 3 0.00214027
+1 4 0.00846826
+1 5 0.00435484
+1 6 0.00732063
+1 7 0.00746159
+1 8 0.0103313
+1 9 0.00804515
+1 10 0.00998677
+1 11 0.00166141
+1 12 0.00732968
+1 13 0.00716512
+1 14 0.00367761
+1 15 0.00529327
+1 16 0.00345583
+1 17 0.00453046
+1 18 0.00401482
+1 19 0.00430417
+1 20 0.00274047
+1 21 0.00252858
+1 22 0.00260094
+1 23 0.00304088
+1 24 0.00286887
+1 25 0.00179775
+1 26 0.00111937
+1 27 0.00367206
+1 28 0.00356189
+1 29 0.00175573
+1 30 0.00100272
+1 31 0.00089712
+1 32 0.000305587
+1 33 0.00176989
+1 34 0.00124078
+1 35 0.0011966
+1 36 0.00118654
+1 37 0.00057573
+1 38 0.000722688
+1 39 0.00142415
+1 40 0.0018332
+1 41 0.00112524
+1 42 0.000192828
+1 44 0.00228632
+1 45 0.000287485
+1 46 0.00133621
+1 47 0.000204765
+1 48 0.000317724
+1 49 0.000905802
+1 50 0.00100962
+1 51 0.00201143
+1 52 0.00119807
+1 53 0.000806483
+1 54 0.000100894
+1 55 0.000288731
+1 56 0.000546105
+1 57 9.81357e-05
+1 58 0.000804758
+1 59 0.000611749
+1 60 0.000413979
+1 61 0.000597614
+1 64 0.000388757
+1 65 0.000293257
+1 66 0.000578732
+1 68 0.00079185
+1 69 0.00048995
+1 70 0.000416333
+1 71 0.000308607
+1 72 0.00021208
+1 73 0.000198071
+1 74 0.00042421
+1 75 0.000706875
+1 76 0.000506877
+1 77 0.000492926
+1 78 0.000848659
+1 79 0.000621182
+1 81 0.000198631
+1 82 0.000506119
+1 83 0.000501272
+1 84 0.000507391
+1 85 0.000301091
+1 86 9.73093e-05
+1 87 0.000721849
+1 88 0.000617341
+1 89 0.000309507
+1 90 0.000101792
+1 91 0.000410339
+1 92 0.000309894
+1 93 0.000590134
+1 94 0.000633454
+1 95 0.000514898
+1 96 0.000509577
+1 97 0.000690911
+1 98 0.000104508
+1 100 0.000313429
+1 101 0.000512002
+1 102 0.000307954
+1 103 0.000198182
+1 104 0.000306969
+1 105 0.000198582
+1 106 9.77091e-05
+1 108 0.000192885
+1 109 0.000199074
+1 110 0.00049629
+1 111 0.000100894
+1 112 0.000403954
+1 113 0.000489733
+1 114 0.000197552
+1 115 0.000191902
+1 116 9.82281e-05
+1 118 9.77091e-05
+1 119 0.000434295
+1 120 0.000423608
+1 121 0.000309894
+1 122 0.000502068
+1 123 0.000403687
+1 124 0.000296317
+1 125 0.000296599
+1 126 0.000195018
+1 128 0.000290208
+1 129 0.000103314
+1 130 9.77091e-05
+1 131 9.46569e-05
+1 132 9.46569e-05
+1 134 0.000522561
+1 135 0.00021718
+1 136 0.00050801
+1 137 0.000319896
+1 138 0.000501856
+1 139 0.000507267
+1 140 0.00029995
+1 141 0.000202785
+1 142 0.00039765
+1 143 0.000299526
+1 144 0.000397292
+1 145 0.000195022
+1 146 0.000288887
+1 147 0.000292331
+1 148 0.000291337
+1 149 0.000202736
+1 150 0.000290933
+1 151 0.000195029
+1 152 0.000192895
+1 153 0.00028876
+1 154 0.000100894
+1 157 9.77091e-05
+1 159 0.000431404
+1 160 0.000410524
+1 161 0.000314787
+1 162 0.000104508
+1 163 0.000319475
+1 164 0.000410712
+1 165 0.000405467
+1 166 0.000310736
+1 167 0.000403887
+1 168 0.000403836
+1 169 0.000404455
+1 171 0.000301558
+1 173 0.000298438
+1 174 0.00020187
+1 175 0.000395153
+1 176 0.000103314
+1 177 0.000104879
+1 178 0.000203677
+1 179 0.000199967
+1 180 0.000100354
+1 181 9.77091e-05
+1 182 0.000100354
+1 183 9.82281e-05
+1 184 0.00019554
+1 185 9.77091e-05
+1 187 9.36737e-05
+1 188 9.46569e-05
+1 190 9.46569e-05
+1 192 9.36737e-05
+1 195 0.000112237
+1 196 0.00030892
+1 197 0.000211666
+1 198 0.000307194
+1 199 0.000211138
+1 200 0.000299338
+1 201 0.000302479
+1 202 0.000292331
+1 203 0.000106266
+1 204 0.000298167
+1 205 0.00020499
+1 206 0.000297923
+1 207 0.000294677
+1 208 0.000203628
+1 209 0.000201449
+1 210 0.000200975
+1 213 0.000199165
+1 215 0.000108196
+1 216 0.000199939
+1 217 0.000288887
+1 218 0.000104508
+1 219 9.50887e-05
+1 220 0.000103314
+1 221 0.000100354
+1 222 0.000193347
+1 223 0.000103314
+1 224 0.000192366
+1 225 9.51856e-05
+1 226 0.00019321
+1 227 9.51191e-05
+1 230 9.67938e-05
+1 231 9.46569e-05
+1 232 9.46569e-05
+1 233 0.000191383
+1 234 9.55004e-05
+1 235 9.73093e-05
+1 241 0.000190305
+1 242 0.000189746
+1 243 0.000189746
+1 244 9.46569e-05
+1 246 0.000311658
+1 247 0.000116994
+1 248 0.000211666
+1 249 0.000211279
+1 251 0.000205683
+1 253 0.000205773
+1 254 0.000203382
+1 255 0.000298088
+1 256 0.000108196
+1 257 0.000103665
+1 258 0.000199101
+1 260 0.000101792
+1 261 0.000205683
+1 262 0.000203628
+1 263 0.000107455
+1 264 0.000201016
+1 265 0.000202069
+1 266 0.000200379
+1 268 0.000203544
+1 269 0.000199165
+1 270 0.000286502
+1 271 0.000101792
+1 272 0.000198586
+1 273 9.82281e-05
+1 274 9.73093e-05
+1 275 9.67938e-05
+1 277 0.00019554
+1 278 0.000100354
+1 279 0.000195537
+1 281 0.000103314
+1 282 0.000103314
+1 284 0.000193414
+1 285 0.000193414
+1 286 9.82281e-05
+1 287 0.000195443
+1 288 9.77091e-05
+1 289 0.00019554
+1 290 9.82281e-05
+1 291 9.73093e-05
+1 292 9.77091e-05
+1 293 0.000100354
+1 294 9.51191e-05
+1 296 0.000287055
+1 298 9.46569e-05
+1 301 9.73093e-05
+1 302 0.000192895
+1 303 9.51856e-05
+1 304 9.8277e-05
+1 305 0.000192495
+1 306 0.000192495
+1 311 9.73093e-05
+1 312 0.000191951
+1 314 9.46569e-05
+1 316 9.77091e-05
+1 317 9.77091e-05
+1 323 0.000190467
+1 324 9.67938e-05
+1 325 0.000190274
+1 326 9.51856e-05
+1 327 9.51191e-05
+1 337 0.000115388
+1 338 0.000112237
+1 339 0.000220266
+1 340 0.000221354
+1 341 0.000220876
+1 342 0.000220876
+1 343 0.000216738
+1 344 0.000218402
+1 345 0.000216597
+1 346 0.000213596
+1 347 0.000107455
+1 348 0.000214126
+1 349 0.000211666
+1 350 0.000213608
+1 351 0.000208544
+1 352 0.000210373
+1 354 0.000108196
+1 355 0.000108196
+1 356 0.000207423
+1 357 0.00020456
+1 358 0.000204765
+1 359 0.000104879
+1 360 0.000113002
+1 361 0.000207423
+1 362 0.000207423
+1 363 0.000204765
+1 364 0.000113002
+1 365 0.000202146
+1 366 0.000202215
+1 367 0.000204765
+1 369 0.000205255
+1 370 0.000205233
+1 371 0.000204765
+1 372 0.000104879
+1 373 0.000204249
+1 374 0.000202194
+1 375 0.000203677
+1 376 0.000107455
+1 377 0.000199166
+1 378 0.000199165
+1 379 0.000199165
+1 380 9.55004e-05
+1 381 0.000198552
+1 382 0.000104508
+1 383 0.000108542
+1 384 0.000104508
+1 385 0.000106266
+1 386 0.000106266
+1 387 0.000103665
+1 388 0.000201016
+1 389 0.000104879
+1 390 9.36737e-05
+1 391 0.000200379
+1 392 9.73093e-05
+1 394 0.000104508
+1 395 0.000106266
+1 396 0.000199017
+1 397 0.000101792
+1 398 0.00010319
+1 399 0.00010319
+1 400 0.000103665
+1 401 0.000104508
+1 402 9.50887e-05
+1 403 9.82281e-05
+1 404 9.82281e-05
+1 405 0.000196505
+1 406 0.000101792
+1 407 0.000196987
+1 408 0.00010319
+1 411 0.00019554
+1 414 0.000195022
+1 415 0.000100354
+1 416 0.00019554
+1 418 0.000195317
+1 419 0.000193366
+1 421 9.81357e-05
+1 422 9.81357e-05
+1 423 9.67938e-05
+1 425 9.54737e-05
+1 426 9.82281e-05
+1 428 0.000100354
+1 429 0.000194028
+1 430 9.67938e-05
+1 431 9.51191e-05
+1 432 0.000193729
+1 433 9.81357e-05
+1 434 0.000193317
+1 435 9.54737e-05
+1 438 9.81357e-05
+1 440 0.000192934
+1 441 9.50887e-05
+1 442 9.54737e-05
+1 444 9.46569e-05
+1 446 9.51856e-05
+1 447 9.77091e-05
+1 449 9.82281e-05
+1 451 0.000189842
+1 452 0.000190593
+1 454 0.000191383
+1 455 9.77091e-05
+1 456 9.77091e-05
+1 461 9.36737e-05
+1 467 9.73093e-05
+1 469 9.50887e-05
+1 473 9.59027e-05
+1 474 9.55004e-05
+1 475 9.51191e-05
+1 476 9.51191e-05
+1 479 0.000189147
+1 480 0.000189147
+1 481 9.36737e-05
+1 484 9.51191e-05
+1 485 9.50887e-05
+1 486 9.50887e-05
+1 487 9.50887e-05
+1 502 9.36737e-05
+1 505 9.36737e-05
+1 512 9.36737e-05
+1 514 0.000112237
+1 516 9.59027e-05
+1 517 9.54737e-05
+2 1 0.00019467
+2 4 0.0017873
+2 5 0.0059507
+2 6 0.000949618
+2 7 0.00255168
+2 8 9.36737e-05
+2 9 0.000769555
+2 10 0.000564352
+2 11 0.00405219
+2 13 0.000468368
+2 14 0.0006684
+2 15 0.000376239
+2 16 0.000391438
+2 17 9.36737e-05
+2 18 0.000189657
+2 19 0.000578194
+2 20 0.0014489
+2 21 0.000939046
+2 22 0.000283331
+2 24 9.36737e-05
+2 25 0.000571833
+2 26 0.000569539
+2 27 0.000468368
+2 29 9.52184e-05
+2 30 0.000562042
+2 32 0.000590342
+2 34 0.000564352
+2 35 0.000193126
+2 36 9.36737e-05
+2 39 9.52184e-05
+2 41 0.000374695
+2 42 0.000281021
+2 43 9.36737e-05
+2 45 0.000759181
+2 46 9.52184e-05
+2 48 0.000658025
+2 49 9.36737e-05
+2 54 9.36737e-05
+2 56 0.000281021
+2 58 0.000194079
+2 60 0.000382191
+2 63 0.000281021
+2 64 9.36737e-05
+2 65 0.000481643
+2 67 9.36737e-05
+2 68 9.52184e-05
+2 69 0.000281021
+2 71 9.36737e-05
+2 72 9.36737e-05
+2 73 0.000468368
+2 77 0.000187347
+2 81 0.000288518
+2 84 0.000188892
+2 85 0.000283331
+2 86 0.000281021
+2 88 9.36737e-05
+2 89 0.000101155
+2 90 9.88608e-05
+2 92 9.36737e-05
+2 94 9.36737e-05
+2 99 9.36737e-05
+2 100 0.00029369
+2 105 0.000281021
+2 106 9.36737e-05
+2 107 0.000189657
+2 110 0.000192534
+2 114 0.000194844
+2 116 0.000281021
+2 117 0.000284875
+2 124 9.52184e-05
+2 127 0.000189657
+2 132 9.36737e-05
+2 135 0.000200016
+2 139 9.36737e-05
+2 141 9.36737e-05
+2 151 9.36737e-05
+2 155 9.36737e-05
+2 162 9.36737e-05
+2 163 9.36737e-05
+2 170 0.000192534
+2 172 0.000194079
+2 178 9.36737e-05
+2 183 9.36737e-05
+2 188 9.59833e-05
+2 192 9.36737e-05
+2 194 0.000187347
+2 195 0.000187347
+2 203 9.59833e-05
+2 211 9.94519e-05
+2 212 9.94519e-05
+2 214 9.36737e-05
+2 228 9.36737e-05
+2 229 9.36737e-05
+2 240 9.36737e-05
+2 249 9.52184e-05
+2 250 9.88608e-05
+2 252 9.36737e-05
+2 262 9.36737e-05
+2 274 9.52184e-05
+2 276 9.59833e-05
+2 280 9.88608e-05
+2 283 9.36737e-05
+2 293 9.36737e-05
+2 295 9.88608e-05
+2 297 9.36737e-05
+2 299 9.36737e-05
+2 304 9.36737e-05
+2 310 9.36737e-05
+2 314 9.59833e-05
+2 319 9.36737e-05
+2 320 9.36737e-05
+2 328 9.36737e-05
+2 333 9.36737e-05
+2 337 0.000101155
+2 340 9.36737e-05
+2 352 9.52184e-05
+2 353 9.88608e-05
+2 364 9.36737e-05
+2 389 9.52184e-05
+2 394 9.36737e-05
+2 408 9.36737e-05
+2 412 9.88608e-05
+2 413 9.52184e-05
+2 415 9.36737e-05
+2 419 9.52184e-05
+2 426 9.52184e-05
+2 448 9.36737e-05
+2 449 9.36737e-05
+2 456 9.36737e-05
+2 459 9.36737e-05
+2 465 9.36737e-05
+2 478 9.36737e-05
+2 483 9.52184e-05
+2 484 9.36737e-05
+2 504 9.36737e-05
+2 506 9.36737e-05
+3 2 0.000101678
+3 4 0.00271153
+3 5 0.000603729
+3 6 0.00215257
+3 7 0.000503751
+3 8 0.000397083
+3 9 0.00176716
+3 10 0.000292378
+3 11 0.000209735
+3 12 0.000291396
+3 13 0.000577085
+3 14 0.00179378
+3 15 0.000759765
+3 16 0.000197723
+3 17 0.000689461
+3 18 0.00049753
+3 19 9.36737e-05
+3 20 9.36737e-05
+3 21 9.46558e-05
+3 22 0.000900448
+3 24 0.000196741
+3 25 0.0013313
+3 26 0.000593823
+3 28 0.000103067
+3 29 0.00069072
+3 30 0.000486748
+3 31 0.000281021
+3 33 0.000679086
+3 34 0.00019005
+3 35 0.000206134
+3 36 0.000765171
+3 37 0.000506454
+3 38 9.36737e-05
+3 39 9.36737e-05
+3 46 0.000104325
+3 49 9.46558e-05
+3 53 0.000188329
+3 55 0.00038507
+3 56 0.000294016
+3 59 0.000485048
+3 61 9.46558e-05
+3 62 0.000188329
+3 70 9.36737e-05
+3 74 0.000294016
+3 83 9.36737e-05
+3 103 0.000103067
+3 104 9.46558e-05
+3 106 0.000106668
+3 109 0.000306112
+3 111 0.000303409
+3 115 0.000200342
+3 121 0.000103067
+3 130 0.000188329
+3 133 9.36737e-05
+3 158 9.36737e-05
+3 176 0.000103067
+3 182 9.46558e-05
+3 186 9.36737e-05
+3 187 9.36737e-05
+3 202 0.000106668
+3 216 9.46558e-05
+3 219 0.000103067
+3 225 9.46558e-05
+3 227 9.46558e-05
+3 229 9.36737e-05
+3 233 9.46558e-05
+3 237 9.36737e-05
+3 245 9.36737e-05
+3 251 0.000103067
+3 259 0.000103067
+3 267 0.000106668
+3 270 0.000103067
+3 275 0.000103067
+3 292 9.36737e-05
+3 294 9.46558e-05
+3 308 9.46558e-05
+3 309 9.46558e-05
+3 321 9.36737e-05
+3 326 9.46558e-05
+3 327 9.46558e-05
+3 329 9.46558e-05
+3 330 9.36737e-05
+3 332 9.36737e-05
+3 347 0.000103067
+3 354 0.000103067
+3 355 0.000103067
+3 359 0.000103067
+3 368 0.000106668
+3 380 0.000103067
+3 390 0.000103067
+3 392 0.000103067
+3 393 0.000106668
+3 402 0.000103067
+3 409 0.000103067
+3 410 0.000103067
+3 432 9.36737e-05
+3 445 9.46558e-05
+3 475 9.46558e-05
+3 485 9.36737e-05
+3 486 9.36737e-05
+3 488 9.46558e-05
+3 489 9.36737e-05
+3 491 9.36737e-05
+3 493 9.36737e-05
+3 494 9.36737e-05
+3 495 9.36737e-05
+3 496 9.36737e-05
+3 497 9.36737e-05
+3 498 9.36737e-05
+3 499 9.36737e-05
+3 503 9.36737e-05
+3 511 9.36737e-05
+3 513 9.36737e-05
+4 8 9.36737e-05
+4 72 9.36737e-05
+5 1 0.000186205
+5 2 0.000558616
+5 8 0.000186205
+5 16 0.000372411
+5 32 0.000186205
+6 4 0.00020742
+6 5 0.000285744
+6 7 0.000190496
+6 8 9.52478e-05
+6 11 0.000190496
+6 13 9.52478e-05
+6 15 9.52478e-05
+6 16 9.52478e-05
+6 17 9.52478e-05
+6 18 9.52478e-05
+6 27 9.52478e-05
+6 37 0.000285744
+6 39 9.52478e-05
+9 1 0.000523671
+9 4 0.000628405
+9 7 0.000314203
+9 8 0.000104734
+9 11 0.000104734
+9 12 0.000104734
+9 13 0.000104734
+9 16 0.000104734
+9 21 0.000104734
+9 25 0.000104734
+9 30 0.000209468
+9 40 0.000104734
+9 53 0.000104734
+9 55 0.000209468
+10 1 0.000498372
+10 2 0.000100267
+10 3 9.8492e-05
+10 4 0.000202896
+10 7 0.000198759
+10 8 0.000299614
+10 11 9.8492e-05
+10 12 0.000401655
+10 13 0.000200533
+10 15 9.8492e-05
+10 17 0.00010263
+10 18 9.8492e-05
+10 19 0.000100267
+10 23 0.000196984
+10 24 0.000201122
+10 35 0.000196984
+10 40 0.000196984
+10 44 0.00010263
+10 51 0.00010263
+10 58 9.8492e-05
+10 63 9.8492e-05
+10 83 9.8492e-05
+11 5 0.000545389
+11 20 0.000109078
+11 45 0.000218156
+12 1 0.000320226
+12 13 0.000160113
+13 1 0.000284156
+13 2 0.000142078
+13 5 0.000284156
+13 12 0.000426234
+13 33 0.000142078
+13 34 0.000142078
+13 47 0.000142078
+14 1 9.36737e-05
+14 2 0.000187347
+14 3 9.36737e-05
+14 4 9.36737e-05
+14 5 0.000187347
+14 6 0.000474056
+14 7 0.000281021
+14 10 0.000187347
+14 15 0.000468368
+14 17 0.000286708
+14 19 0.000281021
+14 20 9.36737e-05
+14 21 9.36737e-05
+14 22 0.000187347
+14 23 9.36737e-05
+14 24 0.000193035
+14 25 9.36737e-05
+14 33 9.36737e-05
+14 36 0.000281021
+14 39 0.000187347
+14 40 9.36737e-05
+14 42 9.36737e-05
+14 47 9.9361e-05
+14 52 9.36737e-05
+14 60 9.36737e-05
+14 63 9.36737e-05
+14 67 0.000187347
+14 68 9.36737e-05
+14 78 9.36737e-05
+14 82 9.36737e-05
+14 92 9.36737e-05
+14 94 9.36737e-05
+14 108 9.36737e-05
+16 1 0.00460612
+16 2 0.00473035
+16 3 0.00118467
+16 4 0.0026509
+16 5 0.00423622
+16 6 0.00282622
+16 7 0.00246589
+16 8 0.00253173
+16 9 0.00355875
+16 10 0.00235919
+16 11 0.00287628
+16 12 0.00117262
+16 13 0.000404941
+16 14 0.000978905
+16 15 0.00110022
+16 17 0.00185424
+16 18 0.00144808
+16 19 0.0010629
+16 20 0.00100024
+16 21 0.000589381
+16 22 0.000769932
+16 23 0.00178563
+16 24 0.00110339
+16 25 0.000402289
+16 26 0.000960492
+16 27 0.0010752
+16 28 0.000671663
+16 29 0.000863365
+16 30 0.000385528
+16 31 0.000386566
+16 32 0.000548029
+16 33 0.000284674
+16 34 0.000581957
+16 35 0.000698687
+16 37 0.000192902
+16 38 0.000676806
+16 39 0.000193343
+16 40 0.00049179
+16 41 0.000301991
+16 42 0.000581627
+16 43 0.000112783
+16 44 0.000514443
+16 45 0.000400436
+16 46 0.000573044
+16 47 0.000191304
+16 48 0.000305484
+16 49 0.000479718
+16 50 0.000885307
+16 51 0.000510671
+16 52 0.000290669
+16 53 0.000288202
+16 54 0.000389238
+16 55 9.76307e-05
+16 56 0.000291398
+16 57 9.5712e-05
+16 58 0.000303447
+16 59 0.000383903
+16 60 0.000290331
+16 61 0.000194528
+16 62 9.68973e-05
+16 63 0.000191849
+16 64 0.000491979
+16 65 0.000191849
+16 66 9.76307e-05
+16 67 9.5712e-05
+16 68 0.000196446
+16 69 0.000305062
+16 70 0.000382305
+16 71 0.000290229
+16 73 0.000286375
+16 74 9.36737e-05
+16 75 9.49519e-05
+16 76 9.76307e-05
+16 77 9.5804e-05
+16 78 0.000205214
+16 79 9.5712e-05
+16 80 0.000109502
+16 81 0.000206457
+16 82 9.88152e-05
+16 83 0.000288631
+16 84 0.000196446
+16 85 9.88152e-05
+16 86 9.68973e-05
+16 87 9.76307e-05
+16 89 0.000388843
+16 90 0.000401196
+16 91 9.88152e-05
+16 92 0.000193343
+16 93 0.000192279
+16 94 9.88152e-05
+16 96 0.000292158
+16 97 9.76307e-05
+16 98 0.000288295
+16 101 9.5712e-05
+16 102 0.000192902
+16 103 0.000288631
+16 105 9.5804e-05
+16 106 9.36737e-05
+16 107 9.5804e-05
+16 108 0.000192583
+16 109 0.000191304
+16 110 9.49519e-05
+16 111 0.000191
+16 112 9.76307e-05
+16 113 0.000196446
+16 114 0.000289571
+16 115 0.000289909
+16 116 0.000190571
+16 117 9.5804e-05
+16 118 0.000193435
+16 119 0.000189386
+16 120 9.5712e-05
+16 121 0.000288614
+16 124 0.000289039
+16 125 9.76307e-05
+16 126 9.88152e-05
+16 127 9.88152e-05
+16 128 9.5712e-05
+16 130 9.76307e-05
+16 131 0.000191304
+16 132 9.76307e-05
+16 133 9.52714e-05
+16 134 0.000112783
+16 135 0.000208495
+16 136 9.76307e-05
+16 138 9.76307e-05
+16 140 0.000109502
+16 141 0.000112783
+16 142 0.000190983
+16 143 0.000192902
+16 145 9.76307e-05
+16 146 9.88152e-05
+16 147 9.76307e-05
+16 149 9.49519e-05
+16 150 0.000286576
+16 151 0.000193767
+16 152 9.76307e-05
+16 153 9.76307e-05
+16 155 9.36737e-05
+16 158 9.5712e-05
+16 159 9.88152e-05
+16 160 0.000207132
+16 161 0.000112783
+16 162 0.00020968
+16 165 9.76307e-05
+16 167 9.76307e-05
+16 168 9.76307e-05
+16 170 0.000112783
+16 171 0.000193343
+16 172 0.000206457
+16 173 9.76307e-05
+16 174 9.76307e-05
+16 177 0.000193343
+16 179 9.5712e-05
+16 180 9.76307e-05
+16 181 9.49519e-05
+16 182 9.76307e-05
+16 183 9.36737e-05
+16 185 0.000193435
+16 186 0.000288631
+16 187 0.000194957
+16 188 0.000191304
+16 190 9.76307e-05
+16 193 0.000187347
+16 195 0.000112783
+16 196 9.76307e-05
+16 197 0.000193343
+16 201 9.76307e-05
+16 203 9.88152e-05
+16 204 9.52714e-05
+16 205 9.36737e-05
+16 206 9.52714e-05
+16 207 9.76307e-05
+16 209 0.000190223
+16 211 9.88152e-05
+16 213 9.76307e-05
+16 214 9.88152e-05
+16 220 9.36737e-05
+16 221 0.000189386
+16 222 0.000191304
+16 224 9.5804e-05
+16 225 0.000193343
+16 227 9.76307e-05
+16 228 0.000193435
+16 229 0.000193343
+16 231 9.76307e-05
+16 232 9.76307e-05
+16 234 9.5712e-05
+16 235 9.36737e-05
+16 236 9.76307e-05
+16 237 0.000191304
+16 238 0.000191
+16 240 9.5712e-05
+16 242 9.36737e-05
+16 246 0.000112783
+16 247 0.000109502
+16 248 0.000193343
+16 249 9.73268e-05
+16 250 0.000207735
+16 252 0.000206457
+16 253 9.76307e-05
+16 254 0.000193343
+16 255 9.76307e-05
+16 256 0.000192902
+16 257 9.5712e-05
+16 259 0.000192902
+16 260 9.76307e-05
+16 262 9.5712e-05
+16 263 9.76307e-05
+16 264 9.76307e-05
+16 266 9.76307e-05
+16 269 9.76307e-05
+16 271 9.68973e-05
+16 273 0.000193343
+16 274 9.76307e-05
+16 276 9.68973e-05
+16 278 9.76307e-05
+16 280 9.88152e-05
+16 283 9.88152e-05
+16 286 9.73268e-05
+16 288 9.76307e-05
+16 292 9.73268e-05
+16 294 0.000191304
+16 297 9.88152e-05
+16 298 9.76307e-05
+16 299 9.52714e-05
+16 300 9.76307e-05
+16 303 9.76307e-05
+16 308 9.76307e-05
+16 309 0.000191304
+16 313 9.49519e-05
+16 318 9.76307e-05
+16 319 9.76307e-05
+16 320 9.76307e-05
+16 324 9.36737e-05
+16 326 9.36737e-05
+16 328 0.000188626
+16 329 9.36737e-05
+16 337 0.000112783
+16 338 0.000112783
+16 343 9.76307e-05
+16 347 9.76307e-05
+16 349 9.5712e-05
+16 351 9.76307e-05
+16 353 0.000112783
+16 355 9.36737e-05
+16 357 9.76307e-05
+16 365 9.76307e-05
+16 368 9.52714e-05
+16 372 9.76307e-05
+16 374 9.52714e-05
+16 377 9.76307e-05
+16 378 9.76307e-05
+16 379 9.76307e-05
+16 380 9.76307e-05
+16 381 9.76307e-05
+16 382 9.5712e-05
+16 384 9.76307e-05
+16 385 9.5712e-05
+16 386 9.52714e-05
+16 387 9.76307e-05
+16 390 9.76307e-05
+16 394 9.5712e-05
+16 396 9.36737e-05
+16 398 9.5712e-05
+16 399 9.5712e-05
+16 404 9.5804e-05
+16 413 9.76307e-05
+16 417 9.76307e-05
+16 420 9.5712e-05
+16 421 9.52714e-05
+16 422 9.52714e-05
+16 424 9.76307e-05
+16 431 9.88152e-05
+16 433 9.52714e-05
+16 435 9.76307e-05
+16 436 9.76307e-05
+16 439 9.5712e-05
+16 441 9.76307e-05
+16 443 9.76307e-05
+16 444 9.76307e-05
+16 445 9.76307e-05
+16 448 9.76307e-05
+16 450 9.52714e-05
+16 451 9.5712e-05
+16 453 9.68973e-05
+16 457 9.76307e-05
+16 458 9.76307e-05
+16 459 9.76307e-05
+16 460 9.76307e-05
+16 461 9.76307e-05
+16 462 9.76307e-05
+16 463 9.76307e-05
+16 464 9.76307e-05
+16 465 9.76307e-05
+16 466 9.76307e-05
+16 469 9.5712e-05
+16 477 9.5712e-05
+16 478 9.5712e-05
+16 482 9.52714e-05
+16 484 9.36737e-05
+16 508 9.36737e-05
+16 509 9.36737e-05
+16 515 9.76307e-05
+17 3 0.000100705
+17 5 9.36737e-05
+17 7 0.000187347
+17 12 0.00020141
+17 14 0.000100705
+17 15 0.000302116
+17 16 0.000100705
+17 25 9.36737e-05
+17 34 9.36737e-05
+17 62 0.000100705
+18 12 9.36737e-05
+18 15 9.36737e-05
+18 26 9.36737e-05
+19 1 0.000319065
+19 5 0.000744485
+19 9 0.000106355
+19 11 0.000319065
+19 13 0.000106355
+19 16 0.000106355
+19 18 0.000106355
+19 20 0.000106355
+19 21 0.000106355
+19 22 0.000106355
+19 23 0.00021271
+19 35 0.000106355
+20 2 0.000118205
+20 12 0.000118205
+20 16 0.000118205
+21 7 0.000111283
+21 12 0.000111283
+21 13 0.00033385
+21 16 0.000111283
+21 41 0.000111283
+22 3 0.000192633
+22 4 9.63163e-05
+22 5 9.63163e-05
+22 8 9.63163e-05
+22 12 9.63163e-05
+22 13 9.63163e-05
+22 38 9.63163e-05
+22 42 9.63163e-05
+22 46 9.63163e-05
+22 62 9.63163e-05
+23 7 9.63831e-05
+23 8 0.000192766
+23 10 9.63831e-05
+23 12 9.63831e-05
+23 15 9.63831e-05
+23 16 9.63831e-05
+23 17 9.63831e-05
+23 34 9.63831e-05
+23 40 9.63831e-05
+23 41 9.63831e-05
+24 7 9.78101e-05
+24 8 0.00019562
+24 10 9.78101e-05
+24 12 9.78101e-05
+24 15 9.78101e-05
+24 16 9.78101e-05
+24 33 9.78101e-05
+25 4 0.000187347
+25 7 9.36737e-05
+26 3 9.36737e-05
+26 4 0.000281021
+26 6 9.36737e-05
+26 7 9.36737e-05
+26 8 0.000187347
+26 19 9.36737e-05
+26 21 9.36737e-05
+26 22 9.36737e-05
+26 25 9.36737e-05
+26 31 9.36737e-05
+26 36 0.000187347
+26 37 9.36737e-05
+26 38 9.36737e-05
+26 42 9.36737e-05
+27 5 9.36737e-05
+27 7 0.000187347
+27 15 9.36737e-05
+29 3 9.71024e-05
+29 6 0.000763104
+29 9 0.000291307
+29 15 0.000194205
+29 21 9.36737e-05
+29 22 9.36737e-05
+29 26 0.000287878
+29 31 9.71024e-05
+29 33 9.71024e-05
+29 34 9.71024e-05
+29 37 9.36737e-05
+29 40 9.71024e-05
+29 59 9.71024e-05
+29 68 9.36737e-05
+29 71 9.36737e-05
+29 84 9.36737e-05
+29 96 9.36737e-05
+30 3 0.000187347
+30 21 9.36737e-05
+30 33 9.36737e-05
+30 42 9.36737e-05
+31 5 9.36737e-05
+31 6 9.36737e-05
+31 8 9.36737e-05
+31 18 0.000281021
+31 25 9.36737e-05
+31 62 9.36737e-05
+32 2 0.00443118
+32 3 0.000290803
+32 4 0.00161748
+32 5 0.00337121
+32 6 0.000862884
+32 7 0.00257288
+32 8 0.000474539
+32 9 0.00086553
+32 10 0.000580815
+32 11 0.00482596
+32 12 0.000479291
+32 13 0.000483615
+32 14 0.000285429
+32 15 0.000477184
+32 16 0.000291062
+32 17 0.000287276
+32 18 0.000191755
+32 19 0.000583441
+32 20 0.000571201
+32 21 0.000287536
+32 22 0.000188229
+32 23 0.000190874
+32 24 0.000288074
+32 25 0.000381831
+32 26 0.00018911
+32 27 0.000287536
+32 28 0.00028631
+32 29 0.000190957
+32 31 9.45549e-05
+32 33 9.64024e-05
+32 34 0.000288157
+32 35 0.000377339
+32 36 0.0001944
+32 37 9.72001e-05
+32 40 0.000190874
+32 41 9.45549e-05
+32 42 9.45549e-05
+32 43 9.36737e-05
+32 45 0.000481398
+32 46 0.000188229
+32 48 0.000382091
+32 50 9.72001e-05
+32 56 9.45549e-05
+32 58 0.000291062
+32 60 0.000287536
+32 61 9.72001e-05
+32 62 9.72001e-05
+32 63 0.000288333
+32 64 0.000287276
+32 65 0.000384736
+32 67 0.000381831
+32 69 0.000287536
+32 70 9.45549e-05
+32 71 0.000190874
+32 73 9.64024e-05
+32 74 9.45549e-05
+32 76 0.000190874
+32 81 0.000287536
+32 82 9.45549e-05
+32 83 9.45549e-05
+32 85 0.000287536
+32 86 0.000284631
+32 89 9.64024e-05
+32 90 0.000193862
+32 93 9.45549e-05
+32 95 9.72001e-05
+32 98 9.45549e-05
+32 99 0.00018911
+32 103 9.45549e-05
+32 105 0.000193862
+32 107 0.000287536
+32 108 9.45549e-05
+32 109 9.72001e-05
+32 111 9.45549e-05
+32 116 0.000193862
+32 117 0.000287536
+32 118 9.45549e-05
+32 121 9.72001e-05
+32 127 0.000287536
+32 134 9.64024e-05
+32 135 9.72001e-05
+32 138 9.64024e-05
+32 146 9.45549e-05
+32 152 9.45549e-05
+32 155 0.000287536
+32 156 9.45549e-05
+32 162 0.000193862
+32 170 0.000193862
+32 174 0.000190874
+32 176 9.36737e-05
+32 183 9.72001e-05
+32 191 9.64024e-05
+32 193 9.45549e-05
+32 203 9.36737e-05
+32 205 9.45549e-05
+32 211 9.64024e-05
+32 212 0.000193862
+32 214 0.000193862
+32 220 9.36737e-05
+32 223 9.36737e-05
+32 234 9.45549e-05
+32 250 9.64024e-05
+32 252 9.74596e-05
+32 260 9.72001e-05
+32 275 9.36737e-05
+32 276 0.000193862
+32 280 9.36737e-05
+32 281 9.45549e-05
+32 282 0.000188229
+32 283 9.74596e-05
+32 286 9.45549e-05
+32 288 9.45549e-05
+32 289 9.36737e-05
+32 297 9.36737e-05
+32 299 9.45549e-05
+32 300 9.45549e-05
+32 310 9.74596e-05
+32 314 9.36737e-05
+32 315 9.36737e-05
+32 324 9.36737e-05
+32 338 9.72001e-05
+32 345 9.45549e-05
+32 360 9.45549e-05
+32 367 9.45549e-05
+32 368 9.72001e-05
+32 393 9.36737e-05
+32 397 9.72001e-05
+32 399 9.36737e-05
+32 400 9.45549e-05
+32 410 9.36737e-05
+32 411 9.45549e-05
+32 412 9.74596e-05
+32 425 9.72001e-05
+32 427 9.72001e-05
+32 430 9.72001e-05
+32 439 9.64024e-05
+32 447 9.45549e-05
+32 468 9.72001e-05
+32 471 9.36737e-05
+32 473 9.45549e-05
+32 474 9.45549e-05
+32 490 9.36737e-05
+32 491 9.45549e-05
+32 492 9.45549e-05
+32 509 9.36737e-05
+32 512 9.36737e-05
+33 13 9.36737e-05
+33 38 9.36737e-05
+33 42 9.36737e-05
+34 3 9.36737e-05
+35 12 0.000100974
+36 20 9.36737e-05
+36 38 9.36737e-05
+36 62 9.36737e-05
+39 5 0.000100025
+39 12 0.000100025
+39 13 0.000100025
+39 17 0.000100025
+41 4 9.36737e-05
+41 13 9.36737e-05
+43 1 0.000752302
+43 2 0.00093965
+43 3 0.000843063
+43 4 0.00159634
+43 5 0.000281992
+43 6 0.00131434
+43 7 0.000936737
+43 8 0.00112603
+43 9 0.000281021
+43 10 0.000563013
+43 11 0.000468368
+43 12 0.000468368
+43 13 0.000187347
+43 14 0.000469339
+43 15 0.00075036
+43 16 9.36737e-05
+43 17 0.000375666
+43 18 0.000469339
+43 19 9.36737e-05
+43 20 0.00047031
+43 21 0.000281992
+43 22 0.000188318
+43 23 0.000188318
+43 24 0.000281021
+43 25 0.000563013
+43 26 0.000375666
+43 27 0.000187347
+43 28 0.000281021
+43 29 0.000281021
+43 30 0.000188318
+43 33 9.36737e-05
+43 34 0.000187347
+43 35 9.36737e-05
+43 36 9.36737e-05
+43 37 0.000188318
+43 38 0.000469339
+43 44 9.46447e-05
+43 45 9.36737e-05
+43 48 9.36737e-05
+43 49 0.000187347
+43 50 9.36737e-05
+43 51 9.46447e-05
+43 52 9.36737e-05
+43 56 9.36737e-05
+43 57 9.36737e-05
+43 58 9.36737e-05
+43 63 9.36737e-05
+43 66 9.36737e-05
+43 67 0.000188318
+43 69 9.36737e-05
+43 70 0.000187347
+43 71 0.000281992
+43 74 9.36737e-05
+43 76 9.46447e-05
+43 77 9.46447e-05
+43 79 9.46447e-05
+43 80 0.000189289
+43 81 9.36737e-05
+43 83 0.000187347
+43 85 9.36737e-05
+43 86 0.000187347
+43 87 9.36737e-05
+43 90 0.000188318
+43 92 9.46447e-05
+43 96 9.36737e-05
+43 97 9.36737e-05
+43 100 9.36737e-05
+43 101 9.46447e-05
+43 102 0.000188318
+43 105 9.36737e-05
+43 107 9.36737e-05
+43 108 9.36737e-05
+43 112 9.36737e-05
+43 113 9.36737e-05
+43 114 9.36737e-05
+43 117 9.36737e-05
+43 118 9.46447e-05
+43 122 9.36737e-05
+43 126 9.46447e-05
+43 127 9.36737e-05
+43 128 9.46447e-05
+43 129 0.000375666
+43 130 0.000187347
+43 131 9.46447e-05
+43 133 9.36737e-05
+43 136 9.36737e-05
+43 137 0.000188318
+43 139 9.36737e-05
+43 143 9.46447e-05
+43 145 9.36737e-05
+43 156 9.36737e-05
+43 159 9.46447e-05
+43 167 9.36737e-05
+43 168 9.36737e-05
+43 171 9.46447e-05
+43 176 9.46447e-05
+43 177 9.36737e-05
+43 178 9.36737e-05
+43 179 9.36737e-05
+43 180 9.36737e-05
+43 181 9.36737e-05
+43 185 9.36737e-05
+43 186 9.36737e-05
+43 192 9.36737e-05
+43 193 9.36737e-05
+43 195 9.36737e-05
+43 201 9.36737e-05
+43 207 9.36737e-05
+43 208 9.46447e-05
+43 210 9.46447e-05
+43 213 9.36737e-05
+43 218 9.36737e-05
+43 220 9.46447e-05
+43 221 9.46447e-05
+43 223 9.36737e-05
+43 231 9.46447e-05
+43 232 9.46447e-05
+43 235 0.000188318
+43 240 9.46447e-05
+43 265 9.46447e-05
+43 266 9.36737e-05
+43 278 9.46447e-05
+43 281 9.36737e-05
+43 282 9.36737e-05
+43 287 9.46447e-05
+43 292 9.36737e-05
+43 295 9.46447e-05
+43 298 9.46447e-05
+43 300 9.46447e-05
+43 301 9.36737e-05
+43 307 0.000188318
+43 310 9.36737e-05
+43 311 0.000188318
+43 315 0.000187347
+43 317 9.36737e-05
+43 334 0.000187347
+43 341 9.36737e-05
+43 353 9.36737e-05
+43 359 9.36737e-05
+43 383 9.36737e-05
+43 387 9.36737e-05
+43 406 9.36737e-05
+43 420 9.46447e-05
+43 434 9.36737e-05
+43 435 9.36737e-05
+43 452 9.46447e-05
+43 453 9.46447e-05
+43 455 9.36737e-05
+43 461 9.36737e-05
+43 464 9.36737e-05
+43 466 9.36737e-05
+43 468 9.36737e-05
+43 471 9.36737e-05
+43 476 9.46447e-05
+43 483 9.36737e-05
+43 489 9.46447e-05
+43 490 9.46447e-05
+43 501 9.36737e-05
+43 503 9.36737e-05
+43 512 9.36737e-05
+43 514 9.36737e-05
+45 7 9.36737e-05
+45 12 9.36737e-05
+47 1 0.000281021
+47 3 0.000851194
+47 4 0.00150559
+47 5 0.000382167
+47 6 0.000374695
+47 7 0.000574239
+47 8 0.00200176
+47 9 0.00188029
+47 10 0.000663188
+47 11 9.77394e-05
+47 12 0.000671319
+47 13 0.00057358
+47 14 0.000568854
+47 15 0.000756861
+47 17 0.000479246
+47 18 9.36737e-05
+47 19 0.000289152
+47 21 0.000475181
+47 22 0.000384913
+47 23 0.000757521
+47 24 0.00047584
+47 25 0.000281021
+47 26 0.000382167
+47 27 9.70799e-05
+47 28 0.000382826
+47 29 9.70799e-05
+47 30 0.000752796
+47 31 0.000568854
+47 32 9.36737e-05
+47 33 9.36737e-05
+47 34 9.70799e-05
+47 35 0.000288493
+47 36 9.36737e-05
+47 37 0.000293218
+47 40 9.36737e-05
+47 41 0.000190754
+47 42 0.000281021
+47 43 9.70799e-05
+47 46 9.36737e-05
+47 49 0.000187347
+47 50 0.000190754
+47 52 0.000190754
+47 53 0.000187347
+47 55 0.000187347
+47 59 9.77394e-05
+47 61 9.36737e-05
+47 62 0.000281021
+47 66 0.000190754
+47 71 9.36737e-05
+47 75 9.70799e-05
+47 76 0.000190754
+47 87 9.36737e-05
+47 88 9.36737e-05
+47 90 9.36737e-05
+47 91 9.36737e-05
+47 95 9.77394e-05
+47 96 9.36737e-05
+47 99 0.000190754
+47 102 9.36737e-05
+47 104 9.36737e-05
+47 113 9.36737e-05
+47 115 9.36737e-05
+47 123 0.000190754
+47 125 0.000190754
+47 126 9.70799e-05
+47 129 9.36737e-05
+47 131 9.36737e-05
+47 140 9.36737e-05
+47 143 9.36737e-05
+47 145 0.000191413
+47 146 9.70799e-05
+47 147 9.36737e-05
+47 148 9.70799e-05
+47 152 0.000190754
+47 154 0.000190754
+47 156 0.000284427
+47 166 9.36737e-05
+47 173 9.36737e-05
+47 176 9.36737e-05
+47 179 9.36737e-05
+47 180 9.70799e-05
+47 181 0.000194819
+47 183 9.70799e-05
+47 185 9.36737e-05
+47 189 9.70799e-05
+47 193 0.000187347
+47 194 9.36737e-05
+47 200 0.000194819
+47 219 0.000187347
+47 223 9.36737e-05
+47 226 9.36737e-05
+47 230 9.36737e-05
+47 235 9.36737e-05
+47 239 9.70799e-05
+47 245 9.36737e-05
+47 257 0.000194819
+47 258 9.77394e-05
+47 259 9.77394e-05
+47 260 9.70799e-05
+47 264 9.36737e-05
+47 267 0.000190754
+47 274 9.70799e-05
+47 279 9.70799e-05
+47 286 9.36737e-05
+47 290 0.000190754
+47 291 9.77394e-05
+47 299 9.70799e-05
+47 306 9.36737e-05
+47 307 9.77394e-05
+47 315 9.77394e-05
+47 321 0.000190754
+47 323 9.36737e-05
+47 329 9.36737e-05
+47 330 9.36737e-05
+47 334 9.36737e-05
+47 346 9.70799e-05
+47 358 9.70799e-05
+47 375 9.36737e-05
+47 376 9.36737e-05
+47 395 9.36737e-05
+47 403 9.77394e-05
+47 404 9.70799e-05
+47 413 9.70799e-05
+47 417 9.77394e-05
+47 423 9.77394e-05
+47 427 9.70799e-05
+47 428 9.36737e-05
+47 431 9.36737e-05
+47 438 9.36737e-05
+47 442 9.70799e-05
+47 444 9.36737e-05
+47 446 9.70799e-05
+47 470 9.70799e-05
+47 471 9.70799e-05
+47 472 9.70799e-05
+47 491 9.36737e-05
+47 492 9.36737e-05
+47 496 9.36737e-05
+47 497 9.36737e-05
+47 498 9.36737e-05
+47 499 9.36737e-05
+47 500 9.36737e-05
+47 505 9.36737e-05
+47 509 9.36737e-05
+47 510 9.36737e-05
+54 2 0.00169636
+54 3 9.36737e-05
+54 4 0.000285437
+54 5 0.00122724
+54 6 0.000379016
+54 7 0.000568148
+54 8 0.000187347
+54 9 9.5459e-05
+54 10 0.000377325
+54 11 0.00208168
+54 12 0.000282711
+54 15 0.000377325
+54 16 9.5459e-05
+54 17 0.000189133
+54 18 0.000188193
+54 19 9.45189e-05
+54 21 0.000285437
+54 22 0.000189038
+54 23 9.36737e-05
+54 27 0.000566363
+54 34 9.36737e-05
+54 35 9.45189e-05
+54 36 9.36737e-05
+54 44 0.000189133
+54 45 0.000283557
+54 46 0.000189978
+54 48 0.000189978
+54 49 9.45189e-05
+54 50 9.45189e-05
+54 58 9.36737e-05
+54 60 9.45189e-05
+54 63 9.36737e-05
+54 64 9.45189e-05
+54 65 9.36737e-05
+54 73 9.36737e-05
+54 84 9.36737e-05
+54 85 0.000189978
+54 89 9.45189e-05
+54 91 9.5459e-05
+54 93 9.36737e-05
+54 106 9.45189e-05
+54 107 0.000189978
+54 110 9.5459e-05
+54 114 9.45189e-05
+54 117 9.45189e-05
+54 119 9.45189e-05
+54 124 9.36737e-05
+54 127 9.5459e-05
+54 132 9.45189e-05
+54 140 9.36737e-05
+54 141 9.45189e-05
+54 151 0.000188193
+54 155 0.000189978
+54 161 9.5459e-05
+54 170 9.45189e-05
+54 172 0.000188193
+54 178 9.45189e-05
+54 198 9.45189e-05
+54 203 9.45189e-05
+54 211 0.000189978
+54 219 9.36737e-05
+54 221 9.45189e-05
+54 230 9.45189e-05
+54 256 9.36737e-05
+54 265 9.5459e-05
+54 280 9.45189e-05
+54 283 9.45189e-05
+54 285 9.36737e-05
+54 297 9.45189e-05
+54 298 9.36737e-05
+54 304 9.45189e-05
+54 310 9.45189e-05
+54 314 9.45189e-05
+54 339 9.5459e-05
+54 362 9.36737e-05
+54 372 9.5459e-05
+54 389 9.45189e-05
+54 395 9.36737e-05
+54 405 9.45189e-05
+54 412 9.36737e-05
+54 426 9.45189e-05
+54 436 9.5459e-05
+54 439 9.45189e-05
+54 448 9.45189e-05
+54 450 9.5459e-05
+54 473 9.36737e-05
+54 507 9.36737e-05
+55 6 9.36737e-05
+57 1 9.48276e-05
+57 2 0.000187347
+57 3 0.00047183
+57 4 0.000375849
+57 5 0.000187347
+57 6 0.000566658
+57 7 0.000660331
+57 8 0.00104195
+57 9 0.000375849
+57 10 0.00122814
+57 12 0.000660331
+57 13 0.000567812
+57 14 0.00122122
+57 15 0.000188501
+57 16 9.36737e-05
+57 17 0.000283329
+57 18 0.000664947
+57 19 0.000282175
+57 20 0.000187347
+57 21 0.000188501
+57 22 0.000378157
+57 23 0.000375849
+57 24 0.000188501
+57 25 0.000187347
+57 26 0.000189655
+57 27 9.48276e-05
+57 28 0.000659178
+57 29 9.36737e-05
+57 30 9.36737e-05
+57 31 0.000284483
+57 33 0.000187347
+57 34 0.000188501
+57 35 0.000285637
+57 36 9.36737e-05
+57 39 0.000285637
+57 40 9.71355e-05
+57 41 9.36737e-05
+57 43 0.000281021
+57 46 9.36737e-05
+57 47 0.000188501
+57 52 0.000187347
+57 53 9.36737e-05
+57 55 9.36737e-05
+57 56 9.71355e-05
+57 60 9.36737e-05
+57 62 9.36737e-05
+57 63 9.36737e-05
+57 66 0.000282175
+57 67 9.71355e-05
+57 68 9.48276e-05
+57 70 9.36737e-05
+57 77 9.48276e-05
+57 79 9.36737e-05
+57 82 9.48276e-05
+57 86 9.36737e-05
+57 88 9.36737e-05
+57 99 9.36737e-05
+57 101 9.36737e-05
+57 103 9.36737e-05
+57 106 9.36737e-05
+57 120 9.48276e-05
+57 126 9.48276e-05
+57 128 0.000188501
+57 129 9.36737e-05
+57 148 9.48276e-05
+57 150 9.48276e-05
+57 153 9.48276e-05
+57 154 9.36737e-05
+57 156 9.36737e-05
+57 164 9.48276e-05
+57 165 9.36737e-05
+57 166 9.71355e-05
+57 173 9.48276e-05
+57 175 9.36737e-05
+57 176 9.36737e-05
+57 181 9.36737e-05
+57 182 9.36737e-05
+57 184 9.36737e-05
+57 197 9.36737e-05
+57 198 9.48276e-05
+57 199 9.48276e-05
+57 204 9.36737e-05
+57 206 9.36737e-05
+57 215 9.36737e-05
+57 218 9.36737e-05
+57 220 9.36737e-05
+57 223 9.36737e-05
+57 247 0.000188501
+57 251 9.36737e-05
+57 258 9.71355e-05
+57 261 9.36737e-05
+57 267 9.36737e-05
+57 268 9.36737e-05
+57 271 9.71355e-05
+57 277 9.71355e-05
+57 285 9.71355e-05
+57 287 9.36737e-05
+57 288 9.36737e-05
+57 295 9.36737e-05
+57 313 9.48276e-05
+57 322 9.48276e-05
+57 330 9.36737e-05
+57 335 9.36737e-05
+57 356 9.71355e-05
+57 385 9.36737e-05
+57 393 9.36737e-05
+57 398 9.36737e-05
+57 409 9.36737e-05
+57 410 9.36737e-05
+57 414 9.48276e-05
+57 416 9.36737e-05
+57 421 9.48276e-05
+57 422 9.48276e-05
+57 423 9.36737e-05
+57 424 9.48276e-05
+57 427 9.36737e-05
+57 428 9.36737e-05
+57 438 9.48276e-05
+57 440 9.36737e-05
+57 443 9.48276e-05
+57 449 9.36737e-05
+57 450 9.48276e-05
+57 455 9.36737e-05
+57 477 9.36737e-05
+57 479 9.36737e-05
+57 480 9.36737e-05
+57 485 9.36737e-05
+57 487 9.36737e-05
+57 501 9.36737e-05
+57 502 9.36737e-05
+57 507 9.36737e-05
+57 517 9.36737e-05
+67 4 9.36737e-05
+67 5 9.36737e-05
+67 7 0.000281021
+67 15 9.36737e-05
+67 19 9.36737e-05
+67 37 9.36737e-05
+67 59 9.36737e-05
+67 64 9.36737e-05
+67 65 9.36737e-05
+67 81 9.36737e-05
+72 1 0.000285045
+72 3 0.000187347
+72 4 0.00122379
+72 5 0.000187347
+72 6 0.00047038
+72 7 0.000655716
+72 8 0.00170624
+72 9 0.000659739
+72 10 0.00038073
+72 12 0.000566066
+72 13 0.000189359
+72 14 0.000376706
+72 15 0.000472392
+72 16 9.36737e-05
+72 17 0.000572101
+72 18 0.000281021
+72 20 0.000189359
+72 21 9.36737e-05
+72 22 0.000468368
+72 24 0.000757436
+72 26 0.000189359
+72 27 9.36737e-05
+72 28 0.000759448
+72 29 0.000287056
+72 30 9.56854e-05
+72 31 0.000285045
+72 33 9.36737e-05
+72 35 9.56854e-05
+72 37 9.36737e-05
+72 38 9.56854e-05
+72 39 9.36737e-05
+72 41 0.000189359
+72 42 9.36737e-05
+72 48 9.36737e-05
+72 49 0.000189359
+72 50 9.36737e-05
+72 52 9.36737e-05
+72 56 9.36737e-05
+72 59 9.36737e-05
+72 61 0.000189359
+72 64 9.36737e-05
+72 66 9.36737e-05
+72 70 9.36737e-05
+72 71 9.56854e-05
+72 74 9.36737e-05
+72 75 9.56854e-05
+72 76 9.56854e-05
+72 77 9.56854e-05
+72 79 9.36737e-05
+72 82 9.56854e-05
+72 88 9.56854e-05
+72 92 9.36737e-05
+72 94 9.36737e-05
+72 95 0.000187347
+72 100 9.36737e-05
+72 101 9.36737e-05
+72 102 9.56854e-05
+72 104 9.36737e-05
+72 105 9.36737e-05
+72 111 9.36737e-05
+72 112 9.36737e-05
+72 120 9.56854e-05
+72 122 9.56854e-05
+72 123 9.36737e-05
+72 125 9.36737e-05
+72 133 9.36737e-05
+72 137 9.56854e-05
+72 140 9.56854e-05
+72 145 9.56854e-05
+72 147 0.000189359
+72 148 9.56854e-05
+72 152 9.36737e-05
+72 154 9.36737e-05
+72 158 9.36737e-05
+72 169 9.56854e-05
+72 177 9.36737e-05
+72 182 9.36737e-05
+72 184 0.000283033
+72 190 9.36737e-05
+72 192 9.36737e-05
+72 199 9.56854e-05
+72 202 9.36737e-05
+72 210 9.56854e-05
+72 212 9.36737e-05
+72 218 9.36737e-05
+72 226 9.56854e-05
+72 228 9.36737e-05
+72 230 9.56854e-05
+72 237 9.36737e-05
+72 269 9.36737e-05
+72 271 9.36737e-05
+72 272 0.000189359
+72 273 9.56854e-05
+72 277 9.36737e-05
+72 293 9.36737e-05
+72 300 9.36737e-05
+72 301 9.56854e-05
+72 307 9.36737e-05
+72 313 9.56854e-05
+72 317 9.36737e-05
+72 321 9.36737e-05
+72 322 9.56854e-05
+72 323 9.36737e-05
+72 326 9.36737e-05
+72 342 9.36737e-05
+72 348 9.36737e-05
+72 363 9.56854e-05
+72 371 9.36737e-05
+72 376 9.56854e-05
+72 382 9.56854e-05
+72 383 9.36737e-05
+72 403 9.56854e-05
+72 409 9.36737e-05
+72 424 9.56854e-05
+72 430 9.36737e-05
+72 433 9.36737e-05
+72 437 9.56854e-05
+72 443 9.36737e-05
+72 453 9.36737e-05
+72 456 9.36737e-05
+72 477 9.36737e-05
+80 4 0.000860917
+80 5 0.000193519
+80 7 0.000387037
+80 9 9.53427e-05
+80 10 0.000193519
+80 12 9.53427e-05
+80 13 0.000286028
+80 17 9.53427e-05
+80 20 9.8176e-05
+80 21 0.000193519
+80 23 0.000193519
+80 24 9.53427e-05
+80 25 9.53427e-05
+80 26 9.8176e-05
+80 30 9.53427e-05
+80 31 9.53427e-05
+80 33 9.53427e-05
+80 36 9.53427e-05
+80 37 9.53427e-05
+80 41 0.000193519
+80 42 9.53427e-05
+80 48 9.8176e-05
+80 49 9.53427e-05
+80 53 9.53427e-05
+80 55 9.53427e-05
+80 61 9.53427e-05
+80 73 9.53427e-05
+80 74 9.53427e-05
+80 79 9.8176e-05
+80 100 9.53427e-05
+80 104 9.53427e-05
+80 189 9.53427e-05
+80 192 9.53427e-05
+80 224 9.53427e-05
+80 406 9.53427e-05
+80 415 9.53427e-05
+80 420 9.8176e-05
+80 425 9.53427e-05
+80 481 9.53427e-05
+99 5 9.36737e-05
+99 7 0.000187347
+99 15 9.36737e-05
+99 17 9.36737e-05
+99 35 0.000187347
+99 37 9.36737e-05
+99 63 9.36737e-05
+106 2 0.000187347
+106 4 9.36737e-05
+106 6 0.000187347
+106 7 9.36737e-05
+106 11 0.000187347
+106 19 9.36737e-05
+106 34 9.36737e-05
+106 37 0.000187347
+106 45 9.36737e-05
+106 48 9.36737e-05
+106 56 9.36737e-05
+106 73 9.36737e-05
+141 11 9.36737e-05
+141 12 9.36737e-05
+141 15 9.36737e-05
+141 19 9.36737e-05
+141 27 9.36737e-05
+141 28 9.36737e-05
+141 46 9.36737e-05
+141 68 9.36737e-05
+141 84 9.36737e-05
+191 2 0.000187347
+191 3 0.000281021
+191 4 0.000749389
+191 5 0.000187347
+191 6 0.000655716
+191 7 0.000562042
+191 8 0.000281021
+191 9 0.000281021
+191 10 0.000187347
+191 11 0.000187347
+191 12 9.36737e-05
+191 13 9.36737e-05
+191 14 9.36737e-05
+191 15 0.000281021
+191 16 9.36737e-05
+191 17 0.000187347
+191 18 0.000468368
+191 19 0.000187347
+191 20 0.000281021
+191 21 9.36737e-05
+191 23 0.000187347
+191 24 9.36737e-05
+191 25 9.36737e-05
+191 26 0.000187347
+191 27 9.36737e-05
+191 29 9.36737e-05
+191 31 0.000187347
+191 32 9.36737e-05
+191 34 9.36737e-05
+191 36 9.36737e-05
+191 37 0.000281021
+191 38 9.36737e-05
+191 39 0.000187347
+191 40 9.36737e-05
+191 45 9.36737e-05
+191 48 0.000187347
+191 49 9.36737e-05
+191 53 9.36737e-05
+191 55 9.36737e-05
+191 56 9.36737e-05
+191 57 9.36737e-05
+191 60 9.36737e-05
+191 61 9.36737e-05
+191 68 9.36737e-05
+191 72 9.36737e-05
+191 74 9.36737e-05
+191 75 9.36737e-05
+191 77 9.36737e-05
+191 82 9.36737e-05
+191 87 9.36737e-05
+191 91 0.000187347
+191 97 9.36737e-05
+191 98 0.000187347
+191 107 9.36737e-05
+191 131 9.36737e-05
+191 132 9.36737e-05
+191 149 9.36737e-05
+191 154 9.36737e-05
+191 157 0.000281021
+191 158 9.36737e-05
+191 188 9.36737e-05
+191 189 9.36737e-05
+191 190 9.36737e-05
+191 213 9.36737e-05
+191 226 9.36737e-05
+191 228 9.36737e-05
+191 231 9.36737e-05
+191 232 9.36737e-05
+191 236 0.000187347
+191 241 9.36737e-05
+191 309 9.36737e-05
+191 318 9.36737e-05
+191 320 9.36737e-05
+191 331 9.36737e-05
+191 333 9.36737e-05
+191 335 9.36737e-05
+191 350 9.36737e-05
+191 384 9.36737e-05
+191 386 9.36737e-05
+191 429 9.36737e-05
+191 437 9.36737e-05
+191 463 9.36737e-05
+191 465 9.36737e-05
+191 466 9.36737e-05
+191 494 9.36737e-05
+191 495 9.36737e-05
+191 506 9.36737e-05
+244 1 9.36737e-05
+244 2 0.000281021
+244 4 0.000562042
+244 5 9.36737e-05
+244 6 0.000655716
+244 7 9.36737e-05
+244 8 0.000468368
+244 9 0.000187347
+244 13 0.000468368
+244 15 0.000187347
+244 17 9.36737e-05
+244 18 0.000281021
+244 19 9.36737e-05
+244 20 0.000374695
+244 21 0.000187347
+244 22 9.36737e-05
+244 24 0.000281021
+244 25 0.000749389
+244 26 0.000187347
+244 27 0.000281021
+244 30 0.000374695
+244 31 0.000562042
+244 33 9.36737e-05
+244 38 0.000187347
+244 40 9.36737e-05
+244 41 0.000187347
+244 42 0.000281021
+244 46 9.36737e-05
+244 50 9.36737e-05
+244 52 9.36737e-05
+244 53 9.36737e-05
+244 54 9.36737e-05
+244 55 9.36737e-05
+244 66 9.36737e-05
+244 73 9.36737e-05
+244 76 9.36737e-05
+244 77 9.36737e-05
+244 79 9.36737e-05
+244 90 9.36737e-05
+244 91 9.36737e-05
+244 92 9.36737e-05
+244 100 9.36737e-05
+244 101 9.36737e-05
+244 104 9.36737e-05
+244 118 9.36737e-05
+244 119 9.36737e-05
+244 122 9.36737e-05
+244 126 9.36737e-05
+244 128 9.36737e-05
+244 132 9.36737e-05
+244 144 9.36737e-05
+244 153 9.36737e-05
+244 166 9.36737e-05
+244 174 9.36737e-05
+244 180 9.36737e-05
+244 185 9.36737e-05
+244 194 9.36737e-05
+244 208 9.36737e-05
+244 215 9.36737e-05
+244 224 9.36737e-05
+244 227 9.36737e-05
+244 230 9.36737e-05
+244 234 9.36737e-05
+244 236 9.36737e-05
+244 239 0.000187347
+244 240 9.36737e-05
+244 241 9.36737e-05
+244 242 0.000187347
+244 243 9.36737e-05
+244 281 9.36737e-05
+244 308 9.36737e-05
+244 316 9.36737e-05
+244 322 9.36737e-05
+244 325 9.36737e-05
+244 327 9.36737e-05
+244 328 9.36737e-05
+244 344 9.36737e-05
+244 369 9.36737e-05
+244 397 9.36737e-05
+244 401 9.36737e-05
+244 447 9.36737e-05
+244 454 9.36737e-05
+244 460 9.36737e-05
+244 468 9.36737e-05
+244 470 9.36737e-05
+244 475 9.36737e-05
+244 476 9.36737e-05
+244 488 9.36737e-05
+244 493 9.36737e-05
+244 502 9.36737e-05
+244 508 9.36737e-05
+244 515 9.36737e-05
+336 4 0.000281021
+336 7 0.000374695
+336 8 9.36737e-05
+336 9 9.36737e-05
+336 12 9.36737e-05
+336 46 9.36737e-05
+336 77 9.36737e-05
+336 88 9.36737e-05
+336 148 9.36737e-05
+336 164 9.36737e-05
+336 189 9.36737e-05
+336 199 9.36737e-05
+336 215 9.36737e-05
+336 279 9.36737e-05
+336 301 9.36737e-05
+336 322 9.36737e-05
+336 335 9.36737e-05
+336 408 9.36737e-05
+336 442 9.36737e-05
+336 467 9.36737e-05
+336 510 9.36737e-05
+516 2 0.000281021
+516 4 0.000655716
+516 5 9.36737e-05
+516 6 0.000187347
+516 7 0.000281021
+516 8 9.36737e-05
+516 15 9.36737e-05
+516 18 9.36737e-05
+516 20 9.36737e-05
+516 25 9.36737e-05
+516 26 9.36737e-05
+516 48 9.36737e-05
+516 56 9.36737e-05
+516 70 9.36737e-05
+516 73 9.36737e-05
+516 98 9.36737e-05
+516 146 9.36737e-05
+516 163 9.36737e-05
+516 187 9.36737e-05
+516 400 9.36737e-05
+516 418 9.36737e-05
+518 3 0.000295072
+518 5 0.000290388
+518 7 0.000388746
+518 8 0.000187347
+518 10 0.000196715
+518 12 9.36737e-05
+518 13 9.36737e-05
+518 14 0.000374695
+518 15 9.83573e-05
+518 17 9.83573e-05
+518 19 0.000196715
+518 24 9.36737e-05
+518 27 9.36737e-05
+518 48 0.000192031
+518 78 0.000192031
+518 81 9.83573e-05
+518 144 9.36737e-05
+518 510 9.36737e-05
+519 1 0.000187347
+519 2 9.36737e-05
+519 4 0.000190967
+519 5 0.00028464
+519 7 0.000475607
+519 8 9.72929e-05
+519 10 9.72929e-05
+519 12 0.000194586
+519 13 0.000288259
+519 15 9.72929e-05
+519 23 9.36737e-05
+519 24 9.36737e-05
+519 27 9.72929e-05
+519 28 0.000194586
+519 52 9.72929e-05
+519 65 9.36737e-05
+519 69 9.36737e-05
+519 89 9.36737e-05
+519 120 9.72929e-05
+519 137 9.36737e-05
+519 212 9.72929e-05
+519 214 9.72929e-05
+519 217 9.72929e-05
+519 284 9.72929e-05
+519 325 9.36737e-05
+519 366 9.72929e-05
+519 437 9.72929e-05
+520 1 9.36737e-05
+520 3 0.000562042
+520 4 0.000936737
+520 5 9.36737e-05
+520 6 0.000655716
+520 7 9.36737e-05
+520 8 0.000281021
+520 9 9.36737e-05
+520 12 9.36737e-05
+520 13 9.36737e-05
+520 14 9.36737e-05
+520 20 0.000281021
+520 24 0.000187347
+520 25 9.36737e-05
+520 26 9.36737e-05
+520 28 9.36737e-05
+520 29 9.36737e-05
+520 33 9.36737e-05
+520 35 9.36737e-05
+520 36 9.36737e-05
+520 37 9.36737e-05
+520 38 9.36737e-05
+520 49 9.36737e-05
+520 55 9.36737e-05
+520 79 9.36737e-05
+520 98 9.36737e-05
+520 130 9.36737e-05
+520 177 9.36737e-05
+520 180 9.36737e-05
+520 182 9.36737e-05
+520 190 9.36737e-05
+520 210 9.36737e-05
+520 215 9.36737e-05
+520 233 9.36737e-05
+520 240 9.36737e-05
+520 289 9.36737e-05
+520 291 9.36737e-05
+520 308 9.36737e-05
+520 327 9.36737e-05
+520 329 9.36737e-05
+520 331 9.36737e-05
+520 370 9.36737e-05
+520 392 9.36737e-05
+520 457 9.36737e-05
+520 489 9.36737e-05
+520 493 9.36737e-05
+520 513 9.36737e-05
+521 13 9.36737e-05
+521 21 0.000281021
+521 27 9.36737e-05
+521 30 9.36737e-05
+521 42 9.36737e-05
+521 45 9.36737e-05
+521 91 9.36737e-05
+521 239 9.36737e-05
+521 331 9.36737e-05
+521 333 9.36737e-05
+522 4 0.000187347
+522 5 9.36737e-05
+522 7 0.000281021
+522 8 9.36737e-05
+522 13 9.36737e-05
+522 33 9.36737e-05
+522 52 9.36737e-05
+522 66 9.36737e-05
+522 178 9.36737e-05
+522 218 9.36737e-05
+523 6 9.36737e-05
+523 7 9.36737e-05
+523 9 0.000468368
+523 12 9.36737e-05
+523 30 9.36737e-05
+523 53 9.36737e-05
+523 55 9.36737e-05
+523 63 9.36737e-05
+523 76 9.36737e-05
+523 79 9.36737e-05
+523 99 9.36737e-05
+523 158 9.36737e-05
+523 209 9.36737e-05
+523 312 9.36737e-05
+523 330 9.36737e-05
+523 332 9.36737e-05
+523 487 9.36737e-05
+523 497 9.36737e-05
+523 500 9.36737e-05
+523 507 9.36737e-05
+523 511 9.36737e-05
+524 5 9.36737e-05
+524 7 9.36737e-05
+524 8 9.36737e-05
+524 15 9.36737e-05
+524 21 9.36737e-05
+524 27 9.36737e-05
+524 60 9.36737e-05
+524 112 9.36737e-05
+525 2 9.36737e-05
+525 3 9.36737e-05
+525 4 9.36737e-05
+525 5 9.36737e-05
+525 6 0.000187347
+525 7 0.000187347
+525 9 9.36737e-05
+525 11 0.000187347
+525 17 0.000187347
+525 24 9.36737e-05
+525 27 0.000187347
+525 29 9.36737e-05
+525 33 9.36737e-05
+525 81 9.36737e-05
+525 109 9.36737e-05
+525 319 9.36737e-05
+526 1 0.000281021
+526 2 0.000281021
+526 4 0.000374695
+526 5 9.36737e-05
+526 6 0.0017798
+526 7 0.000374695
+526 9 0.000187347
+526 13 9.36737e-05
+526 15 0.000187347
+526 17 0.000468368
+526 18 9.36737e-05
+526 19 0.000187347
+526 20 0.000281021
+526 25 9.36737e-05
+526 27 9.36737e-05
+526 29 0.000187347
+526 37 0.000562042
+526 56 9.36737e-05
+526 59 9.36737e-05
+526 63 9.36737e-05
+526 67 9.36737e-05
+526 103 9.36737e-05
+526 104 9.36737e-05
+526 106 9.36737e-05
+526 108 9.36737e-05
+526 132 9.36737e-05
+526 133 9.36737e-05
+526 161 9.36737e-05
+526 163 9.36737e-05
+526 196 9.36737e-05
+526 231 9.36737e-05
+526 238 9.36737e-05
+526 253 9.36737e-05
+526 263 9.36737e-05
+526 275 9.36737e-05
+526 295 9.36737e-05
+526 318 9.36737e-05
+526 319 9.36737e-05
+526 331 9.36737e-05
+526 354 9.36737e-05
+526 457 9.36737e-05
+526 458 9.36737e-05
+526 459 9.36737e-05
+526 474 9.36737e-05
+526 490 9.36737e-05
+527 3 9.36737e-05
+527 4 0.000374695
+527 7 9.36737e-05
+527 8 0.000187347
+527 10 9.36737e-05
+527 12 9.36737e-05
+527 18 9.36737e-05
+527 24 9.36737e-05
+527 26 9.36737e-05
+527 49 9.36737e-05
+527 50 9.36737e-05
+527 52 9.36737e-05
+527 63 9.36737e-05
+527 71 9.36737e-05
+527 95 9.36737e-05
+527 103 9.36737e-05
+527 153 9.36737e-05
+527 245 9.36737e-05
+527 261 9.36737e-05
+527 290 9.36737e-05
+527 291 9.36737e-05
+527 312 9.36737e-05
+527 332 9.36737e-05
+527 499 9.36737e-05
+528 4 0.000374695
+528 6 0.000374695
+528 8 9.36737e-05
+528 9 0.000281021
+528 12 9.36737e-05
+528 13 9.36737e-05
+528 14 9.36737e-05
+528 15 9.36737e-05
+528 18 0.000281021
+528 20 0.000187347
+528 22 0.000187347
+528 25 9.36737e-05
+528 26 0.000468368
+528 28 0.000187347
+528 30 9.36737e-05
+528 31 9.36737e-05
+528 34 9.36737e-05
+528 36 0.000281021
+528 42 9.36737e-05
+528 49 9.36737e-05
+528 55 9.36737e-05
+528 61 9.36737e-05
+528 62 9.36737e-05
+528 74 9.36737e-05
+528 84 9.36737e-05
+528 98 9.36737e-05
+528 108 9.36737e-05
+528 118 9.36737e-05
+528 126 9.36737e-05
+528 131 9.36737e-05
+528 133 9.36737e-05
+528 144 9.36737e-05
+528 188 9.36737e-05
+528 190 9.36737e-05
+528 232 9.36737e-05
+528 234 9.36737e-05
+528 237 9.36737e-05
+528 238 9.36737e-05
+528 332 9.36737e-05
+528 458 9.36737e-05
+528 463 9.36737e-05
+528 482 9.36737e-05
+528 494 9.36737e-05
+528 495 9.36737e-05
+528 500 9.36737e-05
+528 504 9.36737e-05
+529 4 9.36737e-05
+529 5 9.36737e-05
+529 8 0.000374695
+529 12 9.36737e-05
+529 14 9.36737e-05
+529 17 9.36737e-05
+529 20 0.000187347
+529 24 9.36737e-05
+529 38 9.36737e-05
+529 76 9.36737e-05
+529 123 9.36737e-05
+529 158 9.36737e-05
+529 216 9.36737e-05
+529 245 9.36737e-05
+529 334 9.36737e-05
+529 445 9.36737e-05
+529 482 9.36737e-05
+529 488 9.36737e-05
+529 513 9.36737e-05
+530 2 0.000187347
+530 4 9.36737e-05
+530 6 9.36737e-05
+530 9 0.000374695
+530 10 0.000374695
+530 13 9.36737e-05
+530 14 0.000281021
+530 15 9.36737e-05
+530 18 0.000281021
+530 20 9.36737e-05
+530 28 0.000187347
+530 33 9.36737e-05
+530 38 9.36737e-05
+530 78 9.36737e-05
+530 87 9.36737e-05
+530 93 9.36737e-05
+530 130 9.36737e-05
+530 133 9.36737e-05
+530 142 9.36737e-05
+530 222 9.36737e-05
+530 241 9.36737e-05
+530 268 9.36737e-05
+530 296 9.36737e-05
+530 305 9.36737e-05
+530 361 9.36737e-05
+530 401 9.36737e-05
+530 402 9.36737e-05
+530 483 9.36737e-05
+531 1 9.36737e-05
+531 3 9.36737e-05
+531 4 9.36737e-05
+531 5 0.000187347
+531 6 9.36737e-05
+531 8 0.000187347
+531 9 0.000374695
+531 12 9.36737e-05
+531 13 9.36737e-05
+531 14 0.000187347
+531 18 0.000187347
+531 20 9.36737e-05
+531 22 9.36737e-05
+531 24 0.000187347
+531 25 0.000187347
+531 26 9.36737e-05
+531 30 9.36737e-05
+531 31 0.000187347
+531 34 9.36737e-05
+531 39 9.36737e-05
+531 46 9.36737e-05
+531 50 9.36737e-05
+531 52 9.36737e-05
+531 61 9.36737e-05
+531 102 9.36737e-05
+531 125 9.36737e-05
+531 157 9.36737e-05
+531 158 9.36737e-05
+531 175 9.36737e-05
+531 216 9.36737e-05
+531 217 9.36737e-05
+531 227 9.36737e-05
+531 236 9.36737e-05
+531 239 9.36737e-05
+531 243 9.36737e-05
+531 245 9.36737e-05
+531 304 9.36737e-05
+531 316 9.36737e-05
+531 364 9.36737e-05
+531 388 9.36737e-05
+531 407 9.36737e-05
+531 417 9.36737e-05
+531 441 9.36737e-05
+531 460 9.36737e-05
+531 462 9.36737e-05
+531 496 9.36737e-05
+531 503 9.36737e-05
+531 505 9.36737e-05
+532 4 0.000374695
+532 7 0.000187347
+532 8 0.000281021
+532 15 9.36737e-05
+532 22 9.36737e-05
+532 24 9.36737e-05
+532 26 9.36737e-05
+532 29 9.36737e-05
+532 34 9.36737e-05
+532 37 9.36737e-05
+532 39 9.36737e-05
+532 53 9.36737e-05
+532 66 9.36737e-05
+532 92 9.36737e-05
+532 118 9.36737e-05
+532 129 9.36737e-05
+532 156 9.36737e-05
+532 189 9.36737e-05
+533 3 9.36737e-05
+533 4 9.36737e-05
+533 6 9.36737e-05
+533 9 0.000374695
+533 13 0.000187347
+533 20 0.000187347
+533 21 9.36737e-05
+533 24 9.36737e-05
+533 33 9.36737e-05
+533 36 0.000187347
+533 42 9.36737e-05
+533 53 9.36737e-05
+533 104 9.36737e-05
+533 108 9.36737e-05
+533 131 9.36737e-05
+533 132 9.36737e-05
+533 157 9.36737e-05
+533 189 9.36737e-05
+533 194 9.36737e-05
+533 205 9.36737e-05
+533 229 9.36737e-05
+533 233 9.36737e-05
+533 263 9.36737e-05
+533 318 9.36737e-05
+533 333 9.36737e-05
+533 470 9.36737e-05
+533 481 9.36737e-05
+533 486 9.36737e-05
+533 498 9.36737e-05
+533 504 9.36737e-05
+533 508 9.36737e-05
+533 511 9.36737e-05
+534 3 0.000281021
+534 4 0.000468368
+534 5 9.36737e-05
+534 6 9.36737e-05
+534 8 9.36737e-05
+534 9 9.36737e-05
+534 12 0.000187347
+534 15 0.000187347
+534 21 9.36737e-05
+534 26 0.000187347
+534 31 9.36737e-05
+534 50 9.36737e-05
+534 74 9.36737e-05
+534 75 9.36737e-05
+534 82 9.36737e-05
+534 83 9.36737e-05
+534 111 9.36737e-05
+534 133 9.36737e-05
+534 186 9.36737e-05
+534 187 9.36737e-05
+534 208 9.36737e-05
+534 238 9.36737e-05
+534 306 9.36737e-05
+534 311 9.36737e-05
+534 324 9.36737e-05
+534 478 9.36737e-05
+535 4 9.36737e-05
+535 5 9.36737e-05
+535 7 9.36737e-05
+536 1 9.36737e-05
+536 4 0.000281021
+536 5 9.36737e-05
+536 6 9.36737e-05
+536 7 0.000374695
+536 8 0.000187347
+536 10 0.000468368
+536 11 9.36737e-05
+536 12 0.000187347
+536 13 9.36737e-05
+536 14 9.36737e-05
+536 15 0.000187347
+536 16 9.36737e-05
+536 17 9.36737e-05
+536 18 0.000187347
+536 21 9.36737e-05
+536 22 9.36737e-05
+536 24 9.36737e-05
+536 33 9.36737e-05
+536 34 9.36737e-05
+536 39 0.000187347
+536 42 9.36737e-05
+536 48 9.36737e-05
+536 49 9.36737e-05
+536 53 9.36737e-05
+536 54 9.36737e-05
+536 60 9.36737e-05
+536 61 9.36737e-05
+536 63 9.36737e-05
+536 75 9.36737e-05
+536 82 9.36737e-05
+536 86 9.36737e-05
+536 88 9.36737e-05
+536 94 9.36737e-05
+536 99 9.36737e-05
+536 112 9.36737e-05
+536 115 9.36737e-05
+536 118 9.36737e-05
+536 149 9.36737e-05
+536 169 9.36737e-05
+536 183 9.36737e-05
+536 302 9.36737e-05
+536 303 9.36737e-05
+536 305 9.36737e-05
+536 313 9.36737e-05
+536 360 9.36737e-05
+536 391 9.36737e-05
+536 446 9.36737e-05
+536 462 9.36737e-05
+536 467 9.36737e-05
+536 472 9.36737e-05
+537 4 0.000187347
+537 5 0.000187347
+537 7 0.000187347
+537 8 0.000187347
+537 10 0.000187347
+537 14 9.36737e-05
+537 17 9.36737e-05
+537 18 9.36737e-05
+537 19 9.36737e-05
+537 21 9.36737e-05
+537 22 9.36737e-05
+537 23 9.36737e-05
+537 33 9.36737e-05
+537 40 9.36737e-05
+537 52 9.36737e-05
+537 58 9.36737e-05
+537 243 9.36737e-05
+537 284 9.36737e-05
+537 472 9.36737e-05
+538 5 9.36737e-05
+538 7 0.000281021
+538 27 9.36737e-05
+538 48 9.36737e-05
+538 86 9.36737e-05
+538 116 9.36737e-05
+539 2 0.000187347
+539 4 0.000468368
+539 5 9.36737e-05
+539 6 9.36737e-05
+539 7 9.36737e-05
+539 13 9.36737e-05
+539 15 9.36737e-05
+539 18 9.36737e-05
+539 20 9.36737e-05
+539 21 9.36737e-05
+539 25 0.000187347
+539 26 0.000187347
+539 30 9.36737e-05
+539 33 0.000187347
+539 34 9.36737e-05
+539 38 9.36737e-05
+539 42 9.36737e-05
+539 49 9.36737e-05
+539 53 9.36737e-05
+539 61 9.36737e-05
+539 64 9.36737e-05
+539 75 9.36737e-05
+539 82 9.36737e-05
+539 93 9.36737e-05
+539 95 9.36737e-05
+539 149 9.36737e-05
+539 293 9.36737e-05
+539 302 9.36737e-05
+539 316 9.36737e-05
+539 373 9.36737e-05
+539 492 9.36737e-05
+540 1 9.36737e-05
+540 4 9.36737e-05
+540 7 9.36737e-05
+540 9 9.36737e-05
+540 13 0.000281021
+540 14 0.000187347
+540 21 0.000281021
+540 22 0.000187347
+540 30 0.000374695
+540 33 0.000187347
+540 35 9.36737e-05
+540 41 9.36737e-05
+540 75 9.36737e-05
+540 77 9.36737e-05
+540 149 9.36737e-05
+540 157 9.36737e-05
+540 194 9.36737e-05
+540 278 9.36737e-05
+540 320 9.36737e-05
+540 335 9.36737e-05
+540 506 9.36737e-05
+541 4 0.000374695
+541 5 9.36737e-05
+541 7 0.000374695
+541 9 9.36737e-05
+541 17 9.36737e-05
+541 18 0.000187347
+541 22 9.36737e-05
+541 26 9.36737e-05
+541 27 9.36737e-05
+541 28 9.36737e-05
+541 29 0.000187347
+541 30 9.36737e-05
+541 31 9.36737e-05
+541 40 9.36737e-05
+541 48 9.36737e-05
+541 49 9.36737e-05
+541 53 9.36737e-05
+541 70 9.36737e-05
+541 89 9.36737e-05
+541 92 9.36737e-05
+541 97 9.36737e-05
+541 98 9.36737e-05
+541 154 9.36737e-05
+541 179 9.36737e-05
+541 192 9.36737e-05
+541 225 9.36737e-05
+541 303 9.36737e-05
+541 317 9.36737e-05
+541 464 9.36737e-05
+541 469 9.36737e-05
+541 501 9.36737e-05

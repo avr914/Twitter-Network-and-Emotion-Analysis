@@ -33,8 +33,8 @@ g = net.Graph(net.ego_graph(o, SEED, radius=6))
 fname = os.path.join('avbytes_following',SEED + '.csv')
 direct_friends = set()
 with open(fname) as f_seeddat:
-    reader = csv.reader(f_seeddat, dialect='excel')
-    direct_friends = set(row[1] for row in reader)
+ reader = csv.reader(f_seeddat, dialect='excel')
+ direct_friends = set(row[1] for row in reader)
 
 direct_friends.add(SEED)
 #print direct_friends

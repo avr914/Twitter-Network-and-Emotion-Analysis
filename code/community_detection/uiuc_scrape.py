@@ -51,7 +51,7 @@ def get_friend_ids(centre, max_depth=1, current_depth=0, taboo_list=set()):
     else:
         taboo_list.add(centre)
  
-    try:
+    :
         userfname = os.path.join(JSON_DIR, str(centre) + '.json')
         fname = os.path.join(USER_DIR, str(centre) + '.csv')
         if not os.path.exists(userfname):

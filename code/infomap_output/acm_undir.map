@@ -1,0 +1,2456 @@
+# modules: 54
+# modulelinks: 493
+# nodes: 1900
+# links: 9979
+# codelength: 9.24838
+*Undirected
+*Modules 54
+1 "U: emilychaosays,..." 0.444049 0.118136
+2 "U: UI_Counseling,..." 0.190066 0.053923
+3 "U: TheOfficialACM,..." 0.0723756 0.0213219
+4 "U: shenghuiyang,..." 0.0309686 0.0203819
+5 "U: chellam_chellam,..." 0.0275057 0.0172158
+6 "U: 3RedTrading,..." 0.0209261 0.0132087
+7 "U: mloar,..." 0.0187494 0.0103394
+8 "U: ElsbethWeeks,..." 0.0124666 0.00959731
+9 "U: atnmanuo,..." 0.00959731 0.00722272
+10 "U: ZubinPahuja,..." 0.00939943 0.00633224
+11 "U: vishrutreddi,..." 0.0091026 0.00563966
+12 "U: SteveBezek,..." 0.00801425 0.00494707
+13 "U: ViDEv2015,..." 0.00712378 0.00465024
+14 "U: fenggeorgeyu,..." 0.00633224 0.00445236
+15 "U: kalyancgs,..." 0.00613436 0.00445236
+16 "U: jwb713,..." 0.00608489 0.00410607
+17 "U: Lindcap98,..." 0.00603542 0.00395765
+18 "U: Alkinti,..." 0.00588701 0.00351242
+19 "U: ananyacleetus,..." 0.00549124 0.00351242
+20 "U: AllyD2030,..." 0.00524389 0.00375977
+21 "U: laurenahayes,..." 0.00499654 0.00331453
+22 "U: Root3d,..." 0.00460077 0.00291877
+23 "U: arielinwen,..." 0.00450183 0.00311665
+24 "U: PraneetSahgal,..." 0.00450183 0.00321559
+25 "U: nature79,..." 0.00440289 0.00291877
+26 "U: ACMSIGCAS,..." 0.00420501 0.00291877
+27 "U: HeyJarai,..." 0.00420501 0.00291877
+28 "U: hrsanaie,..." 0.00415554 0.00267142
+29 "U: moreno8944,..." 0.00405659 0.00296824
+30 "U: marz_shin,..." 0.0037103 0.00281983
+31 "U: elf101586,..." 0.00356189 0.00277036
+32 "U: vishaalganesan,..." 0.00346295 0.00207777
+33 "U: IL_Leadership,..." 0.00341348 0.00242406
+34 "U: pr_aravind,..." 0.00341348 0.00232512
+35 "U: 45e88f1793b2441,..." 0.00321559 0.0020283
+36 "U: edburns,..." 0.00316612 0.00227565
+37 "U: attorneywendel,..." 0.00301771 0.00192936
+38 "U: DeeMoe,..." 0.00296824 0.00227565
+39 "U: BernieSanders,..." 0.0028693 0.00217671
+40 "U: DaengFN_Taj,..." 0.00237459 0.00158306
+41 "U: ITAbuzz,..." 0.00232512 0.00153359
+42 "U: ChrisC_Pearson,..." 0.00222618 0.00173147
+43 "U: sage_corps,..." 0.00217671 0.00138518
+44 "U: MSFTResearch,..." 0.00217671 0.00158306
+45 "U: credcresearch,..." 0.00212724 0.00143465
+46 "U: ksmit5a2,..." 0.00212724 0.00123677
+47 "U: AI_TCS,..." 0.00207777 0.00128624
+48 "U: vc1105,..." 0.00173147 0.00123677
+49 "U: 0xEnder,..." 0.00158306 0.000989413
+50 "U: jtimberlake,..." 0.00133571 0.00103888
+51 "U: EmWatson,..." 0.00128624 0.000989413
+52 "U: MuseumAdvocait,..." 0.00113783 0.00074206
+53 "U: bigdata_chile,..." 0.00113783 0.000643119
+54 "U: missmayim,..." 0.000197883 9.89413e-05
+*Nodes 1900
+1:1 "U: emilychaosays" 0.0151875
+1:2 "U: narendasan" 0.00880578
+1:3 "U: sujaykhandekar" 0.00786584
+1:4 "U: Milanocookies93" 0.00667854
+1:5 "U: ACRDevils" 0.00628277
+1:6 "U: neelabhg" 0.00613436
+1:7 "U: slixpk" 0.00608489
+1:8 "U: daferna2" 0.00588701
+1:9 "U: colegleason" 0.00588701
+1:10 "U: vai_pahwa" 0.00534283
+1:11 "U: CJS7070" 0.00524389
+1:12 "U: rohan34" 0.00519442
+1:13 "U: theyangmaster" 0.00519442
+1:14 "U: sachinofgoa" 0.00514495
+1:15 "U: josephmilla" 0.00504601
+1:16 "U: aravind_sun" 0.00504601
+1:17 "U: myokimi" 0.00504601
+1:18 "U: IllinoisCS" 0.00479865
+1:19 "U: lauralicari94" 0.00474918
+1:20 "U: sriv22_" 0.00474918
+1:21 "U: leetcat__" 0.00465024
+1:22 "U: brett_jackson" 0.00440289
+1:23 "U: irtefa1" 0.00440289
+1:24 "U: spnktn" 0.00430395
+1:25 "U: NateMcCord" 0.00420501
+1:26 "U: iluvcompsci" 0.00420501
+1:27 "U: klnusbaum" 0.00410607
+1:28 "U: yisongyue" 0.00390818
+1:29 "U: annierong5" 0.00385871
+1:30 "U: Illinois_Alma" 0.00366083
+1:31 "U: coollavy92" 0.00361136
+1:32 "U: rmalik" 0.00346295
+1:33 "U: WeterPoo" 0.00346295
+1:34 "U: JustBeamIt" 0.00331453
+1:35 "U: kalinalinkalina" 0.00331453
+1:36 "U: berwinxie" 0.00326506
+1:37 "U: ColinGraber" 0.00321559
+1:38 "U: AgrawalAnchal" 0.00316612
+1:39 "U: actuallyaswin" 0.00316612
+1:40 "U: JiyerJiyer" 0.00301771
+1:41 "U: ilfounders" 0.00296824
+1:42 "U: niraj" 0.00296824
+1:43 "U: wdtz" 0.00291877
+1:44 "U: ashishbijlani" 0.0028693
+1:45 "U: ginocorrales" 0.00267142
+1:46 "U: EngineeringAtIL" 0.00262195
+1:47 "U: sahmnomnom" 0.00262195
+1:48 "U: jerrytalton" 0.00257247
+1:49 "U: GoThinkB1G" 0.002523
+1:50 "U: karmanya" 0.00247353
+1:51 "U: rohanseth161995" 0.00237459
+1:52 "U: Amacelia" 0.00237459
+1:53 "U: _achalv" 0.00232512
+1:54 "U: Marty_Rosenberg" 0.00222618
+1:55 "U: DaocunYang" 0.00222618
+1:56 "U: elonmusk" 0.00207777
+1:57 "U: HackIllinois" 0.00207777
+1:58 "U: BillGates" 0.0020283
+1:59 "U: pfefferminze" 0.0020283
+1:60 "U: shreyas208" 0.0020283
+1:61 "U: google" 0.00197883
+1:62 "U: mrbinson" 0.00197883
+1:63 "U: TechCrunch" 0.00192936
+1:64 "U: robbenyang" 0.00192936
+1:65 "U: acmreflections" 0.00178094
+1:66 "U: MasterPpv" 0.001682
+1:67 "U: xiaoma" 0.00163253
+1:68 "U: fiandola" 0.00158306
+1:69 "U: POTUS" 0.00158306
+1:70 "U: github" 0.00158306
+1:71 "U: googledevs" 0.00153359
+1:72 "U: matthewdierker" 0.00153359
+1:73 "U: twitter" 0.00153359
+1:74 "U: baristaTam" 0.00148412
+1:75 "U: WIRED" 0.00148412
+1:76 "U: arvindvjkumar" 0.00143465
+1:77 "U: Snowden" 0.00138518
+1:78 "U: SpaceX" 0.00138518
+1:79 "U: ParijatMazumdar" 0.00138518
+1:80 "U: googleresearch" 0.00133571
+1:81 "U: NASA" 0.00133571
+1:82 "U: kscottz" 0.00133571
+1:83 "U: xcrushhh" 0.00128624
+1:84 "U: BarackObama" 0.00128624
+1:85 "U: Android" 0.00128624
+1:86 "U: ycombinator" 0.0011873
+1:87 "U: bradenehrat" 0.0011873
+1:88 "U: neiltyson" 0.00113783
+1:89 "U: Dropbox" 0.00113783
+1:90 "U: iamevashih" 0.00113783
+1:91 "U: waltersn512" 0.00113783
+1:92 "U: mikestaszel" 0.00108835
+1:93 "U: clemzio" 0.00103888
+1:94 "U: mlevchin" 0.000989413
+1:95 "U: techreview" 0.000989413
+1:96 "U: tim_cook" 0.000989413
+1:97 "U: kavvyg" 0.000939943
+1:98 "U: AndroidDev" 0.000939943
+1:99 "U: MLHacks" 0.000890472
+1:100 "U: nickofbh" 0.000841001
+1:101 "U: TeslaMotors" 0.000841001
+1:102 "U: pmarca" 0.000841001
+1:103 "U: DrinkTheSunnyD" 0.000791531
+1:104 "U: mhacks" 0.000791531
+1:105 "U: billclinton" 0.000791531
+1:106 "U: marissamayer" 0.000791531
+1:107 "U: iamjohnoliver" 0.00074206
+1:108 "U: Medium" 0.00074206
+1:109 "U: jimmyfallon" 0.00074206
+1:110 "U: radiantmoondust" 0.00074206
+1:111 "U: satyanadella" 0.00074206
+1:112 "U: IEEE_UIUC" 0.00074206
+1:113 "U: Microsoft" 0.00074206
+1:114 "U: DaeyunShin" 0.000692589
+1:115 "U: saurik" 0.000692589
+1:116 "U: alexisohanian" 0.000692589
+1:117 "U: StephenAtHome" 0.000692589
+1:118 "U: SwiftOnSecurity" 0.000692589
+1:119 "U: TwitterEng" 0.000692589
+1:120 "U: TwitterU" 0.000692589
+1:121 "U: verge" 0.000692589
+1:122 "U: googlestudents" 0.000692589
+1:123 "U: newsycombinator" 0.000643119
+1:124 "U: vivalasiesta" 0.000643119
+1:125 "U: sundarpichai" 0.000643119
+1:126 "U: kitjainsayswhat" 0.000643119
+1:127 "U: HillaryClinton" 0.000643119
+1:128 "U: sama" 0.000643119
+1:129 "U: jbensal" 0.000643119
+1:130 "U: SlackHQ" 0.000643119
+1:131 "U: bhorowitz" 0.000643119
+1:132 "U: illinihackers" 0.000593648
+1:133 "U: azizansari" 0.000593648
+1:134 "U: HackMIT" 0.000593648
+1:135 "U: BillNye" 0.000593648
+1:136 "U: nodejs" 0.000593648
+1:137 "U: digitalocean" 0.000593648
+1:138 "U: ConanOBrien" 0.000593648
+1:139 "U: Brendan_J_Ryan" 0.000593648
+1:140 "U: ericschmidt" 0.000593648
+1:141 "U: twitterapi" 0.000593648
+1:142 "U: drewhouston" 0.000593648
+1:143 "U: Inc" 0.000593648
+1:144 "U: docker" 0.000544177
+1:145 "U: getbootstrap" 0.000544177
+1:146 "U: nellyspageli" 0.000544177
+1:147 "U: PennApps" 0.000544177
+1:148 "U: kudeki" 0.000544177
+1:149 "U: FLOTUS" 0.000544177
+1:150 "U: TheOnion" 0.000544177
+1:151 "U: firefox" 0.000544177
+1:152 "U: jack" 0.000544177
+1:153 "U: phamduchieu" 0.000544177
+1:154 "U: ActuallyNPH" 0.000544177
+1:155 "U: MongoDB" 0.000544177
+1:156 "U: loliponi" 0.000544177
+1:157 "U: paulg" 0.000544177
+1:158 "U: ZachBrewer" 0.000544177
+1:159 "U: SiliconHBO" 0.000544177
+1:160 "U: bchesky" 0.000544177
+1:161 "U: jefferickson" 0.000544177
+1:162 "U: JoinTheFlock" 0.000494707
+1:163 "U: brady_salz" 0.000494707
+1:164 "U: sfbayrane" 0.000494707
+1:165 "U: ask_jeaves" 0.000494707
+1:166 "U: greggyb" 0.000494707
+1:167 "U: Clare_Cat" 0.000494707
+1:168 "U: Codecademy" 0.000494707
+1:169 "U: nicktabick" 0.000494707
+1:170 "U: VishalDisawar" 0.000494707
+1:171 "U: HackerNewsOnion" 0.000494707
+1:172 "U: lifeatgoogle" 0.000494707
+1:173 "U: jeffweiner" 0.000494707
+1:174 "U: Square" 0.000445236
+1:175 "U: sequoia" 0.000445236
+1:176 "U: MarsCuriosity" 0.000445236
+1:177 "U: ChicagoInno" 0.000445236
+1:178 "U: awscloud" 0.000445236
+1:179 "U: dpaola2" 0.000445236
+1:180 "U: nathanhandler" 0.000445236
+1:181 "U: mjmayank1" 0.000445236
+1:182 "U: a16z" 0.000445236
+1:183 "U: MassyTech" 0.000445236
+1:184 "U: BoilerMake1" 0.000445236
+1:185 "U: donttrythis" 0.000445236
+1:186 "U: cassidoo" 0.000445236
+1:187 "U: wikileaks" 0.000445236
+1:188 "U: golang" 0.000445236
+1:189 "U: WhiteHouse" 0.000445236
+1:190 "U: CIA" 0.000395765
+1:191 "U: meimarrissa" 0.000395765
+1:192 "U: BoredElonMusk" 0.000395765
+1:193 "U: codinghorror" 0.000395765
+1:194 "U: alexjcord" 0.000395765
+1:195 "U: samgnesin" 0.000395765
+1:196 "U: IllinoisEngrIT" 0.000395765
+1:197 "U: kumailn" 0.000395765
+1:198 "U: shugoingplaces" 0.000395765
+1:199 "U: RobertPieta" 0.000395765
+1:200 "U: EweekUIUC" 0.000395765
+1:201 "U: kpcb" 0.000395765
+1:202 "U: dickc" 0.000395765
+1:203 "U: design" 0.000395765
+1:204 "U: AirbnbNerds" 0.000395765
+1:205 "U: stevewoz" 0.000395765
+1:206 "U: NASA_Technology" 0.000395765
+1:207 "U: GoogleVentures" 0.000395765
+1:208 "U: khanacademy" 0.000395765
+1:209 "U: richardbranson" 0.000395765
+1:210 "U: hipsterhacker" 0.000346295
+1:211 "U: techstars" 0.000346295
+1:212 "U: kevinlange" 0.000346295
+1:213 "U: Jason" 0.000346295
+1:214 "U: bhargav" 0.000346295
+1:215 "U: angularjs" 0.000346295
+1:216 "U: KarlTheFog" 0.000346295
+1:217 "U: andersoncooper" 0.000346295
+1:218 "U: 50NerdsofGrey" 0.000346295
+1:219 "U: bojdell" 0.000346295
+1:220 "U: LastWeekTonight" 0.000346295
+1:221 "U: reidhoffman" 0.000346295
+1:222 "U: hackaday" 0.000346295
+1:223 "U: codeschool" 0.000346295
+1:224 "U: Raspberry_Pi" 0.000346295
+1:225 "U: Oatmeal" 0.000346295
+1:226 "U: GSElevator" 0.000346295
+1:227 "U: kickstarter" 0.000346295
+1:228 "U: Airbnb" 0.000346295
+1:229 "U: chamila818" 0.000346295
+1:230 "U: SupriyaHobbs" 0.000346295
+1:231 "U: nktprkh" 0.000346295
+1:232 "U: hackwithtrees" 0.000346295
+1:233 "U: biz" 0.000346295
+1:234 "U: jquery" 0.000346295
+1:235 "U: SeinfeldToday" 0.000346295
+1:236 "U: Uber" 0.000346295
+1:237 "U: clattner_llvm" 0.000346295
+1:238 "U: StartupLJackson" 0.000346295
+1:239 "U: gvanrossum" 0.000346295
+1:240 "U: Sethrogen" 0.000346295
+1:241 "U: shit_hn_says" 0.000346295
+1:242 "U: oculus" 0.000346295
+1:243 "U: medialab" 0.000346295
+1:244 "U: nest" 0.000346295
+1:245 "U: ID_AA_Carmack" 0.000346295
+1:246 "U: ev" 0.000346295
+1:247 "U: espn" 0.000346295
+1:248 "U: 500Startups" 0.000346295
+1:249 "U: triketora" 0.000346295
+1:250 "U: sacca" 0.000346295
+1:251 "U: reactjs" 0.000346295
+1:252 "U: feliciaday" 0.000346295
+1:253 "U: AnnaKendrick47" 0.000346295
+1:254 "U: MKBHD" 0.000346295
+1:255 "U: googlecloud" 0.000346295
+1:256 "U: sadserver" 0.000296824
+1:257 "U: trello" 0.000296824
+1:258 "U: ericries" 0.000296824
+1:259 "U: drfeifei" 0.000296824
+1:260 "U: Linux" 0.000296824
+1:261 "U: googletalks" 0.000296824
+1:262 "U: CyanogenMod" 0.000296824
+1:263 "U: hackNY" 0.000296824
+1:264 "U: TheAmyDance" 0.000296824
+1:265 "U: TimothyKadich" 0.000296824
+1:266 "U: smitwiff" 0.000296824
+1:267 "U: coreoslinux" 0.000296824
+1:268 "U: HackTheNorth" 0.000296824
+1:269 "U: jeresig" 0.000296824
+1:270 "U: googleglass" 0.000296824
+1:271 "U: davefontenot" 0.000296824
+1:272 "U: bitcmp" 0.000296824
+1:273 "U: SteveCarell" 0.000296824
+1:274 "U: rohankapoorcom" 0.000296824
+1:275 "U: Firebase" 0.000296824
+1:276 "U: BriannaIfft" 0.000296824
+1:277 "U: StuffAswinSays" 0.000296824
+1:278 "U: thehacktech" 0.000296824
+1:279 "U: IlliniCrushes" 0.000296824
+1:280 "U: ThalmicDev" 0.000296824
+1:281 "U: climagic" 0.000296824
+1:282 "U: prattprattpratt" 0.000296824
+1:283 "U: DisneyPixar" 0.000296824
+1:284 "U: rithmio" 0.000296824
+1:285 "U: DanShenGou" 0.000296824
+1:286 "U: BeMissPossible" 0.000296824
+1:287 "U: UnsungHero97" 0.000296824
+1:288 "U: PayPal" 0.000296824
+1:289 "U: TwitterData" 0.000296824
+1:290 "U: travisk" 0.000296824
+1:291 "U: donaldglover" 0.000296824
+1:292 "U: mcuban" 0.000296824
+1:293 "U: levie" 0.000296824
+1:294 "U: hackerrank" 0.000296824
+1:295 "U: gigaom" 0.000296824
+1:296 "U: grantimahara" 0.000296824
+1:297 "U: RobDenBleyker" 0.000296824
+1:298 "U: JamieNoTweet" 0.000296824
+1:299 "U: wilw" 0.000247353
+1:300 "U: Nick_Offerman" 0.000247353
+1:301 "U: mezmor" 0.000247353
+1:302 "U: AcademicsSay" 0.000247353
+1:303 "U: alephbass" 0.000247353
+1:304 "U: keen_io" 0.000247353
+1:305 "U: stanforddschool" 0.000247353
+1:306 "U: trombonekenny" 0.000247353
+1:307 "U: henryboldi" 0.000247353
+1:308 "U: TheHackGT" 0.000247353
+1:309 "U: _lisavuong" 0.000247353
+1:310 "U: Real_CSS_Tricks" 0.000247353
+1:311 "U: AliKAfridi" 0.000247353
+1:312 "U: NateSilver538" 0.000247353
+1:313 "U: meeraparat" 0.000247353
+1:314 "U: YaleHack" 0.000247353
+1:315 "U: lorakrys" 0.000247353
+1:316 "U: reddit" 0.000247353
+1:317 "U: evilhag" 0.000247353
+1:318 "U: BuiltInChicago" 0.000247353
+1:319 "U: docjamesw" 0.000247353
+1:320 "U: TwitterSF" 0.000247353
+1:321 "U: HackPrinceton" 0.000247353
+1:322 "U: meteorjs" 0.000247353
+1:323 "U: HackDuke" 0.000247353
+1:324 "U: IMOsolutions" 0.000247353
+1:325 "U: Hack_Chi" 0.000247353
+1:326 "U: NegatedVoid" 0.000247353
+1:327 "U: HackTX" 0.000247353
+1:328 "U: moskov" 0.000247353
+1:329 "U: Dennis_Yuan" 0.000247353
+1:330 "U: AngelList" 0.000247353
+1:331 "U: Pebble" 0.000247353
+1:332 "U: davidbyttow" 0.000247353
+1:333 "U: spolsky" 0.000247353
+1:334 "U: davemcclure" 0.000247353
+1:335 "U: martinfowler" 0.000247353
+1:336 "U: mozilla" 0.000247353
+1:337 "U: KenJennings" 0.000247353
+1:338 "U: peterthiel" 0.000247353
+1:339 "U: JonahHill" 0.000247353
+1:340 "U: TheTweetOfGod" 0.000247353
+1:341 "U: stewart" 0.000247353
+1:342 "U: bfeld" 0.000247353
+1:343 "U: heroku" 0.000247353
+1:344 "U: GreylockVC" 0.000247353
+1:345 "U: DavidSacks" 0.000247353
+1:346 "U: ubuntu" 0.000247353
+1:347 "U: GoogleDesign" 0.000247353
+1:348 "U: oneplus" 0.000247353
+1:349 "U: RickandMorty" 0.000247353
+1:350 "U: Sony" 0.000247353
+1:351 "U: Azure" 0.000247353
+1:352 "U: _FloridaMan" 0.000197883
+1:353 "U: SarahKSilverman" 0.000197883
+1:354 "U: SirPatStew" 0.000197883
+1:355 "U: BigDataBorat" 0.000197883
+1:356 "U: pschiller" 0.000197883
+1:357 "U: djangoproject" 0.000197883
+1:358 "U: VT_Hacks" 0.000197883
+1:359 "U: lyft" 0.000197883
+1:360 "U: dylnuge" 0.000197883
+1:361 "U: elihickox" 0.000197883
+1:362 "U: LAHacks" 0.000197883
+1:363 "U: kashevdalmia" 0.000197883
+1:364 "U: annacbare" 0.000197883
+1:365 "U: _benng" 0.000197883
+1:366 "U: mynameisraj" 0.000197883
+1:367 "U: Cmdr_Hadfield" 0.000197883
+1:368 "U: HVFLabs" 0.000197883
+1:369 "U: Wu_Tang_Finance" 0.000197883
+1:370 "U: HamillHimself" 0.000197883
+1:371 "U: UDJPlayer" 0.000197883
+1:372 "U: pakalupapito" 0.000197883
+1:373 "U: generalelectric" 0.000197883
+1:374 "U: AnselmoShim" 0.000197883
+1:375 "U: rebecca0429" 0.000197883
+1:376 "U: readyforce" 0.000197883
+1:377 "U: DrewC212" 0.000197883
+1:378 "U: foolywk" 0.000197883
+1:379 "U: 56ek" 0.000197883
+1:380 "U: vandyhacks" 0.000197883
+1:381 "U: SoHacks" 0.000197883
+1:382 "U: UWMadHacks" 0.000197883
+1:383 "U: KPCBFellows" 0.000197883
+1:384 "U: MurtazaHaider12" 0.000197883
+1:385 "U: BryanCranston" 0.000197883
+1:386 "U: alicejifanyin" 0.000197883
+1:387 "U: KatYAYknee" 0.000197883
+1:388 "U: terns" 0.000197883
+1:389 "U: venmo" 0.000197883
+1:390 "U: NUWildHacks" 0.000197883
+1:391 "U: olivercai" 0.000197883
+1:392 "U: VirginAmerica" 0.000197883
+1:393 "U: johngreen" 0.000197883
+1:394 "U: CrystalKnowsMe" 0.000197883
+1:395 "U: hackatbrown" 0.000197883
+1:396 "U: carh0rn" 0.000197883
+1:397 "U: IFTTT" 0.000197883
+1:398 "U: agiddygoat" 0.000197883
+1:399 "U: iHrithik" 0.000197883
+1:400 "U: r2d3us" 0.000197883
+1:401 "U: TwitterForNews" 0.000197883
+1:402 "U: QuirkyInsider" 0.000197883
+1:403 "U: SquareEng" 0.000197883
+1:404 "U: HoloLens" 0.000197883
+1:405 "U: hunterwalk" 0.000197883
+1:406 "U: justinkan" 0.000197883
+1:407 "U: zachtratar" 0.000197883
+1:408 "U: golangweekly" 0.000197883
+1:409 "U: CommitStrip" 0.000197883
+1:410 "U: w3c" 0.000197883
+1:411 "U: periscopeco" 0.000197883
+1:412 "U: ideo" 0.000197883
+1:413 "U: aproposeinc" 0.000197883
+1:414 "U: karaswisher" 0.000197883
+1:415 "U: melindagates" 0.000197883
+1:416 "U: jgebbia" 0.000197883
+1:417 "U: garrytan" 0.000197883
+1:418 "U: RanjithaSKumar" 0.000197883
+1:419 "U: AtomEditor" 0.000197883
+1:420 "U: womeng" 0.000197883
+1:421 "U: SeanA208" 0.000197883
+1:422 "U: nvidia" 0.000197883
+1:423 "U: twilio" 0.000197883
+1:424 "U: googlecodejam" 0.000197883
+1:425 "U: PalantirTech" 0.000197883
+1:426 "U: fredwilson" 0.000197883
+1:427 "U: iamsrk" 0.000197883
+1:428 "U: vkhosla" 0.000197883
+1:429 "U: adamdangelo" 0.000197883
+1:430 "U: 1871Chicago" 0.000197883
+1:431 "U: gatesfoundation" 0.000197883
+1:432 "U: DanielleMorrill" 0.000197883
+1:433 "U: danharmon" 0.000197883
+1:434 "U: YikYakApp" 0.000197883
+1:435 "U: iamrashidajones" 0.000197883
+1:436 "U: TheRealNimoy" 0.000197883
+1:437 "U: JakeWharton" 0.000197883
+1:438 "U: cyngn" 0.000197883
+1:439 "U: RichardDawkins" 0.000197883
+1:440 "U: NeckbeardHacker" 0.000148412
+1:441 "U: AllieBrosh" 0.000148412
+1:442 "U: pgbovine" 0.000148412
+1:443 "U: jwz" 0.000148412
+1:444 "U: TNG_S8" 0.000148412
+1:445 "U: HP" 0.000148412
+1:446 "U: WPGU1071" 0.000148412
+1:447 "U: BrentSpiner" 0.000148412
+1:448 "U: 5entinel" 0.000148412
+1:449 "U: taoxiease" 0.000148412
+1:450 "U: JimCarrey" 0.000148412
+1:451 "U: ekta1651" 0.000148412
+1:452 "U: PHP_CEO" 0.000148412
+1:453 "U: MrJamesMay" 0.000148412
+1:454 "U: googlevoice" 0.000148412
+1:455 "U: Arubin" 0.000148412
+1:456 "U: danfreedman" 0.000148412
+1:457 "U: bower" 0.000148412
+1:458 "U: alisonbrie" 0.000148412
+1:459 "U: ShyRuparel" 0.000148412
+1:460 "U: parekh_92" 0.000148412
+1:461 "U: Etsy" 0.000148412
+1:462 "U: Benioff" 0.000148412
+1:463 "U: YiyangHu" 0.000148412
+1:464 "U: AgribleInc" 0.000148412
+1:465 "U: jeffbigham" 0.000148412
+1:466 "U: nestling" 0.000148412
+1:467 "U: goldenbirch21" 0.000148412
+1:468 "U: BrandonPhilips" 0.000148412
+1:469 "U: html5doctor" 0.000148412
+1:470 "U: Neovim" 0.000148412
+1:471 "U: hulu" 0.000148412
+1:472 "U: SleeplessinCU" 0.000148412
+1:473 "U: TwitterAds" 0.000148412
+1:474 "U: LeagueOfLegends" 0.000148412
+1:475 "U: CalHacks" 0.000148412
+1:476 "U: geekfeminism" 0.000148412
+1:477 "U: om" 0.000148412
+1:478 "U: realDonaldJS" 0.000148412
+1:479 "U: EC_UIUC" 0.000148412
+1:480 "U: randileeharper" 0.000148412
+1:481 "U: UVaHackers" 0.000148412
+1:482 "U: JeremyClarkson" 0.000148412
+1:483 "U: SathvikaA" 0.000148412
+1:484 "U: purduehackers" 0.000148412
+1:485 "U: _bsiddiqui" 0.000148412
+1:486 "U: Wealthfront" 0.000148412
+1:487 "U: AK34_" 0.000148412
+1:488 "U: ChairmanAyyLmao" 0.000148412
+1:489 "U: justinsayarath" 0.000148412
+1:490 "U: Niranjana206" 0.000148412
+1:491 "U: getstrap" 0.000148412
+1:492 "U: thenikiwells" 0.000148412
+1:493 "U: innovationlab" 0.000148412
+1:494 "U: dailyjs" 0.000148412
+1:495 "U: nixcraft" 0.000148412
+1:496 "U: edXOnline" 0.000148412
+1:497 "U: StanfordBiz" 0.000148412
+1:498 "U: TheRealBuzz" 0.000148412
+1:499 "U: reedlabotz" 0.000148412
+1:500 "U: overleaf" 0.000148412
+1:501 "U: csproctor" 0.000148412
+1:502 "U: derektrc" 0.000148412
+1:503 "U: safety" 0.000148412
+1:504 "U: abril_vela" 0.000148412
+1:505 "U: HackATL" 0.000148412
+1:506 "U: pattonoswalt" 0.000148412
+1:507 "U: linjiachang" 0.000148412
+1:508 "U: ece_sac" 0.000148412
+1:509 "U: TEDNews" 0.000148412
+1:510 "U: ProductHunt" 0.000148412
+1:511 "U: RealTomHankz" 0.000148412
+1:512 "U: seismic_activty" 0.000148412
+1:513 "U: magicbentobus" 0.000148412
+1:514 "U: AndroidPolice" 0.000148412
+1:515 "U: carrieffisher" 0.000148412
+1:516 "U: rickygervais" 0.000148412
+1:517 "U: ggreenwald" 0.000148412
+1:518 "U: zero11235eight" 0.000148412
+1:519 "U: TwitterSports" 0.000148412
+1:520 "U: BigRedHacks" 0.000148412
+1:521 "U: frogdesign" 0.000148412
+1:522 "U: TheAviPrasad" 0.000148412
+1:523 "U: clpwn" 0.000148412
+1:524 "U: akshaykumar" 0.000148412
+1:525 "U: dart_lang" 0.000148412
+1:526 "U: nihilist_arbys" 0.000148412
+1:527 "U: hackerleague" 0.000148412
+1:528 "U: twoffice" 0.000148412
+1:529 "U: hackBCA" 0.000148412
+1:530 "U: theHackRU" 0.000148412
+1:531 "U: Austinh100" 0.000148412
+1:532 "U: theHackNC" 0.000148412
+1:533 "U: stripe" 0.000148412
+1:534 "U: ibashes" 0.000148412
+1:535 "U: PhilzCoffee" 0.000148412
+1:536 "U: stephenfry" 0.000148412
+1:537 "U: McGillHacks" 0.000148412
+1:538 "U: obviousvc" 0.000148412
+1:539 "U: foundersfund" 0.000148412
+1:540 "U: onlyinsf" 0.000148412
+1:541 "U: naval" 0.000148412
+1:542 "U: mrjiwani" 0.000148412
+1:543 "U: aneeshack4" 0.000148412
+1:544 "U: rabois" 0.000148412
+1:545 "U: joshelman" 0.000148412
+1:546 "U: _tessr" 0.000148412
+1:547 "U: adamnash" 0.000148412
+1:548 "U: NASANewHorizons" 0.000148412
+1:549 "U: kubernetesio" 0.000148412
+1:550 "U: NPRextra" 0.000148412
+1:551 "U: mulaney" 0.000148412
+1:552 "U: johnmaeda" 0.000148412
+1:553 "U: ebaystudents" 0.000148412
+1:554 "U: techemployee" 0.000148412
+1:555 "U: codeascraft" 0.000148412
+1:556 "U: mindykaling" 0.000148412
+1:557 "U: Uber_SF" 0.000148412
+1:558 "U: romero" 0.000148412
+1:559 "U: hitRECordJoe" 0.000148412
+1:560 "U: ClintonFdn" 0.000148412
+1:561 "U: StanfordHCI" 0.000148412
+1:562 "U: madeon" 0.000148412
+1:563 "U: chamath" 0.000148412
+1:564 "U: GreenDay" 0.000148412
+1:565 "U: koomen" 0.000148412
+1:566 "U: TrumpSC" 0.000148412
+1:567 "U: PearlHacks" 0.000148412
+1:568 "U: TSM_Leffen" 0.000148412
+1:569 "U: bldwin" 0.000148412
+1:570 "U: topcoder" 0.000148412
+1:571 "U: porterrobinson" 0.000148412
+1:572 "U: michaelarmbrust" 0.000148412
+1:573 "U: UberEng" 0.000148412
+1:574 "U: bjnovak" 0.000148412
+1:575 "U: MatiasDuarte" 0.000148412
+1:576 "U: 88PKane" 0.000148412
+1:577 "U: tzhongg" 0.000148412
+1:578 "U: MaterialUp" 0.000148412
+1:579 "U: internetofshit" 0.000148412
+1:580 "U: tweetsauce" 0.000148412
+1:581 "U: JohnLegere" 0.000148412
+1:582 "U: femfreq" 0.000148412
+1:583 "U: Adobe" 0.000148412
+1:584 "U: OpenStack" 0.000148412
+1:585 "U: waitbutwhy" 0.000148412
+1:586 "U: xkcd" 0.000148412
+1:587 "U: ToAruOS" 9.89413e-05
+1:588 "U: lolesports" 9.89413e-05
+1:589 "U: neilhimself" 9.89413e-05
+1:590 "U: infraredflower" 9.89413e-05
+1:591 "U: NHL" 9.89413e-05
+1:592 "U: SIGMusicUIUC" 4.94707e-05
+1:593 "U: BeatsByACM" 4.94707e-05
+1:594 "U: IllinoisProbss" 4.94707e-05
+1:595 "U: swish41" 4.94707e-05
+2:1 "U: UI_Counseling" 0.00667854
+2:2 "U: IllinoisWCS" 0.00643119
+2:3 "U: GradSWEillinois" 0.00613436
+2:4 "U: EGSAC_UIUC" 0.00563966
+2:5 "U: SJLEIllinois" 0.00554071
+2:6 "U: illini_pr" 0.00519442
+2:7 "U: eceILLINOIS" 0.00494707
+2:8 "U: elankaroll" 0.00479865
+2:9 "U: C2theJ" 0.00460077
+2:10 "U: UICOMUrbana" 0.00385871
+2:11 "U: thehiddenstory" 0.00385871
+2:12 "U: bilgeacun" 0.00375977
+2:13 "U: kovaka" 0.00375977
+2:14 "U: GradLifeIL" 0.00346295
+2:15 "U: checktzc123" 0.00346295
+2:16 "U: PsiChiUIUC" 0.00341348
+2:17 "U: UI_OBFSNews" 0.0028693
+2:18 "U: yuanyua14064033" 0.0028693
+2:19 "U: josie_geng" 0.00281983
+2:20 "U: bmcginty" 0.00272089
+2:21 "U: noamseg" 0.00262195
+2:22 "U: Tomtomboy_hi" 0.00227565
+2:23 "U: margarinemargie" 0.00227565
+2:24 "U: apacoalition" 0.00227565
+2:25 "U: UIResearchPark" 0.00212724
+2:26 "U: qzhanguiuc" 0.001682
+2:27 "U: iCollegeCart" 0.00158306
+2:28 "U: TheDailyIllini" 0.00153359
+2:29 "U: nito__moreno" 0.00133571
+2:30 "U: CiEats" 0.00133571
+2:31 "U: thiagothiagotei" 0.00123677
+2:32 "U: nytimes" 0.00108835
+2:33 "U: afscg" 0.00103888
+2:34 "U: IlliniAlert" 0.000989413
+2:35 "U: NCSAatIllinois" 0.000989413
+2:36 "U: TechServicesIL" 0.000939943
+2:37 "U: Illini_Union" 0.000890472
+2:38 "U: csgso" 0.000890472
+2:39 "U: ILinnovations" 0.000841001
+2:40 "U: TECenter" 0.000841001
+2:41 "U: UIPD" 0.000791531
+2:42 "U: BeckmanInst" 0.000791531
+2:43 "U: TEDxUIUC" 0.000791531
+2:44 "U: uiucbusiness" 0.000791531
+2:45 "U: UIAA" 0.00074206
+2:46 "U: CUMTD" 0.000692589
+2:47 "U: CSL_Illinois" 0.000692589
+2:48 "U: CNN" 0.000692589
+2:49 "U: askundergrad" 0.000692589
+2:50 "U: BlackSheep_UIUC" 0.000692589
+2:51 "U: Illinois_Intl" 0.000643119
+2:52 "U: UoICareerCenter" 0.000643119
+2:53 "U: NewsAtIllinois" 0.000643119
+2:54 "U: cityofurbana" 0.000643119
+2:55 "U: KrannertCenter" 0.000643119
+2:56 "U: OIIR_Illinois" 0.000643119
+2:57 "U: IllinoisEOH" 0.000593648
+2:58 "U: graingerlibrary" 0.000593648
+2:59 "U: SmilePolitely" 0.000593648
+2:60 "U: TheDailyShow" 0.000593648
+2:61 "U: LASillinois" 0.000593648
+2:62 "U: champaigncity" 0.000544177
+2:63 "U: IlliniCampusRec" 0.000494707
+2:64 "U: UofIFS" 0.000494707
+2:65 "U: visitchampaign" 0.000494707
+2:66 "U: IlliniFootball" 0.000494707
+2:67 "U: GraingerBob" 0.000494707
+2:68 "U: vprillinois" 0.000445236
+2:69 "U: CrackedTruck" 0.000445236
+2:70 "U: ISSSIllinois" 0.000445236
+2:71 "U: KAMillinois" 0.000445236
+2:72 "U: news_gazette" 0.000445236
+2:73 "U: DonGerard" 0.000445236
+2:74 "U: IllinoisIHSI" 0.000445236
+2:75 "U: SWEIllinois" 0.000445236
+2:76 "U: ILStuAffairs" 0.000445236
+2:77 "U: collegefreebies" 0.000445236
+2:78 "U: urbanamarket" 0.000395765
+2:79 "U: ThePygFest" 0.000395765
+2:80 "U: CEEatIllinois" 0.000395765
+2:81 "U: GeorgeTakei" 0.000395765
+2:82 "U: YoureWelcomeCU" 0.000395765
+2:83 "U: ImpactUIllinois" 0.000395765
+2:84 "U: IllinoisMatSE" 0.000395765
+2:85 "U: UofIResearch" 0.000395765
+2:86 "U: gslis" 0.000395765
+2:87 "U: hrukalive" 0.000395765
+2:88 "U: MarchingIllini" 0.000395765
+2:89 "U: IlliniMBB" 0.000395765
+2:90 "U: uiucacmsiggraph" 0.000395765
+2:91 "U: IlliniAthletics" 0.000395765
+2:92 "U: ChampaignPubLib" 0.000346295
+2:93 "U: UIPhoto" 0.000346295
+2:94 "U: uofibookstore" 0.000346295
+2:95 "U: IllinoisComm" 0.000346295
+2:96 "U: cg_food_coop" 0.000346295
+2:97 "U: IllinoisBlockI" 0.000346295
+2:98 "U: ECSillinois" 0.000346295
+2:99 "U: IllinoisLoyalty" 0.000346295
+2:100 "U: illinisecure" 0.000346295
+2:101 "U: colaburbana" 0.000346295
+2:102 "U: KsheerasagarBal" 0.000346295
+2:103 "U: sustainILLINOIS" 0.000346295
+2:104 "U: blackdogcu" 0.000346295
+2:105 "U: uofiadmissions" 0.000296824
+2:106 "U: IUB_Presents" 0.000296824
+2:107 "U: thecuart" 0.000296824
+2:108 "U: spurlockmuseum" 0.000296824
+2:109 "U: Illinois_1867" 0.000296824
+2:110 "U: JosephMTroy" 0.000296824
+2:111 "U: uiucssf" 0.000296824
+2:112 "U: champark" 0.000296824
+2:113 "U: CorporateAtUofI" 0.000296824
+2:114 "U: IGBIllinois" 0.000296824
+2:115 "U: nspillinois" 0.000296824
+2:116 "U: TopScholars1" 0.000296824
+2:117 "U: IlliniSoccer" 0.000296824
+2:118 "U: IlliniPride" 0.000296824
+2:119 "U: iHotel" 0.000296824
+2:120 "U: collegeofmedia" 0.000296824
+2:121 "U: IllinoisARI" 0.000296824
+2:122 "U: WeAre_100STRONG" 0.000296824
+2:123 "U: SJPUIUC" 0.000296824
+2:124 "U: uiuc_lacasa" 0.000296824
+2:125 "U: NSBE_UIUC" 0.000296824
+2:126 "U: Campustown" 0.000247353
+2:127 "U: IllinoisWRC" 0.000247353
+2:128 "U: Good2GoTruck" 0.000247353
+2:129 "U: raman_ritu" 0.000247353
+2:130 "U: InclusiveIL" 0.000247353
+2:131 "U: ILStudentSenate" 0.000247353
+2:132 "U: CITLIllinois" 0.000247353
+2:133 "U: UnivHousing" 0.000247353
+2:134 "U: ssc_uiuc" 0.000247353
+2:135 "U: robrutenbar" 0.000247353
+2:136 "U: chambanamoms" 0.000247353
+2:137 "U: coldplay" 0.000247353
+2:138 "U: culincolnsquare" 0.000247353
+2:139 "U: IllinoisISE" 0.000247353
+2:140 "U: PresCons" 0.000247353
+2:141 "U: UrbanaPD" 0.000247353
+2:142 "U: IlliniHillel" 0.000247353
+2:143 "U: illinoisbiolib" 0.000247353
+2:144 "U: urbanasweetcorn" 0.000247353
+2:145 "U: USFSCO" 0.000247353
+2:146 "U: IllinoisLGBTRC" 0.000247353
+2:147 "U: ILBioinstrument" 0.000247353
+2:148 "U: illinoisBCS" 0.000247353
+2:149 "U: urbanapublicart" 0.000247353
+2:150 "U: urbanaparks" 0.000247353
+2:151 "U: ILStudentMoney" 0.000247353
+2:152 "U: finwellnessuie" 0.000247353
+2:153 "U: IlliniVBall" 0.000247353
+2:154 "U: Courtyard_Cafe" 0.000247353
+2:155 "U: LER_Illinois" 0.000247353
+2:156 "U: IamtheIFUND" 0.000247353
+2:157 "U: IllinoisESAA" 0.000247353
+2:158 "U: IURecRoom" 0.000247353
+2:159 "U: QuadOskee" 0.000247353
+2:160 "U: IlliniMTrack" 0.000247353
+2:161 "U: IllinoisLLAA" 0.000247353
+2:162 "U: bradp10" 0.000247353
+2:163 "U: AACC_Illinois" 0.000247353
+2:164 "U: chaitownuiuc" 0.000247353
+2:165 "U: UIUC_Observer" 0.000247353
+2:166 "U: CocomeroUIUC" 0.000247353
+2:167 "U: UrbanaFree" 0.000197883
+2:168 "U: ChBE_Illinois" 0.000197883
+2:169 "U: thevirginia" 0.000197883
+2:170 "U: PhysicsIllinois" 0.000197883
+2:171 "U: ChampaignPD" 0.000197883
+2:172 "U: MechSEGrad" 0.000197883
+2:173 "U: SWE_President" 0.000197883
+2:174 "U: IlliniCenter" 0.000197883
+2:175 "U: ChambanaSciCafe" 0.000197883
+2:176 "U: CUVolunteer" 0.000197883
+2:177 "U: WCIA3" 0.000197883
+2:178 "U: GETillinois" 0.000197883
+2:179 "U: learnlibrary" 0.000197883
+2:180 "U: UIarchives" 0.000197883
+2:181 "U: CurtisOrchard" 0.000197883
+2:182 "U: UofIRegistrar" 0.000197883
+2:183 "U: DragonFirePizza" 0.000197883
+2:184 "U: PandaDoughnutCU" 0.000197883
+2:185 "U: di_sports" 0.000197883
+2:186 "U: UIIceArena" 0.000197883
+2:187 "U: EngageIllinois" 0.000197883
+2:188 "U: makerspaceu" 0.000197883
+2:189 "U: adairrabbit" 0.000197883
+2:190 "U: UIUCvolunteers" 0.000197883
+2:191 "U: urbanabusiness" 0.000197883
+2:192 "U: illini_drumline" 0.000197883
+2:193 "U: ColonialRoom" 0.000197883
+2:194 "U: IlliniVideo" 0.000197883
+2:195 "U: IlliniFSA" 0.000197883
+2:196 "U: LARHalls" 0.000197883
+2:197 "U: StateFarmCenter" 0.000197883
+2:198 "U: ILstudyabroad" 0.000197883
+2:199 "U: IlliniMGolf" 0.000197883
+2:200 "U: CITES_ICS" 0.000197883
+2:201 "U: Trelease_FAR" 0.000197883
+2:202 "U: IlliniIrwin" 0.000197883
+2:203 "U: BrothersUofI" 0.000197883
+2:204 "U: IlliniSB" 0.000197883
+2:205 "U: UniversityYUIUC" 0.000197883
+2:206 "U: IlliniWrestling" 0.000197883
+2:207 "U: CITES_CCME" 0.000197883
+2:208 "U: IlliniSwimming" 0.000197883
+2:209 "U: IllinoisPSM" 0.000197883
+2:210 "U: mkdickinson" 0.000197883
+2:211 "U: Jessicalessin" 0.000197883
+2:212 "U: MSTEOffice" 0.000197883
+2:213 "U: pixotech" 0.000197883
+2:214 "U: IlliniBaseball" 0.000197883
+2:215 "U: edILLINOIS" 0.000197883
+2:216 "U: IllinoisOnBTN" 0.000197883
+2:217 "U: amyschumer" 0.000197883
+2:218 "U: CUCheese" 0.000197883
+2:219 "U: IllinoisMBA" 0.000197883
+2:220 "U: tfauiuc" 0.000197883
+2:221 "U: REEEC_UIUC" 0.000197883
+2:222 "U: EtcLab" 0.000197883
+2:223 "U: Dance2XSUIUC" 0.000197883
+2:224 "U: BNAACC" 0.000197883
+2:225 "U: UIAA_BAN" 0.000197883
+2:226 "U: illinoislaunch" 0.000197883
+2:227 "U: JapanHouseUofI" 0.000197883
+2:228 "U: shopartmart" 0.000197883
+2:229 "U: PsychToday" 0.000197883
+2:230 "U: JoesBrewery" 0.000148412
+2:231 "U: ZooeyDeschanel" 0.000148412
+2:232 "U: mental_floss" 0.000148412
+2:233 "U: RebeccaEE" 0.000148412
+2:234 "U: daniellejmai" 0.000148412
+2:235 "U: CU_Coders" 0.000148412
+2:236 "U: eucenter" 0.000148412
+2:237 "U: idncnews" 0.000148412
+2:238 "U: UrbanaPizzaM" 0.000148412
+2:239 "U: noahfinny" 0.000148412
+2:240 "U: IllinoisPHC" 0.000148412
+2:241 "U: AllertonParkUI" 0.000148412
+2:242 "U: ifoundry" 0.000148412
+2:243 "U: erinkmolloy" 0.000148412
+2:244 "U: ILresearchdata" 0.000148412
+2:245 "U: buzzMagCU" 0.000148412
+2:246 "U: NetMathIllinois" 0.000148412
+2:247 "U: IntlMinimalist" 0.000148412
+2:248 "U: davidaxelrod" 0.000148412
+2:249 "U: JoinSquare" 0.000148412
+2:250 "U: willpublicmedia" 0.000148412
+2:251 "U: RodneyDavis" 0.000148412
+2:252 "U: ugresearch_UI" 0.000148412
+2:253 "U: EmpanadasHouse" 0.000148412
+2:254 "U: FMCoffeee" 0.000148412
+2:255 "U: UofIParapro" 0.000148412
+2:256 "U: MediaSSC" 0.000148412
+2:257 "U: BIOENGatIL" 0.000148412
+2:258 "U: OptiverUS" 0.000148412
+2:259 "U: IllinoisPolSci" 0.000148412
+2:260 "U: mechseILLINOIS" 0.000148412
+2:261 "U: stubbslab" 0.000148412
+2:262 "U: cubikemonth" 0.000148412
+2:263 "U: ChicagoILLINI" 0.000148412
+2:264 "U: IllinoisABE" 0.000148412
+2:265 "U: NSFGRFP" 0.000148412
+2:266 "U: GOLSatUIUC" 0.000148412
+2:267 "U: SORF_UofI" 0.000148412
+2:268 "U: uofiundeclared" 0.000148412
+2:269 "U: SCSAdvising" 0.000148412
+2:270 "U: NativeScholars" 0.000148412
+2:271 "U: UIResHallLib" 0.000148412
+2:272 "U: ISTCoalition" 0.000148412
+2:273 "U: TheatreIllinois" 0.000148412
+2:274 "U: Snyder_Hall" 0.000148412
+2:275 "U: ILWebmasters" 0.000148412
+2:276 "U: Illinois4H" 0.000148412
+2:277 "U: UserhelpCS" 0.000148412
+2:278 "U: ILDayofService" 0.000148412
+2:279 "U: chiefilliniwek" 0.000148412
+2:280 "U: ArtsatIllinois" 0.000148412
+2:281 "U: WestonHallWEX" 0.000148412
+2:282 "U: illioyearbook" 0.000148412
+2:283 "U: NTBCMNAdvising" 0.000148412
+2:284 "U: Illini_OKrush" 0.000148412
+2:285 "U: The_IDEA_Store" 0.000148412
+2:286 "U: IlliniVets" 0.000148412
+2:287 "U: IU_RSO" 0.000148412
+2:288 "U: UIllinoisLaw" 0.000148412
+2:289 "U: GulleyLab" 0.000148412
+2:290 "U: UnionROoffice" 0.000148412
+2:291 "U: CCSSuiuc" 0.000148412
+2:292 "U: Illinidads" 0.000148412
+2:293 "U: jwanhall" 0.000148412
+2:294 "U: PARhalls" 0.000148412
+2:295 "U: IlliniWGym" 0.000148412
+2:296 "U: WebMD" 0.000148412
+2:297 "U: mpalillinois" 0.000148412
+2:298 "U: illinoisadver" 0.000148412
+2:299 "U: mprobson" 0.000148412
+2:300 "U: jmozen" 0.000148412
+2:301 "U: MFTM_UIUC" 0.000148412
+2:302 "U: sciencegoddess" 0.000148412
+2:303 "U: IDOT_Illinois" 0.000148412
+2:304 "U: writemegwrite" 0.000148412
+2:305 "U: michael_kruepke" 0.000148412
+2:306 "U: IllinoisNRES" 0.000148412
+2:307 "U: UIUC_SIA" 0.000148412
+2:308 "U: Re_home" 0.000148412
+2:309 "U: GlobalStudiesIL" 0.000148412
+2:310 "U: ACDISuiuc" 0.000148412
+2:311 "U: ACESIllinois" 0.000148412
+2:312 "U: KDChi_UIUC" 0.000148412
+2:313 "U: DeltaGammaUIUC" 0.000148412
+2:314 "U: UIUC_Swans" 0.000148412
+2:315 "U: illinichio" 0.000148412
+2:316 "U: HabitatforHuman" 0.000148412
+2:317 "U: OTCRConsulting" 0.000148412
+2:318 "U: fizzanili" 0.000148412
+2:319 "U: IllinoisSAA" 9.89413e-05
+2:320 "U: IMPULSEMagUIUC" 9.89413e-05
+2:321 "U: CMNIllinoisIP" 9.89413e-05
+2:322 "U: FunkACESLibrary" 9.89413e-05
+2:323 "U: Champaign_Room" 9.89413e-05
+2:324 "U: rihanna" 9.89413e-05
+2:325 "U: illinoisadpi" 9.89413e-05
+3:1 "U: TheOfficialACM" 0.00831107
+3:2 "U: ACMAssiut" 0.00554071
+3:3 "U: SF_BayArea_ACM" 0.00479865
+3:4 "U: ACMDBIT" 0.00440289
+3:5 "U: UPES_CSF" 0.00440289
+3:6 "U: acmpolicy" 0.00321559
+3:7 "U: acm_ucm" 0.00281983
+3:8 "U: acmusp" 0.00138518
+3:9 "U: FastEntCareers" 0.00133571
+3:10 "U: abesecacm" 0.00108835
+3:11 "U: vitacmchapter" 0.00108835
+3:12 "U: ghc" 0.000791531
+3:13 "U: BVrecruits" 0.000791531
+3:14 "U: GirlsWhoCode" 0.000643119
+3:15 "U: SCSatCMU" 0.000544177
+3:16 "U: GirlsinTech" 0.000544177
+3:17 "U: codeorg" 0.000544177
+3:18 "U: QUACM" 0.000494707
+3:19 "U: wchichester3" 0.000494707
+3:20 "U: uscacm" 0.000445236
+3:21 "U: sig_chi" 0.000445236
+3:22 "U: acmeducation" 0.000445236
+3:23 "U: ACMQueue" 0.000445236
+3:24 "U: ComputerSociety" 0.000445236
+3:25 "U: anitaborg_org" 0.000445236
+3:26 "U: StanfordACM" 0.000395765
+3:27 "U: gtacm" 0.000395765
+3:28 "U: siggraph" 0.000395765
+3:29 "U: womenintech" 0.000395765
+3:30 "U: washingtonpost" 0.000395765
+3:31 "U: ACMLarry" 0.000346295
+3:32 "U: WITWomen" 0.000346295
+3:33 "U: NCAT_ACM" 0.000346295
+3:34 "U: acmtochi" 0.000346295
+3:35 "U: columbia_acm" 0.000346295
+3:36 "U: NSF" 0.000346295
+3:37 "U: PMUACMChapter" 0.000346295
+3:38 "U: girldevelopit" 0.000346295
+3:39 "U: waltmossberg" 0.000346295
+3:40 "U: ComSoc" 0.000296824
+3:41 "U: ACMWomENcourage" 0.000296824
+3:42 "U: Microsoft_EDU" 0.000296824
+3:43 "U: icpcamritapuri" 0.000296824
+3:44 "U: ACMUniandes" 0.000296824
+3:45 "U: NDSUACM" 0.000296824
+3:46 "U: uw_acm" 0.000296824
+3:47 "U: tcnjsiggraph" 0.000296824
+3:48 "U: sigsoft" 0.000296824
+3:49 "U: CNET" 0.000296824
+3:50 "U: gtcomputing" 0.000296824
+3:51 "U: acmsigite" 0.000247353
+3:52 "U: laacm" 0.000247353
+3:53 "U: Supercomputing" 0.000247353
+3:54 "U: XRDS_ACM" 0.000247353
+3:55 "U: vansig" 0.000247353
+3:56 "U: CACMmag" 0.000247353
+3:57 "U: SIGSPATIAL_GIS" 0.000247353
+3:58 "U: ScienceDaily" 0.000247353
+3:59 "U: CRAtweets" 0.000247353
+3:60 "U: csteachersa" 0.000247353
+3:61 "U: acmupm" 0.000247353
+3:62 "U: LatinasInC" 0.000247353
+3:63 "U: newscientist" 0.000247353
+3:64 "U: BogotaSIGGRAPH" 0.000247353
+3:65 "U: IEEESpectrum" 0.000247353
+3:66 "U: systers_org" 0.000247353
+3:67 "U: NCWIT" 0.000247353
+3:68 "U: ACMDL" 0.000247353
+3:69 "U: ParisSIGGRAPH" 0.000247353
+3:70 "U: SIGHPC" 0.000247353
+3:71 "U: acmtois" 0.000247353
+3:72 "U: acmud" 0.000247353
+3:73 "U: ACMInroads" 0.000247353
+3:74 "U: sydgraph" 0.000247353
+3:75 "U: ccnyacm" 0.000247353
+3:76 "U: sigact" 0.000247353
+3:77 "U: ACM_CSCW" 0.000247353
+3:78 "U: TO_siggraph" 0.000247353
+3:79 "U: SIGGRAPHAustin" 0.000247353
+3:80 "U: DCSIGGRAPH" 0.000247353
+3:81 "U: ACMSIGCOMM" 0.000247353
+3:82 "U: CNETNews" 0.000247353
+3:83 "U: timoreilly" 0.000247353
+3:84 "U: Computerworld" 0.000247353
+3:85 "U: reshmasaujani" 0.000197883
+3:86 "U: Ubuntu_OS" 0.000197883
+3:87 "U: ComputingReview" 0.000197883
+3:88 "U: DrexelSIGGRAPH" 0.000197883
+3:89 "U: ieeesoftware" 0.000197883
+3:90 "U: vardi" 0.000197883
+3:91 "U: AcmUpv" 0.000197883
+3:92 "U: SIGCSE_TS" 0.000197883
+3:93 "U: Campus_Tech" 0.000197883
+3:94 "U: ACM_SIGCHI" 0.000197883
+3:95 "U: ACM_SIGWEB" 0.000197883
+3:96 "U: OrlandoSIGGRAPH" 0.000197883
+3:97 "U: computingnow" 0.000197883
+3:98 "U: DCACM" 0.000197883
+3:99 "U: EdFelten" 0.000197883
+3:100 "U: SIGBED" 0.000197883
+3:101 "U: Indiaacm" 0.000197883
+3:102 "U: ACM_CEO" 0.000197883
+3:103 "U: alain_chesnais" 0.000197883
+3:104 "U: siggraph_irc" 0.000197883
+3:105 "U: GDforEmployers" 0.000197883
+3:106 "U: InformationWeek" 0.000197883
+3:107 "U: acmsigda" 0.000148412
+3:108 "U: Infosys" 0.000148412
+3:109 "U: markoff" 0.000148412
+3:110 "U: ComputerHistory" 0.000148412
+3:111 "U: sigdoc" 0.000148412
+3:112 "U: BerkeleyLab" 0.000148412
+3:113 "U: 7homaslin" 0.000148412
+3:114 "U: guzdial" 0.000148412
+3:115 "U: TriCoalition" 0.000148412
+3:116 "U: IBMResearchCAM" 0.000148412
+3:117 "U: CSEdWeek" 0.000148412
+3:118 "U: scratch" 0.000148412
+3:119 "U: blogCACM" 0.000148412
+3:120 "U: sherylsandberg" 0.000148412
+3:121 "U: USACM" 0.000148412
+3:122 "U: ACMawards" 0.000148412
+3:123 "U: TeachTec" 0.000148412
+3:124 "U: acmchi2012" 0.000148412
+3:125 "U: gchACM" 0.000148412
+3:126 "U: MichiganACM" 0.000148412
+3:127 "U: kdd_news" 0.000148412
+3:128 "U: thetechnewsblog" 0.000148412
+3:129 "U: govtechnews" 0.000148412
+3:130 "U: imaginecup" 0.000148412
+3:131 "U: recsys2010" 0.000148412
+3:132 "U: Turing2014" 0.000148412
+3:133 "U: chicagoacm" 0.000148412
+3:134 "U: sigmm" 0.000148412
+3:135 "U: lemire" 0.000148412
+3:136 "U: alfredtwo" 0.000148412
+3:137 "U: ACMSIGMOBILE" 0.000148412
+3:138 "U: scgbern" 0.000148412
+3:139 "U: TeamIDOC" 0.000148412
+3:140 "U: MarketingUK" 0.000148412
+3:141 "U: washmonthly" 9.89413e-05
+3:142 "U: WES1919" 9.89413e-05
+3:143 "U: Office" 9.89413e-05
+4:1 "U: shenghuiyang" 0.00465024
+4:2 "U: xiangdong" 0.00410607
+4:3 "U: owen_lyn" 0.00356189
+4:4 "U: junleqian" 0.002523
+4:5 "U: marefin2" 0.0011873
+4:6 "U: euv921" 0.000939943
+4:7 "U: YouTube" 0.000841001
+4:8 "U: googlechrome" 0.00074206
+4:9 "U: intel" 0.000593648
+4:10 "U: facebook" 0.000544177
+4:11 "U: Windows" 0.000494707
+4:12 "U: vine" 0.000494707
+4:13 "U: Starbucks" 0.000494707
+4:14 "U: GoogleforWork" 0.000445236
+4:15 "U: ladygaga" 0.000395765
+4:16 "U: googlenexus" 0.000395765
+4:17 "U: Pinterest" 0.000395765
+4:18 "U: LinkedInEng" 0.000296824
+4:19 "U: Yahoo" 0.000296824
+4:20 "U: ThinkwithGoogle" 0.000296824
+4:21 "U: AmericanExpress" 0.000247353
+4:22 "U: googlemaps" 0.000247353
+4:23 "U: Entrepreneur" 0.000247353
+4:24 "U: twittermobile" 0.000247353
+4:25 "U: IBMWatson" 0.000247353
+4:26 "U: Oprah" 0.000247353
+4:27 "U: fb_engineering" 0.000247353
+4:28 "U: NewYorker" 0.000247353
+4:29 "U: MSLearning" 0.000247353
+4:30 "U: androidcentral" 0.000197883
+4:31 "U: ThePSF" 0.000197883
+4:32 "U: IBM" 0.000197883
+4:33 "U: Oracle" 0.000197883
+4:34 "U: rails" 0.000197883
+4:35 "U: Quora" 0.000197883
+4:36 "U: GrubHub" 0.000197883
+4:37 "U: zhongbo" 0.000148412
+4:38 "U: chenqian1024" 0.000148412
+4:39 "U: GoogleMobile" 0.000148412
+4:40 "U: zhangyaxing" 0.000148412
+4:41 "U: CindyLin" 0.000148412
+4:42 "U: twittercomms" 0.000148412
+4:43 "U: bmishkin" 0.000148412
+4:44 "U: applenws" 0.000148412
+4:45 "U: aileenlee" 0.000148412
+4:46 "U: Motorola" 0.000148412
+4:47 "U: GEResearch" 0.000148412
+4:48 "U: finkd" 0.000148412
+4:49 "U: googledrive" 0.000148412
+4:50 "U: sparker" 0.000148412
+4:51 "U: jaykreps" 0.000148412
+4:52 "U: CHANEL" 0.000148412
+4:53 "U: NVIDIAGeForce" 0.000148412
+4:54 "U: katespadeny" 0.000148412
+4:55 "U: aboutdotme" 0.000148412
+4:56 "U: RottenTomatoes" 0.000148412
+4:57 "U: Photoshop" 0.000148412
+4:58 "U: googleearth" 0.000148412
+4:59 "U: BeyondTheSea7" 0.000148412
+4:60 "U: cssa_uiuc" 9.89413e-05
+4:61 "U: Lightroom" 9.89413e-05
+4:62 "U: SHAQ" 4.94707e-05
+5:1 "U: chellam_chellam" 0.00380924
+5:2 "U: IamSaleeq" 0.00321559
+5:3 "U: Jiarui_Xu" 0.00247353
+5:4 "U: brajabapun" 0.00187989
+5:5 "U: rajath26" 0.00123677
+5:6 "U: WSJ" 0.000939943
+5:7 "U: cnnbrk" 0.00074206
+5:8 "U: Forbes" 0.00074206
+5:9 "U: BBCWorld" 0.000544177
+5:10 "U: BBCBreaking" 0.000544177
+5:11 "U: gmail" 0.000494707
+5:12 "U: Reuters" 0.000494707
+5:13 "U: hootsuite" 0.000445236
+5:14 "U: GooglePlay" 0.000395765
+5:15 "U: HarvardBiz" 0.000395765
+5:16 "U: UN" 0.000395765
+5:17 "U: CNBC" 0.000395765
+5:18 "U: FT" 0.000395765
+5:19 "U: maroon5" 0.000346295
+5:20 "U: sachin_rt" 0.000346295
+5:21 "U: businessinsider" 0.000296824
+5:22 "U: KingJames" 0.000296824
+5:23 "U: BW" 0.000296824
+5:24 "U: igrigorik" 0.000247353
+5:25 "U: FinancialTimes" 0.000247353
+5:26 "U: venmanis" 0.000247353
+5:27 "U: Support" 0.000247353
+5:28 "U: SamsungMobile" 0.000247353
+5:29 "U: arrahman" 0.000197883
+5:30 "U: AvrilLavigne" 0.000197883
+5:31 "U: UNrightswire" 0.000197883
+5:32 "U: imVkohli" 0.000197883
+5:33 "U: FarOutAkhtar" 0.000197883
+5:34 "U: SunidhiChauhan5" 0.000197883
+5:35 "U: sonamakapoor" 0.000197883
+5:36 "U: trishtrashers" 0.000197883
+5:37 "U: wef" 0.000197883
+5:38 "U: MarketWatch" 0.000197883
+5:39 "U: geneliad" 0.000197883
+5:40 "U: StateDept" 0.000197883
+5:41 "U: BeingSalmanKhan" 0.000148412
+5:42 "U: thekiranbedi" 0.000148412
+5:43 "U: superstarrajini" 0.000148412
+5:44 "U: Davos" 0.000148412
+5:45 "U: UNICEF" 0.000148412
+5:46 "U: UNDP" 0.000148412
+5:47 "U: juniorbachchan" 0.000148412
+5:48 "U: bhogleharsha" 0.000148412
+5:49 "U: sardesairajdeep" 0.000148412
+5:50 "U: sonunigam" 0.000148412
+5:51 "U: aamir_khan" 0.000148412
+5:52 "U: Cognizant" 0.000148412
+5:53 "U: KAKA" 0.000148412
+5:54 "U: AnupamPkher" 0.000148412
+5:55 "U: TOIEntertain" 0.000148412
+5:56 "U: JLo" 0.000148412
+5:57 "U: Flickr" 0.000148412
+5:58 "U: ESPNcricinfo" 0.000148412
+5:59 "U: bing" 9.89413e-05
+6:1 "U: 3RedTrading" 0.00435342
+6:2 "U: SpotTrading" 0.00281983
+6:3 "U: acmoffice" 0.00108835
+6:4 "U: TheEconomist" 0.000939943
+6:5 "U: mosesklee" 0.000939943
+6:6 "U: _xingjiang_" 0.000841001
+6:7 "U: MIT" 0.00074206
+6:8 "U: Stanford" 0.00074206
+6:9 "U: LinkedIn" 0.000544177
+6:10 "U: WomenWhoCode" 0.000445236
+6:11 "U: EconBizFin" 0.000445236
+6:12 "U: Qualcomm" 0.000395765
+6:13 "U: MichiganHackers" 0.000395765
+6:14 "U: HuffPostTech" 0.000346295
+6:15 "U: ccnubbs" 0.000346295
+6:16 "U: NYSE" 0.000296824
+6:17 "U: Yale" 0.000296824
+6:18 "U: chicagotribune" 0.000247353
+6:19 "U: ChicagosMayor" 0.000247353
+6:20 "U: UMich" 0.000247353
+6:21 "U: WSJbusiness" 0.000247353
+6:22 "U: Harvard" 0.000247353
+6:23 "U: Penn" 0.000197883
+6:24 "U: CNNMoney" 0.000197883
+6:25 "U: BrownUniversity" 0.000197883
+6:26 "U: Cornell" 0.000197883
+6:27 "U: ChicagoBooth" 0.000148412
+6:28 "U: mashbusiness" 0.000148412
+6:29 "U: NorthwesternU" 0.000148412
+6:30 "U: kCura" 0.000148412
+6:31 "U: EECSatMI" 0.000148412
+6:32 "U: ReutersBiz" 0.000148412
+6:33 "U: strangeloop_stl" 0.000148412
+6:34 "U: BWiComputing" 0.000148412
+6:35 "U: WSJecon" 0.000148412
+6:36 "U: YahooFinance" 0.000148412
+6:37 "U: StackDevJobs" 0.000148412
+6:38 "U: NUCareerAdvance" 0.000148412
+6:39 "U: TechweekCHI" 0.000148412
+6:40 "U: Caltech" 0.000148412
+6:41 "U: adamlevine" 0.000148412
+6:42 "U: Columbia" 0.000148412
+6:43 "U: nytimesbusiness" 0.000148412
+6:44 "U: MconneX" 0.000148412
+6:45 "U: MichiganRoss" 0.000148412
+6:46 "U: Princeton" 9.89413e-05
+7:1 "U: mloar" 0.00306718
+7:2 "U: CyberIntern" 0.00296824
+7:3 "U: warquel" 0.00178094
+7:4 "U: ZiqiPeng" 0.00128624
+7:5 "U: SIGpwny" 0.000890472
+7:6 "U: alus21" 0.000841001
+7:7 "U: laparisa" 0.000494707
+7:8 "U: wbm312" 0.000445236
+7:9 "U: TheHackersNews" 0.000296824
+7:10 "U: dakami" 0.000296824
+7:11 "U: IEEEorg" 0.000296824
+7:12 "U: SANSInstitute" 0.000247353
+7:13 "U: DTChampaign" 0.000247353
+7:14 "U: UIUCTF" 0.000247353
+7:15 "U: InfoSecHotSpot" 0.000247353
+7:16 "U: InfosecurityMag" 0.000197883
+7:17 "U: kaspersky" 0.000197883
+7:18 "U: taosecurity" 0.000197883
+7:19 "U: DarkReading" 0.000197883
+7:20 "U: mikko" 0.000197883
+7:21 "U: k8em0" 0.000197883
+7:22 "U: mims" 0.000148412
+7:23 "U: BlackHatEvents" 0.000148412
+7:24 "U: rrhoover" 0.000148412
+7:25 "U: thedarktangent" 0.000148412
+7:26 "U: 27bslash6" 0.000148412
+7:27 "U: TenableSecurity" 0.000148412
+7:28 "U: DidierStevens" 0.000148412
+7:29 "U: IT_ProForum" 0.000148412
+7:30 "U: thegrugq" 0.000148412
+7:31 "U: threatpost" 0.000148412
+7:32 "U: SecBarbie" 0.000148412
+7:33 "U: securityninja" 0.000148412
+7:34 "U: RSAsecurity" 0.000148412
+7:35 "U: joshcorman" 0.000148412
+7:36 "U: IEEESA" 0.000148412
+7:37 "U: metasploit" 0.000148412
+7:38 "U: gattaca" 0.000148412
+7:39 "U: briankrebs" 0.000148412
+7:40 "U: e_kaspersky" 0.000148412
+7:41 "U: csoandy" 0.000148412
+7:42 "U: IMKristenBell" 0.000148412
+7:43 "U: klout" 0.000148412
+7:44 "U: simple" 0.000148412
+7:45 "U: _defcon_" 0.000148412
+7:46 "U: kslamb" 0.000148412
+7:47 "U: IEEEXplore" 9.89413e-05
+7:48 "U: upacm" 9.89413e-05
+8:1 "U: ElsbethWeeks" 0.002523
+8:2 "U: Claudia_WW20" 0.00173147
+8:3 "U: ChrisJd09" 0.00163253
+8:4 "U: TEDTalks" 0.000939943
+8:5 "U: Gizmodo" 0.000841001
+8:6 "U: lifehacker" 0.000791531
+8:7 "U: ForbesTech" 0.000593648
+8:8 "U: WCSuiuc" 0.000494707
+8:9 "U: WIREDScience" 0.000445236
+8:10 "U: RWW" 0.000296824
+8:11 "U: wece_uiuc" 0.000296824
+8:12 "U: TheNextWeb" 0.000296824
+8:13 "U: ECEPulse" 0.000247353
+8:14 "U: mashsocialmedia" 0.000247353
+8:15 "U: funnyordie" 0.000197883
+8:16 "U: CERN" 0.000197883
+8:17 "U: newsycbot" 0.000148412
+8:18 "U: SAI" 0.000148412
+8:19 "U: Wolfram_Alpha" 0.000148412
+8:20 "U: LauraFrerichs" 0.000148412
+8:21 "U: FCC" 9.89413e-05
+9:1 "U: atnmanuo" 0.00469971
+9:2 "U: CompSciFact" 0.000890472
+9:3 "U: sgord512" 0.000593648
+9:4 "U: TeXtip" 0.000346295
+9:5 "U: gadgetlab" 0.000346295
+9:6 "U: Spotify" 0.000247353
+9:7 "U: TopologyFact" 0.000197883
+9:8 "U: UnixToolTip" 0.000197883
+9:9 "U: PopSci" 0.000197883
+9:10 "U: digg" 0.000197883
+9:11 "U: VMware" 0.000197883
+9:12 "U: RegexTip" 0.000148412
+9:13 "U: mgsiegler" 0.000148412
+9:14 "U: ScienceNews" 0.000148412
+9:15 "U: CollegeHumor" 0.000148412
+9:16 "U: UChicagoCareers" 0.000148412
+9:17 "U: DemetriMartin" 0.000148412
+9:18 "U: UIUCLinguistics" 0.000148412
+9:19 "U: ABC" 0.000148412
+9:20 "U: Xbox" 0.000148412
+9:21 "U: amazontechdeals" 0.000148412
+10:1 "U: ZubinPahuja" 0.00272089
+10:2 "U: muntasirraihan" 0.00212724
+10:3 "U: cloudera" 0.000395765
+10:4 "U: hackingdata" 0.000346295
+10:5 "U: SebastianThrun" 0.000296824
+10:6 "U: stevenstrogatz" 0.000247353
+10:7 "U: FastCoDesign" 0.000247353
+10:8 "U: lazowska" 0.000197883
+10:9 "U: timberners_lee" 0.000197883
+10:10 "U: NYTScience" 0.000197883
+10:11 "U: TED_TALKS" 0.000197883
+10:12 "U: ApacheMesos" 0.000148412
+10:13 "U: preskill" 0.000148412
+10:14 "U: nasahqphoto" 0.000148412
+10:15 "U: EuroSys2015" 0.000148412
+10:16 "U: EMCcorp" 0.000148412
+10:17 "U: astonmartin" 0.000148412
+10:18 "U: Trifacta" 0.000148412
+10:19 "U: stop" 0.000148412
+10:20 "U: peteskomoroch" 0.000148412
+10:21 "U: jsfiddle" 0.000148412
+10:22 "U: michiokaku" 0.000148412
+10:23 "U: akshaybajaj" 0.000148412
+10:24 "U: BigDataGal" 0.000148412
+10:25 "U: realpreityzinta" 0.000148412
+10:26 "U: LeapMotion" 0.000148412
+11:1 "U: vishrutreddi" 0.00281983
+11:2 "U: BasiamaDuke" 0.00133571
+11:3 "U: Yifan1992" 0.000841001
+11:4 "U: twittermedia" 0.000346295
+11:5 "U: MSCloud" 0.000247353
+11:6 "U: NBA" 0.000247353
+11:7 "U: Lumia" 0.000197883
+11:8 "U: Office365" 0.000197883
+11:9 "U: msdev" 0.000197883
+11:10 "U: MesutOzil1088" 0.000148412
+11:11 "U: thesundaytimes" 0.000148412
+11:12 "U: cctvnews" 0.000148412
+11:13 "U: Manuel_Neuer" 0.000148412
+11:14 "U: androidandme" 0.000148412
+11:15 "U: Cristiano" 0.000148412
+11:16 "U: BSchweinsteiger" 0.000148412
+11:17 "U: FIFAWorldCup" 0.000148412
+11:18 "U: FIFAcom" 0.000148412
+11:19 "U: analyticbridge" 0.000148412
+11:20 "U: treehouse" 0.000148412
+11:21 "U: XabiAlonso" 0.000148412
+11:22 "U: VisualStudio" 0.000148412
+11:23 "U: mark_wahlberg" 0.000148412
+11:24 "U: LanaDelRey" 0.000148412
+11:25 "U: nottjmiller" 0.000148412
+11:26 "U: msftsecurity" 9.89413e-05
+11:27 "U: realmadrid" 9.89413e-05
+11:28 "U: Outlook" 9.89413e-05
+12:1 "U: SteveBezek" 0.00301771
+12:2 "U: KCombinator" 0.00074206
+12:3 "U: FioraAeterna" 0.000296824
+12:4 "U: whispersystems" 0.000247353
+12:5 "U: jeremys" 0.000197883
+12:6 "U: xkcdrss" 0.000197883
+12:7 "U: mattmight" 0.000197883
+12:8 "U: kevinrose" 0.000197883
+12:9 "U: HRHWill" 0.000197883
+12:10 "U: skamille" 0.000197883
+12:11 "U: the_intercept" 0.000197883
+12:12 "U: bcrypt" 0.000197883
+12:13 "U: adrianco" 0.000197883
+12:14 "U: csoghoian" 0.000197883
+12:15 "U: choxi" 0.000148412
+12:16 "U: Chad_Hurley" 0.000148412
+12:17 "U: sknthla" 0.000148412
+12:18 "U: nathanmarz" 0.000148412
+12:19 "U: periscopetv" 0.000148412
+12:20 "U: _msparks" 0.000148412
+12:21 "U: MarsOrbiter" 0.000148412
+12:22 "U: TwitterIR" 0.000148412
+12:23 "U: papers_we_love" 0.000148412
+12:24 "U: joeyhagedorn" 0.000148412
+12:25 "U: __apf__" 0.000148412
+12:26 "U: StephenCurry30" 9.89413e-05
+13:1 "U: ViDEv2015" 0.00163253
+13:2 "U: DanielKhashabi" 0.00163253
+13:3 "U: PHDcomics" 0.000296824
+13:4 "U: msuster" 0.000247353
+13:5 "U: slashdot" 0.000247353
+13:6 "U: AndrewYNg" 0.000247353
+13:7 "U: gnome" 0.000197883
+13:8 "U: CRAWomen" 0.000197883
+13:9 "U: debian" 0.000197883
+13:10 "U: stanfordnlp" 0.000197883
+13:11 "U: karpathy" 0.000197883
+13:12 "U: MIT_CSAIL" 0.000197883
+13:13 "U: avsm" 0.000148412
+13:14 "U: gragtah" 0.000148412
+13:15 "U: KirkDBorne" 0.000148412
+13:16 "U: johnplattml" 0.000148412
+13:17 "U: MITEECS" 0.000148412
+13:18 "U: kaggle" 0.000148412
+13:19 "U: earnmyturns" 0.000148412
+13:20 "U: probablypranjal" 0.000148412
+13:21 "U: ogrisel" 0.000148412
+13:22 "U: peteratmsr" 0.000148412
+13:23 "U: ybisk" 0.000148412
+14:1 "U: fenggeorgeyu" 0.00306718
+14:2 "U: MicrosoftJobs" 0.000296824
+14:3 "U: adityagp" 0.000296824
+14:4 "U: karger" 0.000197883
+14:5 "U: IllinoisPress" 0.000197883
+14:6 "U: mitchellh" 0.000197883
+14:7 "U: maanow" 0.000197883
+14:8 "U: mathematicsprof" 0.000197883
+14:9 "U: neil_conway" 0.000148412
+14:10 "U: IBMResearch" 0.000148412
+14:11 "U: uie_general" 0.000148412
+14:12 "U: MitraIllinois" 0.000148412
+14:13 "U: amplab" 0.000148412
+14:14 "U: MSFTnews" 0.000148412
+14:15 "U: rxin" 0.000148412
+14:16 "U: NVIDIATesla" 0.000148412
+14:17 "U: UIEngrAlums" 0.000148412
+14:18 "U: RickyNewcomb" 0.000148412
+14:19 "U: pbailis" 9.89413e-05
+14:20 "U: mengyalan" 9.89413e-05
+15:1 "U: kalyancgs" 0.00326506
+15:2 "U: jk_rowling" 0.000395765
+15:3 "U: IllinoisCS_ICPC" 0.000197883
+15:4 "U: ParineetiChopra" 0.000197883
+15:5 "U: andresiniesta8" 0.000148412
+15:6 "U: cesc4official" 0.000148412
+15:7 "U: GitHubEducation" 0.000148412
+15:8 "U: ShraddhaKapoor" 0.000148412
+15:9 "U: ChampionsLeague" 0.000148412
+15:10 "U: MagicRecs" 0.000148412
+15:11 "U: msbernst" 0.000148412
+15:12 "U: AndroidAuth" 0.000148412
+15:13 "U: joshbloch" 0.000148412
+15:14 "U: uiucisa" 0.000148412
+15:15 "U: university" 0.000148412
+15:16 "U: LuisSuarez9" 0.000148412
+15:17 "U: UIUC_Software" 0.000148412
+15:18 "U: united" 0.000148412
+16:1 "U: jwb713" 0.00277036
+16:2 "U: kkarahal" 0.000247353
+16:3 "U: billurbana" 0.000247353
+16:4 "U: bruceschatz" 0.000197883
+16:5 "U: MichelleWellens" 0.000197883
+16:6 "U: SallyXDZ" 0.000197883
+16:7 "U: JimBasney" 0.000148412
+16:8 "U: mgornick" 0.000148412
+16:9 "U: ireneau" 0.000148412
+16:10 "U: UofISocialWork" 0.000148412
+16:11 "U: ILHealthEng" 0.000148412
+16:12 "U: BioAnalyticsInc" 0.000148412
+16:13 "U: SidSethupathi" 0.000148412
+16:14 "U: jhett93" 0.000148412
+16:15 "U: andrewfbell" 0.000148412
+16:16 "U: aarontanderson" 0.000148412
+16:17 "U: perry_huang" 0.000148412
+16:18 "U: ChicagoCIE" 0.000148412
+16:19 "U: Techmeme" 0.000148412
+16:20 "U: IlliniBizDean" 0.000148412
+16:21 "U: iVenture_UofI" 0.000148412
+17:1 "U: Lindcap98" 0.00153359
+17:2 "U: Piya_t" 0.000890472
+17:3 "U: taylorswift13" 0.000692589
+17:4 "U: Adele" 0.000296824
+17:5 "U: justinbieber" 0.000296824
+17:6 "U: RealHughJackman" 0.000296824
+17:7 "U: KevinSpacey" 0.000247353
+17:8 "U: LeoDiCaprio" 0.000197883
+17:9 "U: RobertDowneyJr" 0.000197883
+17:10 "U: tumblr" 0.000197883
+17:11 "U: HBO" 0.000197883
+17:12 "U: onedirection" 0.000148412
+17:13 "U: TheVijayMallya" 0.000148412
+17:14 "U: Marvel" 0.000148412
+17:15 "U: S1dharthM" 0.000148412
+17:16 "U: wbpictures" 0.000148412
+17:17 "U: selenagomez" 0.000148412
+17:18 "U: shakira" 9.89413e-05
+18:1 "U: Alkinti" 0.00158306
+18:2 "U: kravanator" 0.000593648
+18:3 "U: Cisco" 0.000395765
+18:4 "U: CiscoSecurity" 0.000296824
+18:5 "U: hortonworks" 0.000247353
+18:6 "U: nginx" 0.000197883
+18:7 "U: strataconf" 0.000197883
+18:8 "U: Learn_Things" 0.000148412
+18:9 "U: WHO" 0.000148412
+18:10 "U: Nonprofits" 0.000148412
+18:11 "U: SAPTradeGeek" 0.000148412
+18:12 "U: _developin" 0.000148412
+18:13 "U: DigitalTrends" 0.000148412
+18:14 "U: F1" 0.000148412
+18:15 "U: java" 0.000148412
+18:16 "U: mckeay" 0.000148412
+18:17 "U: mapr" 0.000148412
+18:18 "U: jetbrains" 0.000148412
+18:19 "U: cassandra" 0.000148412
+18:20 "U: GlobalKnowledge" 0.000148412
+18:21 "U: IEEEInstitute" 0.000148412
+18:22 "U: IndieCade" 0.000148412
+18:23 "U: CMU_ECE" 0.000148412
+19:1 "U: ananyacleetus" 0.00153359
+19:2 "U: Haloamyy" 0.000593648
+19:3 "U: katyperry" 0.000494707
+19:4 "U: starwars" 0.000296824
+19:5 "U: BrunoMars" 0.000247353
+19:6 "U: alyankovic" 0.000197883
+19:7 "U: TheRealStanLee" 0.000197883
+19:8 "U: LMFAO" 0.000197883
+19:9 "U: innovationuiuc" 0.000197883
+19:10 "U: BBCBusiness" 0.000197883
+19:11 "U: parksandrecnbc" 0.000148412
+19:12 "U: WarnerBrosEnt" 0.000148412
+19:13 "U: chrishemsworth" 0.000148412
+19:14 "U: SethMacFarlane" 0.000148412
+19:15 "U: PumpkinPiPics" 0.000148412
+19:16 "U: jasonsegel" 0.000148412
+19:17 "U: MarkRuffalo" 0.000148412
+19:18 "U: RyanLewis" 0.000148412
+19:19 "U: macklemore" 0.000148412
+20:1 "U: AllyD2030" 0.00192936
+20:2 "U: VentureBeat" 0.000494707
+20:3 "U: business" 0.000395765
+20:4 "U: RahmEmanuel" 0.000296824
+20:5 "U: kdnuggets" 0.000296824
+20:6 "U: Newsweek" 0.000197883
+20:7 "U: ariannahuff" 0.000197883
+20:8 "U: befamous" 0.000197883
+20:9 "U: planetmoney" 0.000197883
+20:10 "U: women2" 0.000197883
+20:11 "U: learningcode" 0.000148412
+20:12 "U: adainitiative" 0.000148412
+20:13 "U: hmason" 0.000148412
+20:14 "U: nickparsons" 0.000148412
+20:15 "U: sailorhg" 0.000148412
+20:16 "U: saulfp" 9.89413e-05
+21:1 "U: laurenahayes" 0.000890472
+21:2 "U: Daniel5082" 0.000890472
+21:3 "U: arstechnica" 0.000445236
+21:4 "U: thereaIbanksy" 0.000395765
+21:5 "U: notch" 0.000346295
+21:6 "U: kaifulee" 0.000296824
+21:7 "U: AppStore" 0.000296824
+21:8 "U: jeb_" 0.000197883
+21:9 "U: BenedictEvans" 0.000148412
+21:10 "U: meredithperry" 0.000148412
+21:11 "U: eholmes2003" 0.000148412
+21:12 "U: nytopinion" 0.000148412
+21:13 "U: MikeIsaac" 0.000148412
+21:14 "U: TalkAndroid" 0.000148412
+21:15 "U: RichardHammond" 0.000148412
+21:16 "U: ui7news" 0.000148412
+21:17 "U: leomad2014" 4.94707e-05
+22:1 "U: Root3d" 0.00158306
+22:2 "U: ChromiumDev" 0.000296824
+22:3 "U: npmjs" 0.000197883
+22:4 "U: linuxfoundation" 0.000197883
+22:5 "U: RonConway" 0.000197883
+22:6 "U: mxcl" 0.000197883
+22:7 "U: paul_irish" 0.000197883
+22:8 "U: letsencrypt" 0.000197883
+22:9 "U: TweetDeck" 0.000197883
+22:10 "U: EdwardTufte" 0.000148412
+22:11 "U: FiloSottile" 0.000148412
+22:12 "U: Flight" 0.000148412
+22:13 "U: balajis" 0.000148412
+22:14 "U: jesslivingston" 0.000148412
+22:15 "U: 18F" 0.000148412
+22:16 "U: fbOpenSource" 0.000148412
+22:17 "U: worrydream" 0.000148412
+22:18 "U: TwitterDev" 0.000148412
+23:1 "U: arielinwen" 0.001682
+23:2 "U: iamdevloper" 0.000395765
+23:3 "U: EconEconomics" 0.000247353
+23:4 "U: MsTechGroup" 0.000247353
+23:5 "U: BlackGirlsCode" 0.000247353
+23:6 "U: JavaScriptDaily" 0.000247353
+23:7 "U: odersky" 0.000197883
+23:8 "U: educationweek" 0.000197883
+23:9 "U: SWE_grad" 0.000148412
+23:10 "U: edutopia" 0.000148412
+23:11 "U: recruiterbro" 0.000148412
+23:12 "U: swecrs" 0.000148412
+23:13 "U: AngularJS_News" 0.000148412
+23:14 "U: RedHatNews" 0.000148412
+23:15 "U: ReactJSNews" 0.000148412
+24:1 "U: PraneetSahgal" 0.00192936
+24:2 "U: NatGeo" 0.000445236
+24:3 "U: xLindsAfurdx" 0.000445236
+24:4 "U: steam_games" 0.000197883
+24:5 "U: PlayStation" 0.000197883
+24:6 "U: Pink" 0.000197883
+24:7 "U: EA" 0.000197883
+24:8 "U: billmaher" 0.000148412
+24:9 "U: rogerdickey" 0.000148412
+24:10 "U: Discovery" 0.000148412
+24:11 "U: Razer" 0.000148412
+24:12 "U: unity3d" 0.000148412
+24:13 "U: Twitch" 0.000148412
+25:1 "U: nature79" 0.00183041
+25:2 "U: WarrenBuffett" 0.000296824
+25:3 "U: nbcchicago" 0.000247353
+25:4 "U: UIMakerLab" 0.000197883
+25:5 "U: theskimm" 0.000197883
+25:6 "U: RollingStone" 0.000148412
+25:7 "U: JarlingsCU" 0.000148412
+25:8 "U: lordemusic" 0.000148412
+25:9 "U: ABC7Chicago" 0.000148412
+25:10 "U: NAHillinois" 0.000148412
+25:11 "U: TIMEHealth" 0.000148412
+25:12 "U: muse" 0.000148412
+25:13 "U: chicagoideas" 0.000148412
+25:14 "U: PaulMcCartney" 0.000148412
+25:15 "U: ELLEmagazine" 0.000148412
+25:16 "U: goodreads" 0.000148412
+26:1 "U: ACMSIGCAS" 0.00158306
+26:2 "U: BuzzFeed" 0.000395765
+26:3 "U: Philae2014" 0.000296824
+26:4 "U: NASAJPL" 0.000247353
+26:5 "U: TheAtlantic" 0.000197883
+26:6 "U: esa" 0.000197883
+26:7 "U: Pogue" 0.000197883
+26:8 "U: BuzzFeedNews" 0.000197883
+26:9 "U: MurrayNewlands" 0.000148412
+26:10 "U: Gladwell" 0.000148412
+26:11 "U: alispagnola" 0.000148412
+26:12 "U: sdxtech" 0.000148412
+26:13 "U: StationCDRKelly" 0.000148412
+26:14 "U: ICPCNews" 0.000148412
+27:1 "U: HeyJarai" 0.00158306
+27:2 "U: Snapchat" 0.000247353
+27:3 "U: espresso_royale" 0.000247353
+27:4 "U: PCMag" 0.000247353
+27:5 "U: Chase" 0.000247353
+27:6 "U: AppleMusic" 0.000247353
+27:7 "U: cnntech" 0.000197883
+27:8 "U: Samsungtweets" 0.000197883
+27:9 "U: MicrosoftEdge" 0.000197883
+27:10 "U: pcworld" 0.000197883
+27:11 "U: uialumninetwork" 0.000148412
+27:12 "U: thinkgeek" 0.000148412
+27:13 "U: pitbull" 0.000148412
+27:14 "U: windowsdev" 0.000148412
+28:1 "U: hrsanaie" 0.00128624
+28:2 "U: arduino" 0.000247353
+28:3 "U: GoogleAppsDev" 0.000247353
+28:4 "U: EFF" 0.000247353
+28:5 "U: DockerCon" 0.000197883
+28:6 "U: linuxacademyCOM" 0.000197883
+28:7 "U: Telegraph" 0.000197883
+28:8 "U: gruntjs" 0.000197883
+28:9 "U: opendns" 0.000197883
+28:10 "U: FreedomofPress" 0.000197883
+28:11 "U: emberjs" 0.000197883
+28:12 "U: TechCrunchOnion" 0.000148412
+28:13 "U: davidwalshblog" 0.000148412
+28:14 "U: NakedSecurity" 0.000148412
+28:15 "U: Ionicframework" 0.000148412
+28:16 "U: thetimes" 0.000148412
+29:1 "U: moreno8944" 0.00103888
+29:2 "U: mashable" 0.000544177
+29:3 "U: instagram" 0.000544177
+29:4 "U: TIME" 0.000494707
+29:5 "U: guardian" 0.000247353
+29:6 "U: IanMcKellen" 0.000247353
+29:7 "U: cnni" 0.000197883
+29:8 "U: JerrySeinfeld" 0.000148412
+29:9 "U: chrisrock" 0.000148412
+29:10 "U: TwitterMusic" 0.000148412
+29:11 "U: GoogleRetail" 0.000148412
+29:12 "U: twittertv" 0.000148412
+30:1 "U: marz_shin" 0.00123677
+30:2 "U: engadget" 0.00074206
+30:3 "U: mashabletech" 0.000296824
+30:4 "U: addyosmani" 0.000296824
+30:5 "U: guardiantech" 0.000247353
+30:6 "U: TripAdvisor" 0.000197883
+30:7 "U: ilikevests" 0.000197883
+30:8 "U: jure" 0.000197883
+30:9 "U: LeetCode" 0.000148412
+30:10 "U: feross" 0.000148412
+31:1 "U: elf101586" 0.00153359
+31:2 "U: AP" 0.000544177
+31:3 "U: HuffingtonPost" 0.000395765
+31:4 "U: NPR" 0.000296824
+31:5 "U: HistoryInPics" 0.000247353
+31:6 "U: ColIegeStudent" 0.000148412
+31:7 "U: Amazing_Maps" 0.000148412
+31:8 "U: YourAnonNews" 0.000148412
+31:9 "U: _Snape_" 9.89413e-05
+32:1 "U: vishaalganesan" 0.00148412
+32:2 "U: Nike" 0.000247353
+32:3 "U: kanyewest" 0.000197883
+32:4 "U: JamesFrancoTV" 0.000197883
+32:5 "U: aaronpaul_8" 0.000197883
+32:6 "U: jimmykimmel" 0.000197883
+32:7 "U: meghanmarkle" 0.000148412
+32:8 "U: TeamCoco" 0.000148412
+32:9 "U: KDTrey5" 0.000148412
+32:10 "U: chancetherapper" 0.000148412
+32:11 "U: MariaSharapova" 0.000148412
+32:12 "U: kobebryant" 4.94707e-05
+32:13 "U: CP3" 4.94707e-05
+32:14 "U: carmeloanthony" 4.94707e-05
+32:15 "U: JHarden13" 4.94707e-05
+33:1 "U: IL_Leadership" 0.00128624
+33:2 "U: FortuneMagazine" 0.000346295
+33:3 "U: YoungEnt" 0.000296824
+33:4 "U: UIllLRev" 0.000247353
+33:5 "U: FastCompany" 0.000247353
+33:6 "U: snodgrss" 0.000197883
+33:7 "U: IlliniNews1" 0.000197883
+33:8 "U: UIUC2017" 0.000148412
+33:9 "U: veerleop" 0.000148412
+33:10 "U: OccupyUIUC" 0.000148412
+33:11 "U: IlliniHockey" 0.000148412
+34:1 "U: pr_aravind" 0.00113783
+34:2 "U: narendramodi" 0.000346295
+34:3 "U: thoughtworks" 0.000247353
+34:4 "U: xdadevelopers" 0.000247353
+34:5 "U: RNTata2000" 0.000247353
+34:6 "U: MacRumors" 0.000247353
+34:7 "U: IBMbigdata" 0.000197883
+34:8 "U: ibmevents" 0.000148412
+34:9 "U: ibmdesign" 0.000148412
+34:10 "U: ValaAfshar" 0.000148412
+34:11 "U: OracleDatabase" 0.000148412
+34:12 "U: IBMAnalytics" 0.000148412
+35:1 "U: 45e88f1793b2441" 0.0011873
+35:2 "U: TheEllenShow" 0.000593648
+35:3 "U: Drake" 0.000247353
+35:4 "U: faribakhan" 0.000197883
+35:5 "U: danieltosh" 0.000148412
+35:6 "U: sameersundresh" 0.000148412
+35:7 "U: stk" 0.000148412
+35:8 "U: Atlassian" 9.89413e-05
+35:9 "U: gmodeloh" 9.89413e-05
+35:10 "U: ragibhasan" 9.89413e-05
+35:11 "U: el33th4xor" 9.89413e-05
+35:12 "U: SportsCenter" 9.89413e-05
+35:13 "U: tony" 4.94707e-05
+36:1 "U: edburns" 0.0011873
+36:2 "U: TwitterOSS" 0.000395765
+36:3 "U: BrendanEich" 0.000346295
+36:4 "U: alexbratton" 0.000197883
+36:5 "U: lessig" 0.000197883
+36:6 "U: defunkt" 0.000197883
+36:7 "U: dhh" 0.000197883
+36:8 "U: jboner" 0.000148412
+36:9 "U: nickrp" 0.000148412
+36:10 "U: Bountysource" 0.000148412
+37:1 "U: attorneywendel" 0.000593648
+37:2 "U: rgw3d" 0.000593648
+37:3 "U: sciam" 0.000346295
+37:4 "U: Space_Station" 0.000346295
+37:5 "U: AustralianOpen" 0.000197883
+37:6 "U: ISS_Research" 0.000197883
+37:7 "U: gitlost" 0.000197883
+37:8 "U: IlliniMTennis" 0.000148412
+37:9 "U: Wimbledon" 0.000148412
+37:10 "U: usopen" 0.000148412
+37:11 "U: MLB" 9.89413e-05
+38:1 "U: DeeMoe" 0.0011873
+38:2 "U: Pontifex" 0.000445236
+38:3 "U: NHLBlackhawks" 0.000395765
+38:4 "U: DalaiLama" 0.000296824
+38:5 "U: BreakingNews" 0.000197883
+38:6 "U: ChicagoBears" 0.000148412
+38:7 "U: jeffbarr" 0.000148412
+38:8 "U: Recode" 0.000148412
+39:1 "U: BernieSanders" 0.00074206
+39:2 "U: SenSanders" 0.000643119
+39:3 "U: TheStacksCat" 0.000544177
+39:4 "U: mahir256" 0.000445236
+39:5 "U: Wikipedia" 0.000197883
+39:6 "U: VP" 0.000148412
+39:7 "U: powersoffour" 0.000148412
+40:1 "U: DaengFN_Taj" 0.000939943
+40:2 "U: buzzindelhi" 0.000296824
+40:3 "U: CBSU_UIUC" 0.000247353
+40:4 "U: UIUCQuotes" 0.000197883
+40:5 "U: SocialInChicago" 0.000148412
+40:6 "U: UIUCAnimalBio" 0.000148412
+40:7 "U: AirAsia" 0.000148412
+40:8 "U: UniofOxford" 0.000148412
+40:9 "U: Cambridge_Uni" 9.89413e-05
+41:1 "U: ITAbuzz" 0.000890472
+41:2 "U: cta" 0.000247353
+41:3 "U: pivotal" 0.000197883
+41:4 "U: UILABS_" 0.000197883
+41:5 "U: UChicago" 0.000197883
+41:6 "U: DMDII_" 0.000148412
+41:7 "U: DRWTrading" 0.000148412
+41:8 "U: DataStax" 0.000148412
+41:9 "U: Accenture" 0.000148412
+42:1 "U: ChrisC_Pearson" 0.00103888
+42:2 "U: SWEtalk" 0.000395765
+42:3 "U: NSBE" 0.000197883
+42:4 "U: PurdueCS" 0.000197883
+42:5 "U: UTCompSci" 0.000197883
+42:6 "U: usedgov" 0.000197883
+43:1 "U: sage_corps" 0.00074206
+43:2 "U: buffer" 0.000247353
+43:3 "U: USATODAYcollege" 0.000247353
+43:4 "U: GoldmanSachs" 0.000197883
+43:5 "U: BrownCareerLAB" 0.000148412
+43:6 "U: TravelGov" 0.000148412
+43:7 "U: umsi" 0.000148412
+43:8 "U: SuB8u" 0.000148412
+43:9 "U: ColumbiaEship" 0.000148412
+44:1 "U: MSFTResearch" 0.000791531
+44:2 "U: ERP_edu" 0.000494707
+44:3 "U: NSAGov" 0.000197883
+44:4 "U: DHSgov" 0.000197883
+44:5 "U: TechatNYU" 0.000197883
+44:6 "U: CynthiaLIVE" 0.000148412
+44:7 "U: CarnegieMellon" 0.000148412
+45:1 "U: credcresearch" 0.000841001
+45:2 "U: DARPA" 0.000296824
+45:3 "U: AmerenIllinois" 0.000197883
+45:4 "U: USCERT_gov" 0.000197883
+45:5 "U: ENERGY" 0.000148412
+45:6 "U: TCIPG" 0.000148412
+45:7 "U: MITSloan" 0.000148412
+45:8 "U: argonne" 0.000148412
+46:1 "U: ksmit5a2" 0.00074206
+46:2 "U: FBI" 0.000197883
+46:3 "U: fodorstravel" 0.000148412
+46:4 "U: ambarmstrong" 0.000148412
+46:5 "U: JohnKerry" 0.000148412
+46:6 "U: SecretService" 0.000148412
+46:7 "U: ATT" 0.000148412
+46:8 "U: USAgov" 0.000148412
+46:9 "U: brianamarie132" 0.000148412
+46:10 "U: TEDchris" 0.000148412
+47:1 "U: AI_TCS" 0.000643119
+47:2 "U: JeffBezos" 0.000247353
+47:3 "U: solomonstre" 0.000197883
+47:4 "U: DataSciFact" 0.000197883
+47:5 "U: jtoy" 0.000197883
+47:6 "U: nikitab" 0.000148412
+47:7 "U: golan" 0.000148412
+47:8 "U: ronnyk" 0.000148412
+47:9 "U: NinjaEconomics" 0.000148412
+48:1 "U: vc1105" 0.000791531
+48:2 "U: amazon" 0.000346295
+48:3 "U: nytgraphics" 0.000148412
+48:4 "U: startupheads" 0.000148412
+48:5 "U: kevjumba" 0.000148412
+48:6 "U: uxmag" 0.000148412
+49:1 "U: 0xEnder" 0.000692589
+49:2 "U: SavedYouAClick" 0.000148412
+49:3 "U: adafruit" 0.000148412
+49:4 "U: imgur" 0.000148412
+49:5 "U: StrongBadActual" 0.000148412
+49:6 "U: nriley" 0.000148412
+49:7 "U: doctorow" 0.000148412
+50:1 "U: jtimberlake" 0.000593648
+50:2 "U: benlandis" 0.000296824
+50:3 "U: coursera" 0.000247353
+50:4 "U: lootcrate" 0.000197883
+51:1 "U: EmWatson" 0.000643119
+51:2 "U: AlessioXSorce" 0.000296824
+51:3 "U: britneyspears" 0.000197883
+51:4 "U: jessicaalba" 0.000148412
+52:1 "U: MuseumAdvocait" 0.000296824
+52:2 "U: whitehouseostp" 0.000247353
+52:3 "U: AlanTuringBr" 0.000247353
+52:4 "U: TechWomen" 0.000197883
+52:5 "U: kamilah" 0.000148412
+53:1 "U: bigdata_chile" 0.000247353
+53:2 "U: googleanalytics" 0.000247353
+53:3 "U: AxelKoster" 0.000197883
+53:4 "U: OneGmartin" 0.000148412
+53:5 "U: mattcutts" 0.000148412
+53:6 "U: BBCClick" 0.000148412
+54:1 "U: missmayim" 0.000148412
+54:2 "U: davidweiner23" 4.94707e-05
+*Links 493
+1 2 0.027011
+1 3 0.00747007
+1 4 0.0091026
+1 5 0.00588701
+1 6 0.00524389
+1 7 0.00440289
+1 8 0.00410607
+1 9 0.0028693
+1 10 0.00277036
+1 11 0.00247353
+1 12 0.00272089
+1 13 0.00173147
+1 14 0.00138518
+1 15 0.00207777
+1 16 0.00192936
+1 17 0.00153359
+1 18 0.00143465
+1 19 0.00153359
+1 20 0.00143465
+1 21 0.001682
+1 22 0.00197883
+1 23 0.00148412
+1 24 0.00163253
+1 25 0.000989413
+1 26 0.00148412
+1 27 0.0011873
+1 28 0.00163253
+1 29 0.00103888
+1 30 0.00133571
+1 31 0.00138518
+1 32 0.00143465
+1 33 0.000841001
+1 34 0.000939943
+1 35 0.000989413
+1 36 0.00128624
+1 37 0.00108835
+1 38 0.00113783
+1 39 0.00113783
+1 40 0.000197883
+1 41 0.000593648
+1 42 0.000544177
+1 43 0.000841001
+1 44 0.000445236
+1 45 0.000395765
+1 46 0.000197883
+1 47 0.000593648
+1 48 0.000692589
+1 49 0.000643119
+1 50 0.000247353
+1 51 0.000494707
+1 52 0.000346295
+1 53 4.94707e-05
+1 54 4.94707e-05
+2 3 0.000989413
+2 4 0.00232512
+2 5 0.00173147
+2 6 0.00148412
+2 7 0.00108835
+2 8 0.00163253
+2 9 0.00113783
+2 10 0.000494707
+2 11 0.000445236
+2 12 0.000197883
+2 13 0.000890472
+2 14 0.00123677
+2 15 0.000692589
+2 16 0.00128624
+2 17 0.000494707
+2 18 0.000148412
+2 19 0.000494707
+2 20 0.000296824
+2 21 0.00074206
+2 22 4.94707e-05
+2 23 0.000346295
+2 24 0.000395765
+2 25 0.000989413
+2 26 9.89413e-05
+2 27 0.000494707
+2 28 0.000148412
+2 29 0.000445236
+2 30 0.000247353
+2 31 0.000395765
+2 32 4.94707e-05
+2 33 0.000791531
+2 34 9.89413e-05
+2 35 0.000346295
+2 36 9.89413e-05
+2 37 0.000296824
+2 38 0.000197883
+2 39 0.000643119
+2 40 0.000643119
+2 41 0.000197883
+2 42 0.000494707
+2 43 9.89413e-05
+2 44 0.000148412
+2 45 0.000395765
+2 46 9.89413e-05
+2 47 0.000148412
+2 48 9.89413e-05
+2 49 9.89413e-05
+2 50 9.89413e-05
+2 51 0.000148412
+2 52 0.000148412
+2 53 9.89413e-05
+2 54 4.94707e-05
+3 4 0.00123677
+3 5 0.00148412
+3 6 0.00113783
+3 7 0.00143465
+3 8 0.000890472
+3 9 0.000247353
+3 10 0.000197883
+3 11 0.000247353
+3 12 0.000148412
+3 13 0.000296824
+3 14 0.000296824
+3 15 0.000247353
+3 16 4.94707e-05
+3 17 0.000197883
+3 18 0.000445236
+3 20 0.000544177
+3 21 9.89413e-05
+3 22 9.89413e-05
+3 23 0.000148412
+3 24 4.94707e-05
+3 26 0.000346295
+3 27 0.000247353
+3 28 9.89413e-05
+3 29 0.000247353
+3 30 0.000197883
+3 31 0.000247353
+3 34 0.000296824
+3 35 9.89413e-05
+3 36 4.94707e-05
+3 37 9.89413e-05
+3 38 4.94707e-05
+3 40 4.94707e-05
+3 41 4.94707e-05
+3 42 0.000346295
+3 43 4.94707e-05
+3 44 0.000346295
+3 46 0.000197883
+3 47 9.89413e-05
+3 52 0.000148412
+3 53 9.89413e-05
+4 5 0.00143465
+4 6 0.000939943
+4 7 4.94707e-05
+4 8 0.000197883
+4 9 0.000148412
+4 10 0.000148412
+4 11 0.000346295
+4 12 4.94707e-05
+4 13 0.000197883
+4 14 0.000445236
+4 15 9.89413e-05
+4 16 9.89413e-05
+4 17 0.000148412
+4 18 0.000346295
+4 19 0.000247353
+4 20 4.94707e-05
+4 21 0.000148412
+4 22 9.89413e-05
+4 23 4.94707e-05
+4 24 0.000296824
+4 25 0.000197883
+4 27 0.000197883
+4 29 0.000148412
+4 30 0.000197883
+4 31 4.94707e-05
+4 32 9.89413e-05
+4 33 0.000197883
+4 34 0.000247353
+4 35 9.89413e-05
+4 36 4.94707e-05
+4 37 9.89413e-05
+4 38 9.89413e-05
+4 39 4.94707e-05
+4 41 4.94707e-05
+4 44 4.94707e-05
+4 45 4.94707e-05
+4 46 4.94707e-05
+4 48 9.89413e-05
+4 50 9.89413e-05
+4 51 4.94707e-05
+5 6 0.000989413
+5 7 0.000346295
+5 8 0.000346295
+5 9 0.000494707
+5 10 0.000296824
+5 11 0.000197883
+5 12 4.94707e-05
+5 13 0.000148412
+5 15 0.000197883
+5 17 0.000296824
+5 19 0.000148412
+5 20 0.000197883
+5 21 4.94707e-05
+5 23 4.94707e-05
+5 24 0.000296824
+5 26 9.89413e-05
+5 27 0.000148412
+5 28 9.89413e-05
+5 29 0.000346295
+5 30 0.000148412
+5 31 0.000148412
+5 32 9.89413e-05
+5 33 0.000197883
+5 34 0.000197883
+5 35 4.94707e-05
+5 38 0.000197883
+5 39 4.94707e-05
+5 41 4.94707e-05
+5 42 4.94707e-05
+5 46 0.000247353
+5 47 4.94707e-05
+5 48 4.94707e-05
+5 50 0.000148412
+5 52 4.94707e-05
+5 53 0.000148412
+6 7 0.000148412
+6 8 0.000395765
+6 9 0.000247353
+6 10 4.94707e-05
+6 12 4.94707e-05
+6 13 9.89413e-05
+6 14 9.89413e-05
+6 15 4.94707e-05
+6 16 9.89413e-05
+6 18 4.94707e-05
+6 19 9.89413e-05
+6 20 0.000197883
+6 23 0.000148412
+6 24 4.94707e-05
+6 25 4.94707e-05
+6 27 4.94707e-05
+6 29 4.94707e-05
+6 31 9.89413e-05
+6 33 9.89413e-05
+6 35 4.94707e-05
+6 36 9.89413e-05
+6 38 0.000197883
+6 40 0.000296824
+6 41 0.000247353
+6 42 0.000148412
+6 43 0.000148412
+6 45 9.89413e-05
+7 8 4.94707e-05
+7 9 4.94707e-05
+7 10 9.89413e-05
+7 11 4.94707e-05
+7 12 0.000346295
+7 13 4.94707e-05
+7 15 4.94707e-05
+7 16 0.000148412
+7 17 9.89413e-05
+7 18 0.000296824
+7 19 4.94707e-05
+7 20 4.94707e-05
+7 21 4.94707e-05
+7 22 4.94707e-05
+7 23 9.89413e-05
+7 25 4.94707e-05
+7 26 4.94707e-05
+7 28 9.89413e-05
+7 30 4.94707e-05
+7 31 4.94707e-05
+7 32 4.94707e-05
+7 33 4.94707e-05
+7 38 4.94707e-05
+7 39 9.89413e-05
+7 41 4.94707e-05
+7 43 4.94707e-05
+7 44 0.000148412
+7 45 0.000148412
+7 46 0.000197883
+7 49 9.89413e-05
+7 50 4.94707e-05
+7 52 4.94707e-05
+8 9 0.000346295
+8 10 0.000148412
+8 11 4.94707e-05
+8 13 0.000296824
+8 14 4.94707e-05
+8 15 9.89413e-05
+8 16 4.94707e-05
+8 18 4.94707e-05
+8 20 4.94707e-05
+8 21 9.89413e-05
+8 24 4.94707e-05
+8 27 9.89413e-05
+8 29 4.94707e-05
+8 30 0.000197883
+8 31 9.89413e-05
+8 33 4.94707e-05
+8 38 4.94707e-05
+8 40 4.94707e-05
+8 44 4.94707e-05
+8 50 4.94707e-05
+9 10 0.000148412
+9 11 9.89413e-05
+9 12 4.94707e-05
+9 13 4.94707e-05
+9 14 0.000197883
+9 15 4.94707e-05
+9 20 9.89413e-05
+9 22 4.94707e-05
+9 24 4.94707e-05
+9 26 4.94707e-05
+9 27 4.94707e-05
+9 29 9.89413e-05
+9 30 4.94707e-05
+9 31 9.89413e-05
+9 33 4.94707e-05
+9 37 4.94707e-05
+9 41 4.94707e-05
+9 43 4.94707e-05
+9 44 4.94707e-05
+9 45 4.94707e-05
+9 47 0.000148412
+9 48 4.94707e-05
+9 51 4.94707e-05
+10 12 0.000197883
+10 13 0.000346295
+10 14 0.000148412
+10 15 4.94707e-05
+10 17 0.000148412
+10 18 0.000148412
+10 19 4.94707e-05
+10 20 4.94707e-05
+10 21 4.94707e-05
+10 23 4.94707e-05
+10 24 4.94707e-05
+10 26 4.94707e-05
+10 27 4.94707e-05
+10 29 4.94707e-05
+10 32 4.94707e-05
+10 34 4.94707e-05
+10 35 4.94707e-05
+10 36 4.94707e-05
+10 38 9.89413e-05
+10 44 4.94707e-05
+10 47 4.94707e-05
+10 48 4.94707e-05
+10 51 4.94707e-05
+10 53 4.94707e-05
+11 14 9.89413e-05
+11 15 0.000197883
+11 17 0.000197883
+11 19 0.000148412
+11 21 9.89413e-05
+11 22 4.94707e-05
+11 27 9.89413e-05
+11 28 0.000148412
+11 29 9.89413e-05
+11 32 4.94707e-05
+11 34 4.94707e-05
+11 35 9.89413e-05
+11 36 9.89413e-05
+11 43 4.94707e-05
+11 44 4.94707e-05
+11 50 9.89413e-05
+11 51 4.94707e-05
+11 53 4.94707e-05
+12 14 4.94707e-05
+12 15 9.89413e-05
+12 16 4.94707e-05
+12 19 4.94707e-05
+12 20 4.94707e-05
+12 21 4.94707e-05
+12 22 9.89413e-05
+12 23 9.89413e-05
+12 26 4.94707e-05
+12 28 4.94707e-05
+12 30 4.94707e-05
+12 31 4.94707e-05
+12 32 4.94707e-05
+12 34 9.89413e-05
+12 36 4.94707e-05
+12 41 4.94707e-05
+12 49 4.94707e-05
+12 51 4.94707e-05
+12 53 4.94707e-05
+13 14 9.89413e-05
+13 20 9.89413e-05
+13 22 4.94707e-05
+13 23 4.94707e-05
+13 27 9.89413e-05
+13 30 9.89413e-05
+13 44 4.94707e-05
+14 20 9.89413e-05
+14 21 4.94707e-05
+14 34 4.94707e-05
+14 43 4.94707e-05
+14 44 4.94707e-05
+14 45 4.94707e-05
+15 17 4.94707e-05
+15 20 4.94707e-05
+15 23 4.94707e-05
+15 26 4.94707e-05
+15 32 4.94707e-05
+15 36 9.89413e-05
+15 40 9.89413e-05
+15 44 4.94707e-05
+15 46 4.94707e-05
+16 19 4.94707e-05
+16 26 4.94707e-05
+16 33 4.94707e-05
+16 36 4.94707e-05
+16 39 4.94707e-05
+16 40 4.94707e-05
+16 45 4.94707e-05
+16 47 4.94707e-05
+17 19 0.000247353
+17 23 4.94707e-05
+17 24 9.89413e-05
+17 26 9.89413e-05
+17 27 4.94707e-05
+17 29 4.94707e-05
+17 32 4.94707e-05
+17 35 4.94707e-05
+17 50 4.94707e-05
+17 51 4.94707e-05
+18 23 9.89413e-05
+18 24 4.94707e-05
+18 26 9.89413e-05
+18 28 9.89413e-05
+18 34 9.89413e-05
+18 41 4.94707e-05
+18 45 4.94707e-05
+18 46 4.94707e-05
+19 25 0.000148412
+19 29 4.94707e-05
+19 35 9.89413e-05
+19 50 4.94707e-05
+19 51 4.94707e-05
+20 21 4.94707e-05
+20 23 4.94707e-05
+20 25 4.94707e-05
+20 26 4.94707e-05
+20 29 9.89413e-05
+20 34 4.94707e-05
+20 42 4.94707e-05
+20 47 9.89413e-05
+21 28 4.94707e-05
+21 39 9.89413e-05
+22 28 4.94707e-05
+22 30 9.89413e-05
+22 34 4.94707e-05
+22 36 9.89413e-05
+22 37 4.94707e-05
+22 48 4.94707e-05
+23 25 9.89413e-05
+23 28 9.89413e-05
+23 41 4.94707e-05
+23 42 4.94707e-05
+23 48 4.94707e-05
+24 25 9.89413e-05
+24 29 4.94707e-05
+24 50 4.94707e-05
+25 39 4.94707e-05
+25 40 4.94707e-05
+25 41 4.94707e-05
+25 42 4.94707e-05
+25 45 4.94707e-05
+26 31 4.94707e-05
+26 37 9.89413e-05
+26 38 4.94707e-05
+26 48 4.94707e-05
+26 50 4.94707e-05
+26 53 4.94707e-05
+27 30 4.94707e-05
+27 40 9.89413e-05
+28 29 4.94707e-05
+28 36 4.94707e-05
+29 31 4.94707e-05
+29 46 4.94707e-05
+30 37 4.94707e-05
+30 38 4.94707e-05
+31 48 4.94707e-05
+32 37 9.89413e-05
+33 34 9.89413e-05
+35 45 4.94707e-05
+35 50 4.94707e-05
+36 38 4.94707e-05
+36 45 4.94707e-05
+36 47 4.94707e-05
+36 49 4.94707e-05
+38 49 4.94707e-05
+40 41 4.94707e-05
+43 44 4.94707e-05
+44 46 4.94707e-05
+46 53 4.94707e-05
