@@ -9,14 +9,15 @@ import tweepy
 import emotion
 import sqlite3 as lite
 import sys
+import keys
 
 
-consumer_key = 'XRH8Wd2ZaDhAUmA5kEY5qGTrp'
-consumer_secret = '0rWg61r9DOMGFLXq5ebgLnDRC8xHqV1dgZYyaPVdwGO0sa6f4v'
-access_token = '3154159514-wPdXqU9ayRiFEkzjfHVmFqVuDzQdK5SYJbsymH6'
-access_token_secret = 'KzRfzz9AHDkjB2r15dPsXcaqxzzkSGF5qDeTtnRveOEDn'
-auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
-auth.set_access_token(access_token,access_token_secret)
+CONSUMER_KEY = keys.CONSUMER_KEY
+CONSUMER_SECRET = keys.CONSUMER_SECRET
+ACCESS_TOKEN = keys.ACCESS_TOKEN
+ACCESS_TOKEN_SECRET = keys.ACCESS_TOKEN_SECRET
+auth = tweepy.OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
+auth.set_access_token(ACCESS_TOKEN,ACCESS_TOKEN_SECRET)
 
 api = tweepy.API(auth)
 

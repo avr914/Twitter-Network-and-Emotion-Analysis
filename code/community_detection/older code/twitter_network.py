@@ -14,12 +14,13 @@ import os
 import json
 import argparse
 import csv
+import keys
 
 # Twitter Credentials
-CONSUMER_KEY = 'XRH8Wd2ZaDhAUmA5kEY5qGTrp'
-CONSUMER_SECRET = '0rWg61r9DOMGFLXq5ebgLnDRC8xHqV1dgZYyaPVdwGO0sa6f4v'
-ACCESS_TOKEN = '3154159514-wPdXqU9ayRiFEkzjfHVmFqVuDzQdK5SYJbsymH6'
-ACCESS_TOKEN_SECRET = 'KzRfzz9AHDkjB2r15dPsXcaqxzzkSGF5qDeTtnRveOEDn'
+CONSUMER_KEY = keys.CONSUMER_KEY
+CONSUMER_SECRET = keys.CONSUMER_SECRET
+ACCESS_TOKEN = keys.ACCESS_TOKEN
+ACCESS_TOKEN_SECRET = keys.ACCESS_TOKEN_SECRET
 
 # OAuth Authentication
 auth = tweepy.OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)

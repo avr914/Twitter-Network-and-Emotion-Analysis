@@ -7,6 +7,7 @@
 *.log
 *.sql
 *.sqlite
+*.idea
 
 # OS generated files #
 ######################
@@ -25,3 +26,7 @@ code/taynaud-python-louvain-6f0236d61e21
 code/some_alchemy_stuff
 code/Infomap.zip
 code/alchemyapi_python
+
+# Credentials #
+###############
+code/keys.py

@@ -5,6 +5,7 @@ import os
 import json
 import csv
 import traceback
+import keys
 
 FOLLOWING_DIR = os.path.abspath('following')
 TWITTER_USERS_DIR = os.path.abspath('twitter-users')
@@ -18,10 +19,10 @@ if not os.path.exists(FOLLOWING_DIR):
 if not os.path.exists(TWITTER_USERS_DIR):
     os.makedirs(TWITTER_USERS_DIR)
 
-CONSUMER_KEY = 'XRH8Wd2ZaDhAUmA5kEY5qGTrp'
-CONSUMER_SECRET = '0rWg61r9DOMGFLXq5ebgLnDRC8xHqV1dgZYyaPVdwGO0sa6f4v'
-ACCESS_TOKEN = '3154159514-wPdXqU9ayRiFEkzjfHVmFqVuDzQdK5SYJbsymH6'
-ACCESS_TOKEN_SECRET = 'KzRfzz9AHDkjB2r15dPsXcaqxzzkSGF5qDeTtnRveOEDn'
+CONSUMER_KEY = keys.CONSUMER_KEY
+CONSUMER_SECRET = keys.CONSUMER_SECRET
+ACCESS_TOKEN = keys.ACCESS_TOKEN
+ACCESS_TOKEN_SECRET = keys.ACCESS_TOKEN_SECRET
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN,ACCESS_TOKEN_SECRET)
