@@ -1,7 +1,0 @@
-Sublime Text - Extra JSON Comments
-
-"pep8_ignore":
-[
-    "E501",
-    "W191"
-],

@@ -1,0 +1,27 @@
+# Compiled Source #
+###################
+*.class
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Library/External Tool Files #
+###############################
+code/Infomap
+code/taynaud-python-louvain-6f0236d61e21
+code/some_alchemy_stuff
+code/Infomap.zip
+code/alchemyapi_python
