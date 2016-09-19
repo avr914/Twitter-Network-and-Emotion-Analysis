@@ -1,3 +1,4 @@
+Note: README file is in progress
 Twitter Network and Emotion Analysis
 ===================
 
